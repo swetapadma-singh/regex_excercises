@@ -1,0 +1,21 @@
+Medical Report
+
+Patient Name: John Doe Age: 35 Gender: Male Date: 2026-04-30
+
+Chief Complaints: - Fever for 3 days - Mild cough - Fatigue
+
+Vital Signs: - Temperature: 101.2°F - Blood Pressure: 120/80 mmHg -
+Heart Rate: 88 bpm - Oxygen Saturation: 97%
+
+Laboratory Results: - Hemoglobin: 13.5 g/dL - WBC Count: 9,000
+cells/mcL - Platelets: 250,000 /mcL - Blood Sugar (Fasting): 95 mg/dL
+
+Diagnosis: - Viral Fever
+
+Prescribed Medication: - Paracetamol 500 mg (twice daily) - Cough syrup
+(10 ml twice daily) - Rest and hydration advised
+
+Doctor’s Remarks: Patient is stable. No signs of severe infection.
+Follow-up recommended after 5 days if symptoms persist.
+
+Doctor Name: Dr. A. Sharma

@@ -1,0 +1,268 @@
+{
+    "names": {
+        "entities": [
+            {
+                "canonical_name": "A. Hospitalization",
+                "variants": [
+                    "A. Hospitalization"
+                ],
+                "role": "unknown"
+            },
+            {
+                "canonical_name": "SAGIT",
+                "variants": [
+                    "SAGIT"
+                ],
+                "role": "unknown"
+            },
+            {
+                "canonical_name": "Brian Rice",
+                "variants": [
+                    "Rice",
+                    "Brian Rice"
+                ],
+                "role": "unknown"
+            },
+            {
+                "canonical_name": "Thisisa 39",
+                "variants": [
+                    "Thisisa 39"
+                ],
+                "role": "unknown"
+            },
+            {
+                "canonical_name": "Andrea Cir",
+                "variants": [
+                    "Andrea Cir"
+                ],
+                "role": "doctor"
+            },
+            {
+                "canonical_name": "Ashley Walters Smith",
+                "variants": [
+                    "Ashley Walters Smith"
+                ],
+                "role": "unknown"
+            },
+            {
+                "canonical_name": "Riceon 01/20/2025",
+                "variants": [
+                    "Riceon 01/20/2025"
+                ],
+                "role": "unknown"
+            },
+            {
+                "canonical_name": "Reviewof Diagnostic",
+                "variants": [
+                    "Reviewof Diagnostic"
+                ],
+                "role": "unknown"
+            },
+            {
+                "canonical_name": "Lake Mary",
+                "variants": [
+                    "Lake Mary"
+                ],
+                "role": "unknown"
+            },
+            {
+                "canonical_name": "Tel",
+                "variants": [
+                    "Tel"
+                ],
+                "role": "unknown"
+            }
+        ]
+    },
+    "dates": [
+        {
+            "text": "01/20/2025",
+            "normalized": "2025-01-20",
+            "type": "unknown",
+            "start": 5513,
+            "end": 5523
+        },
+        {
+            "text": "01/27/2025",
+            "normalized": "2025-01-27",
+            "type": "service_date",
+            "start": 258,
+            "end": 268
+        },
+        {
+            "text": "01/27/2025",
+            "normalized": "2025-01-27",
+            "type": "unknown",
+            "start": 2086,
+            "end": 2096
+        },
+        {
+            "text": "01/27/2025",
+            "normalized": "2025-01-27",
+            "type": "report_date",
+            "start": 2256,
+            "end": 2266
+        },
+        {
+            "text": "01/27/2025",
+            "normalized": "2025-01-27",
+            "type": "unknown",
+            "start": 2487,
+            "end": 2497
+        },
+        {
+            "text": "01/27/2025",
+            "normalized": "2025-01-27",
+            "type": "service_date",
+            "start": 2726,
+            "end": 2736
+        },
+        {
+            "text": "01/27/2025",
+            "normalized": "2025-01-27",
+            "type": "service_date",
+            "start": 2767,
+            "end": 2777
+        },
+        {
+            "text": "11/28/2025",
+            "normalized": "2025-11-28",
+            "type": "report_date",
+            "start": 2384,
+            "end": 2394
+        },
+        {
+            "text": "11/28/2025",
+            "normalized": "2025-11-28",
+            "type": "report_date",
+            "start": 2895,
+            "end": 2905
+        },
+        {
+            "text": "11/28/2025",
+            "normalized": "2025-11-28",
+            "type": "report_date",
+            "start": 5291,
+            "end": 5301
+        },
+        {
+            "text": "11/28/2025",
+            "normalized": "2025-11-28",
+            "type": "report_date",
+            "start": 7513,
+            "end": 7523
+        },
+        {
+            "text": "11/28/2025",
+            "normalized": "2025-11-28",
+            "type": "report_date",
+            "start": 8001,
+            "end": 8011
+        },
+        {
+            "text": "01/29/2025",
+            "normalized": "2025-01-29",
+            "type": "service_date",
+            "start": 4837,
+            "end": 4847
+        },
+        {
+            "text": "01/29/2025",
+            "normalized": "2025-01-29",
+            "type": "unknown",
+            "start": 5087,
+            "end": 5097
+        },
+        {
+            "text": "01/29/2025",
+            "normalized": "2025-01-29",
+            "type": "report_date",
+            "start": 5163,
+            "end": 5173
+        },
+        {
+            "text": "01/29/2025",
+            "normalized": "2025-01-29",
+            "type": "service_date",
+            "start": 7334,
+            "end": 7344
+        },
+        {
+            "text": "01/29/2025",
+            "normalized": "2025-01-29",
+            "type": "report_date",
+            "start": 7385,
+            "end": 7395
+        },
+        {
+            "text": "01/29/2025",
+            "normalized": "2025-01-29",
+            "type": "service_date",
+            "start": 7822,
+            "end": 7832
+        },
+        {
+            "text": "01/29/2025",
+            "normalized": "2025-01-29",
+            "type": "report_date",
+            "start": 7873,
+            "end": 7883
+        },
+        {
+            "text": "09/18/1985",
+            "normalized": "1985-09-18",
+            "type": "service_date",
+            "start": 217,
+            "end": 227
+        },
+        {
+            "text": "09/18/1985",
+            "normalized": "1985-09-18",
+            "type": "service_date",
+            "start": 2685,
+            "end": 2695
+        },
+        {
+            "text": "09/18/1985",
+            "normalized": "1985-09-18",
+            "type": "service_date",
+            "start": 4796,
+            "end": 4806
+        },
+        {
+            "text": "09/18/1985",
+            "normalized": "1985-09-18",
+            "type": "dob",
+            "start": 4884,
+            "end": 4894
+        },
+        {
+            "text": "09/18/1985",
+            "normalized": "1985-09-18",
+            "type": "service_date",
+            "start": 7293,
+            "end": 7303
+        },
+        {
+            "text": "09/18/1985",
+            "normalized": "1985-09-18",
+            "type": "service_date",
+            "start": 7781,
+            "end": 7791
+        },
+        {
+            "text": "01/30/2025",
+            "normalized": "2025-01-30",
+            "type": "dob",
+            "start": 7244,
+            "end": 7254
+        },
+        {
+            "text": "01/15/2025",
+            "normalized": "2025-01-15",
+            "type": "unknown",
+            "start": 3526,
+            "end": 3536
+        }
+    ]
+}
