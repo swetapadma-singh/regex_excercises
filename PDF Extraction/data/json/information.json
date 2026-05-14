@@ -1,0 +1,22 @@
+{
+    "patient_info": {
+        "name": "| Nombre del Paciente : Divardy Polanco",
+        "dob": "9/18/1985",
+        "age": "39",
+        "gender": "Male",
+        "phone_number": "863-271-4600",
+        "address": "P.O. Box 4111"
+    },
+    "hospital_details": {
+        "hospital_name": "Complete Care Centers",
+        "visited_doctors": [
+            "Dr. Luis Lopez Rodriguez, D.C.",
+            "Dr. Carlie Brush, D.C.",
+            "Dr. Brian Rice, D.C.",
+            "Dr. Stephanie Weiland, D.C."
+        ]
+    },
+    "diagnosis": {
+        "disease_names": null
+    }
+}

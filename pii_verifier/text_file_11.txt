@@ -1,0 +1,135 @@
+== EXTRACT PAGE 1 ==
+
+New York Chiropractic & Injury Center 100 Dummy Street, City A, State 12345 New York FL 10001 Phone:555-000-0001
+
+# Robert Williams D.C INITIAL EVALUATION
+
+PATIENT NAME: Alice Johnson DATE OF BIRTH: 01/01/1990 DATE OF INJURY: 01/15/2025 DATE OF SERVICE: 03/04/2025 Mr. Alice Johnson is being treated in this office for injuries sustained in a vehicular collision on 01/15/2025. DETAILS OF COLLISION AND PATIENT HISTORY Mr. Alice Johnson provided the following information regarding the particulars of the incident. The patient states he was the driver of a vehicle and was wearing a seat belt. The patient states he was at a complete stop during traffic and was struck in the rear. He states it was a right rear impact. The patient states he was looking straight ahead. He states he felt neck pain, mid back pain, lower back pain and left shoulder pain right away. The patient states he had bruises in the back of his left arm. He states he works as a BMW parts advisor and has missed two weeks of work. The patient reports seeking treatment at St. Mary's Hospital and complete care in Winter Haven. The patient reports no change in symptoms so far. Since the collision the patient has had problems with stretching, housework, work activities, sexual activities and hobbies. The patient reports having a prior accident. Following is a brief description of that accident: “The patient states he had a previous auto accident in 2016, at that time he states he did not sustained injuries or had continous pain.” Mr. Alice Johnson also reports having a second accident. Following is a brief description of that accident: “The patient states he had a previous motorcycle accident in 2022, at that time he states he sustained injuries to his lower back. The patient states he had therapy and has not had continued pain since then.”
+
+SYMPTOMS The patient reports the following complaints. NECK PAIN This symptom came on immediately. The intensity of this complaint is moderate; meaning it inhibits activity. The frequency of this complaint is continuous, or occurs 80% to 100% of the time. On a scale fromoto 10, with 10 being the highest possible level of pain, patient graded the pain as 6. Patient describes the feeling associated with this complaint as sharp and aching. MID BACK PAIN This symptom came on immediately. The intensity of this complaint is moderate; meaning it inhibits activity. The frequency of this complaint is continuous, or occurs 80% to 100% of the time. On a scale fromoto 10, with 10 being the highest possible level of pain, patient graded the pain as 6. Patient describes the feeling associated with this complaint as sharp and aching. LOWER BACK PAIN This symptom came on immediately. The intensity of this complaint is moderate; meaning it inhibits activity. The frequency of this complaint is continuous, or occurs 80% to 100% of the time. On a scale fromoto 10, with 10 being the highest possible level of pain, patient graded the pain as 6. Patient describes the feeling associated with this complaint as sharp, aching, and tingling. Radiates to both legs. SHOULDER PAIN LEFT This symptom came on immediately. The intensity of this complaint is moderate; meaning it inhibits activity. The frequency of this complaint is continuous, or occurs 80% to 100% of the time. On a scale fromoto 10, with 10 being the highest possible level of pain, patient graded the pain as 5. Patient describes the feeling associated with this complaint as aching.
+
+# PAST MEDICAL HISTORY
+
+- • \*None. PAST SURGICAL HISTORY
+
+- • Right toe removal due to being born with 6 toes.
+
+- • Wisdom tooth removal x3. ALLERGIES
+
+- • \*None. CURRENT MEDICATIONS
+
+- • \*None. SOCIAL HISTORY Mr. Alice Johnson states that he never smoked. REVIEW OF SYSTEMS General: Recent weight gain or loss: negative; Skin: negative; HEENT: negative; Cardiovascular: negative; Pulmonary: negative; Gastrointestinal: negative; Genitourinary: negative; Lymphatic: negative; Endocrine: negative; Neurological: negative PHYSICAL EXAMINATION The patient’s vital signs are:
+
+- • Height: 6’0”
+
+- • Weight: 150 LBS General/Constitutional: Gait: Pain and Guarded. Posture: High right shoulder and high right pelvis. MUSCULOSKELETAL EXAMINATION SPINE There was tenderness to digital palpation and muscle tension on paracervical bilateral, parathoracic bilateral, and paralumbar bilateral of the spine. There was muscle hypertonicity present on paracervical bilateral, parathoracic bilateral, and paralumbar bilateral of the spine. Trigger points are located on paracervical bilateral, parathoracic bilateral, and paralumbar bilateral. Subluxations are noted at the following levels: C5, C6, T2, T3, T4, L3, and L4. SHOULDERS There was tenderness to digital palpation and muscle tension on the left shoulder. There was muscle hypertonicity present on the left shoulder. RANGE OF MOTION
+
+- • Cervical Spine: Reduced on extension, flexion, lateral bending bilaterally, and rotation bilaterally. Patient states pain on extension, flexion, lateral bending bilaterally, and rotation bilaterally.
+
+- • Lumbar Spine: Reduced on lateral bending bilaterally. Patient states pain on lateral bending bilaterally.
+
+MANUAL MUSCLE TESTING UPPER EXTREMITIES Muscles of the upper extremities were found to be normal. LOWER EXTREMITIES Muscles of the lower extremities were found to be normal.
+
+# ORTHOPEDIC SIGNS CERVICAL TESTS
+
+PATIENT NAME: Alice Johnson DATE OF BIRTH: 01/01/1990 DATE OF INJURY: 01/15/2025 DATE OF SERVICE: 03/04/2025
+
+Cervical Compression Test: Negative. Foraminal Compression Test: Positive bilaterally. Shoulder Depression Maneuver: Positive bilaterally. LUMBAR TESTS
+
+Bechterew’s Sitting Test: Positive. Kemp’s Test: Positive on the right.
+
+NEUROLOGICAL EXAMINATION The patient was alert and fully oriented. Affect appeared appropriate to the situation. DERMATOMES The upper extremities dermatomes were tested and found to be within normal limits. L4: Pinwheel testing of the L4 dermatome on the right demonstrated increased sensation when compared to the opposite side. L5: Pinwheel testing of the L5 dermatome on the right demonstrated increased sensation when compared to the
+
+opposite side. DIAGNOSIS
+
+- • (S13.4XXA) Sprain of ligaments of cervical spine, initial encounter.
+
+- • (S23.3XXA) Sprain of ligaments of thoracic spine, initial encounter.
+
+- • (S34.21XA) Lumbar nerve root injury, initial encounter.
+
+- • (S43.402A) Sprain of left shoulder, initial encounter. TREATMENT Treatment today consisted of the following procedures and therapies:
+
+- • New Patient Exam; level 3, performed today.
+
+- • Electrical muscle stimulation (G0283) was applied to the neck and low back for 10 minutes to reduce pain.
+
+- • Hot/cold packs (97010) applied to the neck and low back for 10 minutes to promote blood flow and healing. GOALS AND RECOMMENDATIONS
+
+- • Patient should return in 1 day for a report of findings.
+
+- • Patient may be comanaged by Dr Emma Davis DC.
+
+- • Treatment goals: return to normal activity within 9 weeks.
+
+- • Hospital records are being requested due to history of trauma.
+
+- • Medical records are being requested due to history of trauma.
+
+PROGNOSIS It is my professional opinion that the prognosis for Mr. Alice Johnson is guarded. This concludes the initial report for Mr. Alice Johnson. Please feel free to contact me with any questions or concerns. Sincerely,
+
+<figure>
+<img src="odl_mistral_19e97c96cfdc4697bebd69035e7a4a07_images/imageFile1.png" alt="image 1" />
+<figcaption aria-hidden="true">image 1</figcaption>
+</figure>
+
+Robert Williams, DC
+
+Page 3 of 3
+
+== EXTRACT PAGE 2 ==
+
+• *None. PAST SURGICAL HISTORY • Right toe removal due to being born with 6 toes. • Wisdom tooth removal x3. ALLERGIES •* None. CURRENT MEDICATIONS • \*None. SOCIAL HISTORY Mr. Alice Johnson states that he never smoked. REVIEW OF SYSTEMS General: Recent weight gain or loss: negative; Skin: negative; HEENT: negative; Cardiovascular: negative; Pulmonary: negative; Gastrointestinal: negative; Genitourinary: negative; Lymphatic: negative; Endocrine: negative; Neurological: negative PHYSICAL EXAMINATION The patient’s vital signs are: • Height: 6’0” • Weight: 150 LBS General/Constitutional: Gait: Pain and Guarded. Posture: High right shoulder and high right pelvis.
+
+MUSCULOSKELETAL EXAMINATION SPINE There was tenderness to digital palpation and muscle tension on paracervical bilateral, parathoracic bilateral, and paralumbar bilateral of the spine. There was muscle hypertonicity present on paracervical bilateral, parathoracic bilateral, and paralumbar bilateral of the spine. Trigger points are located on paracervical bilateral, parathoracic bilateral, and paralumbar bilateral. Subluxations are noted at the following levels: C5, C6, T2, T3, T4, L3, and L4. SHOULDERS There was tenderness to digital palpation and muscle tension on the left shoulder. There was muscle hypertonicity present on the left shoulder.
+
+RANGE OF MOTION • Cervical Spine: Reduced on extension, flexion, lateral bending bilaterally, and rotation bilaterally. Patient states pain on extension, flexion, lateral bending bilaterally, and rotation bilaterally. • Lumbar Spine: Reduced on lateral bending bilaterally. Patient states pain on lateral bending bilaterally.
+
+MANUAL MUSCLE TESTING UPPER EXTREMITIES Muscles of the upper extremities were found to be normal. LOWER EXTREMITIES Muscles of the lower extremities were found to be normal.
+
+ORTHOPEDIC SIGNS CERVICAL TESTS
+
+== EXTRACT PAGE 3 ==
+
+PATIENT NAME: Alice Johnson DATE OF BIRTH: 01/01/1990 DATE OF INJURY: 01/15/2025 DATE OF SERVICE: 03/04/2025
+
+Cervical Compression Test: Negative. Foraminal Compression Test: Positive bilaterally. Shoulder Depression Maneuver: Positive bilaterally.
+
+LUMBAR TESTS Bechterew’s Sitting Test: Positive. Kemp’s Test: Positive on the right.
+
+## NEUROLOGICAL EXAMINATION
+
+The patient was alert and fully oriented. Affect appeared appropriate to the situation.
+
+## DERMATOMES
+
+The upper extremities dermatomes were tested and found to be within normal limits.
+
+L4: Pinwheel testing of the L4 dermatome on the right demonstrated increased sensation when compared to the opposite side. L5: Pinwheel testing of the L5 dermatome on the right demonstrated increased sensation when compared to the opposite side.
+
+## DIAGNOSIS
+
+- (S13.4XXA) Sprain of ligaments of cervical spine, initial encounter.
+- (S23.3XXA) Sprain of ligaments of thoracic spine, initial encounter.
+- (S34.21XA) Lumbar nerve root injury, initial encounter.
+- (S43.402A) Sprain of left shoulder, initial encounter.
+
+## TREATMENT
+
+Treatment today consisted of the following procedures and therapies: - New Patient Exam; level 3, performed today. - Electrical muscle stimulation (G0283) was applied to the neck and low back for 10 minutes to reduce pain. - Hot/cold packs (97010) applied to the neck and low back for 10 minutes to promote blood flow and healing.
+
+## GOALS AND RECOMMENDATIONS
+
+- Patient should return in 1 day for a report of findings.
+- Patient may be comanaged by Dr Emma Davis DC.
+- Treatment goals: return to normal activity within 9 weeks.
+- Hospital records are being requested due to history of trauma.
+- Medical records are being requested due to history of trauma.
+
+## PROGNOSIS
+
+It is my professional opinion that the prognosis for Mr. Alice Johnson is guarded. This concludes the initial report for Mr. Alice Johnson. Please feel free to contact me with any questions or concerns. Sincerely,
+
+Robert Williams, DC
+
+Page 3 of 3

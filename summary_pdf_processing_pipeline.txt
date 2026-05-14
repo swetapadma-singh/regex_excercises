@@ -1,0 +1,284 @@
+Architecture
+============
+backend/
+	pipeline/
+		main.py
+		pipeline.py
+		summerize.py
+		ica-workflow/
+			pdf_splitting_pipeline.py
+		extraction/
+		embedding-engine/
+		pii-handler/
+		ica-workflow/
+		llm-caller/
+		library/
+
+
+Workflow
+========
+
+main.py
+=======
+The main product flow starts with main.py
+It is the job-level command-line entrypoint.
+usage -> python backend/pipeline/main.py <job_id>
+
+The <job_id> comes from the database.
+A <job_id> of a job contains one or more `DemandFile` records.
+
+Then `main.py` creates or finds a `Task` for each demand file.
+Each demand file is passed into `run_pipeline(...)` in `pipeline.py`.
+
+- For each demand file:
+  - Find its task.
+  - Mark the task as `in_progress`.
+  - Load `pii-handler/dummy_values.json`.
+  - Load `pii-handler/groq_prompt.txt` if it exists.
+  - Call `run_pipeline(...)`.
+  - Combine sanitized chunks into `sanitized_full.txt`.
+  - Run summary generation.
+  - Run three-phase fallback summarization if the first summary is too short.
+  - Restore original PII values into the final summary.
+  - Mark the task completed or failed.
+  - Mark the demand file summarized.
+
+Basically `main.py` combines sanitized chunks, summarizes the sanitized text, restores PII in the final summary, and stores the result in the database.
+
+If there are no new demand files, it calls `get_summarized_demand_files_for_job(job_id)` and tries to summarize again from existing output directories rather than re-running extraction and PII replacement.
+
+pipeline.py
+===========
+It is the file-level orchestrator(that controls and manages the flow of a program).
+It receives one `DemandFile` id and produces all extraction, chunking, PII, embedding, handover, and metadata artifacts for that file.
+
+run_pipeline(
+    demand_file_id: str,  (id of the `DemandFile`)
+    output_base_dir: str = ".",  (Path of a folder where output will store)
+    chunk_size: int = 5,	(chunk page size)
+    groq_prompt: str | None = None,	(prompt to give LLM)
+    use_groq: bool = False,
+    dummy_values_file: str | None = None,
+    mapping_file: str | None = None,
+    task_id: str | None = None,
+    job_id: str | None = None,
+    log_level: str = "INFO",
+    filename: str | None = None,
+) -> dict
+
+pdf_splitting_pipeline.py
+=========================
+Its workflow is like(step-by-step):
+-> Reads a local pdf path (opens the PDF file from your computer)
+-> extracts markdown (takes text from the PDF and converts it into clean readable format)
+-> chunks the markdown (The big extracted text is divided into smaller pieces)
+-> asks an LLM to classify pages/documents (The AI checks each page and decides what type of document it is)
+-> builds a page map (The system creates page mapping like Prescription → Pages 1-2, Lab Report → Pages 3-5, .... etc)
+-> generates document file names (The system automatically creates names for new files like prescription.pdf, lab_report.pdf, .... etc)
+-> splits the original PDF into multiple output PDFs (The big PDF is cut into smaller separate PDFs)
+
+python backend/pipeline/ica-workflow/pdf_splitting_pipeline.py "C:\path\to\file.pdf" --output out.md
+
+main.py flow in detail
+======================
+	-> First checks `sys.argv`(The program checks what information was given when running the file from terminal)
+	-> If user forgets to give the required job id, program shows help message and stops.
+	-> Then it saves its own process number(PID-Process ID) with `os.getpid()` so the system can track which running program handled the task.
+
+	-> The job is loaded with `get_job_by_id(job_id)` (If it does not exist, the process exits)
+	-> `mark_job_in_progress(job_id)` updates the job state
+	-> `create_tasks_for_job(job_id)` creates task rows for demand files that need processing
+	-> `get_demand_files_for_job(job_id)` returns files that still need processing (If it returns nothing, `main.py` does not immediately fail. 	It checks `get_summarized_demand_files_for_job(job_id)`)
+	-> When demand files are available, `main.py` processes them one by one through `run_pipeline(...)`. After a successful pipeline run, 	`main.py` handles user-facing summary output
+	-> If `combine_sanitized_chunks` was loaded successfully from `pii-handler/combine_chunks.py`, `main.py` calls it with:
+		chunks_dir = Path(result["output_directory"]) / "chunks"
+		combine_sanitized_chunks(chunks_dir)
+	-> This reads `chunk_XXXX_s.txt` files, sorts them by chunk number, and writes a complete sanitized document to:
+		<output_directory>/sanitized_full.txt
+	-> Summary generation prefers the gateway summarizer if available:
+		1. `pii-handler/gateway_summarize.py`
+		2. fallback to `pii-handler/summerize.py`
+	The summary doc type is resolved by `_resolve_summary_doc_type(...)`. If the summary has fewer words than `SUMMARY_MIN_WORDS` (default `40`), 	`main.py` runs `run_three_phase(...)` from `chunk_summary.py`
+	-> Summaries are generated from sanitized text, so they may contain dummy PII values. Before saving to the database, `main.py` loads: 
+		<output_directory>/pii_mapping.json
+	and calls `restore_pii_in_text(...)` from `pii-handler/reverse_replace_pii.py`. This replaces dummy values back to original values in the 	summary text
+	-> On success, `main.py` calls:
+		`mark_task_completed(...)` (passing output directory, page count, summary text, and prompt version id when available)
+		`mark_demand_file_summarized(...)` (storing the output directory on the demand file)
+		`check_and_update_job_status(job_id)` (after all files are processed)
+	-> On failure, it calls `mark_task_failed(...)` for the task or `mark_job_failed(...)` for critical job-level errors
+	-> `_maybe_gateway_cooldown(...)` sleeps for 30 seconds between document-level summary calls when the gateway summarizer is active. This 	reduces pressure on the external summary endpoint
+
+pipeline.py flow in detail
+==========================
+	-> `run_pipeline(...)` returns a result dictionary with top-level status, counts, output paths, and per-stage booleans
+	-> Several directories use hyphens in their names, such as `pii-handler`, `llm-caller`, and `embedding-engine`. Python cannot import those as 	normal package names, so `pipeline.py` uses `_load_module(module_name, file_path)` to load them by file path
+	-> `pipeline.py` imports task/job repository functions when available. These are used for in-pipeline status updates
+
+Pipeline Stage 1: Fetch And Extract PDF
+=======================================
+	-> The stage calls `fetch_pdf_from_database(demand_file_id)`
+	-> That function Looks up the file path from `DemandFile.filePath`, falling back to `Task.filePath`. Resolves the path with 	`_resolve_pdf_path(...)`. Reads the PDF bytes from disk
+	-> Once bytes are loaded, extraction is done by extract_text_by_page(pdf_content) from `extractor/odl_mistral_pandoc.py`. The output is a 	list of page text strings, one string per PDF page
+	-> Failure behavior: Logs `STEP 1 FAILED`, Returns `([], False)`, `run_pipeline(...)` stops and returns `error="PDF extraction failed"`
+
+Pipeline Stage 2: Save Raw Pages And Create Chunks
+==================================================
+	-> This stage delegates to `pii-handler/pdf_extract_chunks.py`
+	-> It performs:
+		1. `create_output_directory(pdf_filename)` -> (Creates a unique output directory for this file)
+		2. `save_raw_pages(pages, output_dir)` -> (Writes extracted pages into `rawpages/`, Adds page markers so downstream chunking and LLM 							context can preserve page boundaries)
+		3. `create_chunks(marked_pages, chunk_size, output_dir)` -> (Groups pages into chunk files, Default from `main.py` is `5` pages per 							chunk, Each chunk metadata record includes chunk id, file path, start page, end page, and 							page count)
+	-> Typical outputs:
+		<output_directory>/rawpages/page_XXXX.txt
+		<output_directory>/chunks/chunk_XXXX.txt
+	-> Failure behavior: Logs `STEP 2 FAILED`, Returns no chunks, `run_pipeline(...)` stops with `error="Chunk creation failed"`
+
+Pipeline Stage 2B: Embedding Chunks And Vector Storage
+======================================================
+	-> This optional stage builds semantic chunks from raw pages and stores vectors in ChromaDB
+
+Pipeline Stage 3: PII Detection
+===============================
+	-> This stage produces a PII dictionary per chunk:
+		{
+    			1: {"Person Name": ["..."], "Phone": ["..."]},
+    			2: {"Hospital": ["..."]},
+		}
+	-> If `use_groq=True`, a prompt is available, and the shared `llm-caller` controller loaded successfully, the pipeline uses parallel LLM 		calls
+	-> `_build_parallel_pii_tasks(...)` creates one task per chunk. Each task includes: `task_id`, `chunk_id`, `task_type="pii_detection"`, 	provider name, prompt, text content
+	-> Supported provider branches in this file: `bedrock`, `deepinfra`, fallback branch for Cerebras-style multi-key execution. The controller 	uses provider-specific environment variables
+	-> If the shared controller is not available, `step_3_detect_pii(...)` loops over chunks sequentially. For each chunk:
+		1. It reads the chunk text
+		2. It prepends previous chunk context using `merge_with_previous_chunk_context(...)`
+		3. It calls `generate_json_from_groq(...)` when a prompt and generator are available
+		4. Otherwise it calls `find_pii_values(...)`, which may return dummy/test PII values
+	-> PII and page classification can depend on whether a page continues from the previous page. Before calling the LLM, the pipeline prepends 	the last page from the previous chunk, capped at 4000 characters:
+		OLDER CONTENT (Previous Chunk Last Page):
+		CURRENT CHUNK:
+	This helps the LLM classify continuation pages without sending the entire previous chunk
+	-> LLM responses may contain fenced code blocks or text around JSON. `_parse_llm_json_output(...)` handles: raw JSON, markdown fenced JSON, 	JSON embedded inside extra text. Then `_normalize_pii_dict(...)` standardizes the shape
+	-> Before normalization, the raw LLM output is passed to: _append_page_map(output_dir, chunk_id, pii_result_raw). This lets 	`page_map_builder.py` build page/document maps from raw model output without changing the PII replacement input. Typical outputs:
+		<output_directory>/chunks/chunk_XXXX_pii.json
+		<output_directory>/chunks/chunk_XXXX_page_map.json
+		<output_directory>/page_map.json
+	Failure behavior: If a chunk-level LLM call fails, that chunk receives `_get_dummy_pii()`. If the whole stage fails unexpectedly, 	`run_pipeline(...)` stops with `error="PII detection failed"`.
+
+Pipeline Stage 4: PII Replacement And Sanitization
+==================================================
+	-> This stage replaces original PII values with dummy values using `PIIReplacer` from `pii-handler/replace_pii2.py`
+
+Pipeline Stage 4.5: Handover Detection And Subdocuments
+=======================================================
+	-> After PII replacement, `run_pipeline(...)` optionally detects emergency department handover sections.
+	
+Pipeline Stage 5: Metadata And Chunk Manifest
+=============================================
+	-> This creates `metadata.json` with one record per chunk: `chunk_id`, `start_page`, `end_page`, `num_pages`, `character_count`, 	`word_count`, `line_count`, `timestamp`
+	-> Output: <output_directory>/metadata.json
+	-> After metadata is saved, `_save_chunks_info_json(...)` writes a downstream summarization manifest: 	<output_directory>/chunks/chunks_info.json
+
+Output Directory Layout
+=======================
+	-> A successful run usually creates a directory similar to: 
+		<output_directory>/
+  			rawpages/
+    				page_0001.txt
+    				page_0002.txt
+  			chunks/
+    				chunk_0001.txt
+    				chunk_0001_pii.json
+    				chunk_0001_s.txt
+    				chunk_0001_page_map.json
+    				chunks_info.json
+  			embedding_chunks/
+  			pii_mapping.json
+  			page_map.json
+  			metadata.json
+  			sanitized_full.txt
+  			handover_segments.json
+  			Summarized_text.txt
+	-> Not every file is guaranteed. Optional stages may be skipped when dependencies, API keys, or input files are unavailable.
+
+Page Map Contract
+=================
+	-> `page_map.json` is generated from raw LLM output before PII normalization
+	-> Chunk-level page maps are written to: <output_directory>/chunks/chunk_XXXX_page_map.json
+	-> The global page map is written to: <output_directory>/page_map.json
+	-> The page map generally contains:
+		{
+  			"documents": [
+    				{"doc_id": "medical_report", "pages": ["1", "2"]}
+  			],
+  			"pages": [
+    				{
+      					"page_no": "1",
+      					"doc_id": "medical_report",
+      					"category": {
+        					"matching_category": "Medical Report"
+      					},
+      					"continuation": {
+        					"prev_page_continued": "false"
+      					}
+    				}
+  			]
+		}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

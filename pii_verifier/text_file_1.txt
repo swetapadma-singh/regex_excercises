@@ -1,0 +1,316 @@
+== EXTRACT PAGE 1 ==
+
+<figure>
+<img src="odl_mistral_b0057cbe936a4fcfb5ce2923bb8e618c_images/imageFile1.png" alt="image 1" />
+<figcaption aria-hidden="true">image 1</figcaption>
+</figure>
+
+## AFTER VISIT SUMMARY
+
+### Alice Johnson MRN: MR-DUMMY-000001
+
+1/15/2025 St. Mary's Hospital555-000-0003
+
+You are allergic to the following
+
+## Instructions
+
+## Today’s Visit
+
+You were seen by Robert Williams, APRN
+
+Take medications as prescribed for pain. May also use Tylenol, heat, ice, over-the-counter topicals such as diclofenac and/or lidocaine. Anticipate that pain will worsen on day 2 following injury before it starts to improve. Follow-up with PCP for persistent symptoms. Return to ED for any new or worsening symptoms.
+
+Reason for Visit
+
+- • •
+- • • •
+
+Motor Vehicle Crash Back Pain
+
+Diagnoses
+
+Cervical strain, acute, initial encounter
+
+Your medications have changed
+
+Thoracic myofascial strain, initial encounter
+
+START taking:
+
+Motor vehicle collision victim, initial encounter
+
+cyclobenzaprine (Flexeril) ketorolac (Toradol)
+
+Imaging Tests
+
+Review your updated medication list below.
+
+CT CERVICAL SPINE WO IV CONTRAST
+
+Pick up these medications at WALGREENS DRUG STORE \#04708 - New York - 100 Dummy Street, City A, State 12345 AT SWC COUNTY RD 17 & US 27
+
+CT HEAD WO IV CONTRAST CT THORACIC SPINE WO IV CONTRAST
+
+- • cyclobenzaprine 10 MG tablet Your estimated payment per fill: \$1
+- • ketorolac 10 MG tablet Your estimated payment per fill: \$10
+
+Medications Given
+
+HYDROcodone-acetaminophen (Norco) Last given at 2:18 PM
+
+Address: 100 Dummy Street, City A, State 12345, New York 10001 Phone:555-000-0004
+
+ketorolac (Toradol) Last given at 2:18 PM
+
+Blood Pressure 98.1 °F
+
+Temperature
+
+What’s Next
+
+135/80
+
+You currently have no upcoming appointments scheduled.
+
+Pulse
+
+Respiration
+
+77
+
+16
+
+Oxygen Saturation
+
+100%
+
+You are allergic to the following
+
+No active allergies
+
+TAKE these medicationsASK your doctor about these medications
+
+# Your Medication List
+
+TAKE these medications
+
+cyclobenzaprine 10 MG tablet Commonly known as: Flexeril
+
+Take 1 tablet (10 mg total) by mouth 2 (two) times a day if needed for muscle spasms.
+
+ketorolac 10 MG tablet Commonly known as: Toradol
+
+Take 1 tablet (10 mg total) by mouth every 6 (six) hours if needed for moderate pain for up to 5 days.
+
+ASK your doctor about these medications
+
+#### hydrOXYzine HCl 25 MG tablet Commonly known as: Atarax
+
+Take 1 tablet (25 mg total) by mouth every 8 (eight) hours if needed for itching.
+
+ibuprofen 600 MG tablet Take 1 tablet (600 mg total) by mouth every 6 (six)
+
+hours if needed for moderate pain.
+
+County General Hospital
+
+To connect and view your health records, send messages to your doctor, renew your prescriptions, schedule appointments, and more, create an account by downloading our app or going to https://account.County General Hospital.com/ register/
+
+<figure>
+<img src="odl_mistral_b0057cbe936a4fcfb5ce2923bb8e618c_images/imageFile2.png" alt="image 2" />
+<figcaption aria-hidden="true">image 2</figcaption>
+</figure>
+
+<figure>
+<img src="odl_mistral_b0057cbe936a4fcfb5ce2923bb8e618c_images/imageFile3.png" alt="image 3" />
+<figcaption aria-hidden="true">image 3</figcaption>
+</figure>
+
+<figure>
+<img src="odl_mistral_b0057cbe936a4fcfb5ce2923bb8e618c_images/imageFile4.png" alt="image 4" />
+<figcaption aria-hidden="true">image 4</figcaption>
+</figure>
+
+<figure>
+<img src="odl_mistral_b0057cbe936a4fcfb5ce2923bb8e618c_images/imageFile5.png" alt="image 5" />
+<figcaption aria-hidden="true">image 5</figcaption>
+</figure>
+
+== EXTRACT PAGE 2 ==
+
+Alice Johnson (MRN: MR-DUMMY-000001) • Printed by \[10542\] at 1/15/2025  3:08 PM Page 2 of 2
+
+Your Medication List
+
+cyclobenzaprine 10 MG tablet Commonly known as: Flexeril
+
+Take 1 tablet (10 mg total) by mouth 2 (two) times a day if needed for muscle spasms.
+
+ketorolac 10 MG tablet Commonly known as: Toradol
+
+Take 1 tablet (10 mg total) by mouth every 6 (six) hours if needed for moderate pain for up to 5 days.
+
+hydrOXYzine HCl 25 MG tablet Commonly known as: Atarax
+
+Take 1 tablet (25 mg total) by mouth every 8 (eight) hours if needed for itching.
+
+ibuprofen 600 MG tablet Take 1 tablet (600 mg total) by mouth every 6 (six) hours if needed for moderate pain.
+
+To connect and view your health records, send messages to your doctor, renew your prescriptions, schedule appointments, and more, create an account by downloading our app or going to https://account.County General Hospital.com/ register/
+
+TAKE these medications ASK your doctor about these medications
+
+County General Hospital
+
+ASK your doctor about these medications
+
+TAKE these medications
+
+== EXTRACT PAGE 3 ==
+
+From INT PHYS MED Tue Mar 18 09:09:42 2025 Page 5 of 77
+
+# County General Hospital
+
+Patient Demographics
+
+| Name | Patient ID | SSN | Gender Identity | Birth Date |
+|----|----|----|----|----|
+| Alice Johnson | MR-DUMMY-000001 | 999-99-9001 | Male | 01/01/1990 |
+| Address |  | Phone | E-mail |  |
+| 200 Sample Lane, City B, State 67890 |  |555-000-0001 (M) | dummy1@example.com |  |
+| New York 90001 |  |555-000-0001 (H) |  |  |
+| PCP |  |  |  |  |
+
+Emma Davis, DO
+
+County General Hospital Patient: Alice Johnson DOB: 01/01/1990 MRN: MR-DUMMY-000001 Report Date: 01/21/2025 Gender: Male Page 1 of 4
+
+== EXTRACT PAGE 4 ==
+
+From INT PHYS MED Tue Mar 18 09:09:42 2025 Page 6 of 77
+
+# 01/15/2025 - St. Mary's Hospital
+
+## Patient Demographics
+
+| Name | Patient ID | SSN | Gender Identity | Birth Date |
+|----|----|----|----|----|
+| Alice Johnson | MR-DUMMY-000001 | 999-99-9001 | Male | 01/01/1990 |
+| Address |  | Phone | E-mail |  |
+| 200 Sample Lane, City B, State 67890 |  |555-000-0001 (M) | dummy1@example.com |  |
+| New York |  |555-000-0001 (H) |  |  |
+| 90001 |  |  |  |  |
+| PCP |  |  |  |  |
+| Emma Davis, DO |  |  |  |  |
+
+## Admission Information
+
+| Attending Provider | Admitting Provider |
+|----|----|
+|  |  |
+| Admission Date/Time | Discharge Date/Time |
+| — | — |
+| 01/15/2025 01:52:00 PM | 01/15/2025 03:24:00 PM |
+| Hospital Area |  |
+| — |  |
+| St. Mary's Hospital |  |
+
+## Primary Coverage
+
+| Group Number | Subscriber ID |
+|--------------|---------------|
+|              |               |
+
+County General Hospital St. Mary's Hospital Patient: Alice Johnson DOB: 01/01/1990 Admit Date/Date of Service: 01/15/2025 Discharge Date: 01/15/2025 MRN: MR-DUMMY-000001 HAR: Report Date: 01/21/2025 Gender: Male Page 2 of 4
+
+== EXTRACT PAGE 5 ==
+
+From INT PHYS MED Tue Mar 18 09:09:42 2025 Page 7 of 77
+
+# Imaging
+
+## CT Head WO IV Contrast
+
+Narrative 01/15/2025 02:32 PM
+
+EXAM: CT HEAD WO IV CONTRAST
+
+CLINICAL INDICATION: Trauma.
+
+TECHNIQUE: Helical CT images from skull base to vertex without IV contrast.
+
+This exam was performed using one or more of the following dose reduction techniques: Automated exposure control, adjustment of the mA and/or kV according to patient size, or use of iterative reconstruction technique.
+
+COMPARISON: None.
+
+FINDINGS:
+
+- Surgical/Devices/Scout: None.
+- Parenchyma: No acute infarction. No parenchymal hemorrhage. No mass or mass effect.
+- Extra-axial Collection: None
+- Ventricles: No hydrocephalus.
+- Dural Venous Sinuses: Normal
+- Bones/Soft tissues: Normal
+- Included Orbits: Normal
+- Paranasal Sinuses: Predominantly clear
+- Tympanomastoid Cavities: Predominantly clear.
+- Other: None
+
+Comment:
+
+## CT Head WO IV Contrast
+
+Impression 01/15/2025 02:32 PM
+
+No acute intracranial abnormality.
+
+Created by: James Miller
+
+Signed by: James Miller
+
+Signed on: 1/15/2025 2:38 PM
+
+Location: HOFDIAG
+
+Comment:
+
+## CT Cervical Spine WO IV Contrast
+
+Narrative 01/15/2025 02:35 PM
+
+EXAM: CT CERVICAL SPINE WO IV CONTRAST
+
+CLINICAL INDICATION: Trauma.
+
+TECHNIQUE: Helical CT examination of the cervical spine without IV contrast. Axial, sagittal, and coronal reconstructed images. This exam was performed using one or more of the following dose reduction techniques: Automated exposure control, adjustment of the mA and/or kV according to patient size, or use of iterative reconstruction technique.
+
+COMPARISON: None.
+
+FINDINGS:
+
+- Alignment: Maintained
+- Vertebral Bodies: No acute displaced fracture.
+
+AdventHealth St. Mary's Hospital Patient: Alice Johnson DOB: 01/01/1990 Admit Date/Date of Service: 01/15/2025 Discharge Date: 01/15/2025 Report Date: 01/21/2025 MRN: MR-DUMMY-000001 HAR: Gender: Male HAR:
+
+== EXTRACT PAGE 6 ==
+
+From INT PHYS MED Tue Mar 18 09:09:42 2025 Page 8 of 77
+
+Intervertebral Discs: Preservation of disc height. Craniocervical Junction: Unremarkable. Included Intracranial Structures: Unremarkable where visualized. Paraspinal Soft Tissues: No acute abnormality. Included Lung Apices: No acute abnormality. Individual Levels: Multilevel degenerative changes of the cervical spine with prominent disc bulges at C5-C6 and C6-C7 contacting the ventral cord. Scattered mild multilevel neural foraminal narrowing. Comment:
+
+CT Cervical Spine WO IV Contrast
+
+Impression 01/15/2025 02:35 PM No acute fracture or traumatic malalignment of the cervical spine. Degenerative cervical spondylosis. Created by: James Miller Signed by: James Miller Signed on: 1/15/2025 2:41 PM Location: HOFDIAG Comment:
+
+CT Thoracic Spine WO IV Contrast
+
+Narrative 01/15/2025 02:35 PM EXAM: CT THORACIC SPINE WO IV CONTRAST HISTORY: Trauma COMPARISON: There are no relevant prior studies available for comparison. This exam was performed using one or more of the following dose reduction techniques: Automated exposure control, adjustment of the mA and/or kV according to patient size, or use of iterative reconstruction technique. TECHNIQUE: Standard CT of the Thoracic Spine was performed without IV contrast. FINDINGS: There is normal vertebral body height and alignment. There are no apparent fractures or subluxations identified. There is no marked osseous spinal canal stenosis or neuroforaminal narrowing noted. Comment:
+
+CT Thoracic Spine WO IV Contrast
+
+Impression 01/15/2025 02:35 PM Normal CT of the thoracic spine. Created by: Olivia Wilson. Signed by: Olivia Wilson. Signed on: 1/15/2025 2:43 PM Location: RIS04597 Comment:
+
+AdventHealth St. Mary's Hospital Patient: Alice Johnson DOB: 01/01/1990 Admit Date/Date of Service: 01/15/2025 Discharge Date: 01/15/2025 Report Date: 01/21/2025 MRN: MR-DUMMY-000001 HAR: Gender: Male HAR:

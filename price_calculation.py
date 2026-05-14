@@ -4,7 +4,7 @@ import requests
 from bs4 import BeautifulSoup
 from groq import Groq
 
-client = Groq(api_key="API_KEY")
+client = Groq()
 
 # ---------------- CSV ----------------
 def get_prices_from_csv(file):

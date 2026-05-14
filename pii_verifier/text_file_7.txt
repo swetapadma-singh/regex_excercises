@@ -1,0 +1,115 @@
+== EXTRACT PAGE 1 ==
+
+St. Mary's Hospital REVIEWED Alice Johnson 02/12/2025 02:40:27 PM EST St. Mary's Hospital.com \|555-000-0001 New York: 200 Sample Lane, City B, State 67890 Chicago: 100 Dummy Street, City A, State 12345 Houston: 300 Test Avenue, City C, State 11111 Los Angeles: 400 Placeholder Road, City D, State 22222
+
+Patient Name: Robert Williams Referring Physician: Alice Johnson Procedure: MRI LT SHOULDER W/O Patient ID: MR-DUMMY-000001 Date of Birth: 01/01/1990 Date of Study: 10-Feb-2025 8:11 AM
+
+# EXAM: MRI OF THE LEFT SHOULDER WITHOUT IV CONTRAST
+
+CLINICAL INDICATION: Motor vehicle collision 1/15/2025 with persistent left shoulder pain and muscle weakness.
+
+TECHNIQUE: Multiplanar multisequence MR imaging of the left shoulder was performed.
+
+COMPARISON: No priors.
+
+RESULTS:
+
+## OSSEOUS STRUCTURES:
+
+Marrow signal throughout the included osseous structures is unremarkable.
+
+Minimal enthesial cystic lesion deep to the interspinous attachment.
+
+## ROTATOR CUFF:
+
+Evaluation of the rotator cuff demonstrates mild increased intrasubstance signal within the supraspinatus and infraspinatus tendons compatible with posttraumatic contusion and/or tendinosis.
+
+No extensive partial thickness or full-thickness tear. No retraction.
+
+The rotator cuff muscle bellies demonstrate normal signal intensity and bulk.
+
+## BICEPS TENDON:
+
+The extra-articular segment of the long head of the biceps tendon is well seated within the bicipital groove.
+
+There is no evidence for tear or tendinopathy of the intra- or extra-articular segments of the long head of the biceps tendon identified.
+
+## GLENOID LABRUM:
+
+Focal mildly displaced tear involving the superior and anterosuperior labrum with associated paralabral cyst measuring 10 mm x 9 mm (coronal 6, axial 13, sagittal 6).
+
+Mild to moderate fraying of the superior and posterosuperior labrum.
+
+## GLENOHUMERAL COMPARTMENT ARTICULAR CARTILAGE:
+
+There are no significant degenerative changes of the glenoid labrum identified. The articular cartilage of the glenoid is well preserved. There is no focus of high-grade chondral loss or injury to the humeral head articular cartilage identified.
+
+## ACROMIOCLAVICULAR JOINT:
+
+Acromioclavicular joint demonstrates mild to moderate arthritic changes. Mild lateral downsloping.
+
+Type I-2 acromion on sagittal view. Coracoacromial and coracoclavicular ligaments are intact.
+
+## BURSA, ROTATOR INTERVAL, AND JOINT CAPSULE:
+
+There is no subacromial or subdeltoid bursal fluid identified.
+
+IMPRESSION:
+
+If you would like to speak to a radiologist regarding this report, please call:555-000-0002 page 1 of 4
+
+== EXTRACT PAGE 2 ==
+
+St. Mary's Hospital St. Mary's Hospital.com \|555-000-0001 New York: 200 Sample Lane, City B, State 67890 Chicago: 100 Dummy Street, City A, State 12345 Houston: 300 Test Avenue, City C, State 11111 Los Angeles: 400 Placeholder Road, City D, State 22222
+
+Patient Name: Robert Williams Referring Physician: Alice Johnson Procedure: MRI LT SHOULDER W/O
+
+Patient ID: MR-DUMMY-000001 Date of Birth: 01/01/1990 Date of Study: 10-Feb-2025 8:11 AM
+
+1.  Mildly displaced tear involving the superior and anterosuperior labrum with associated paralabral cyst measuring 10 mm x 9 mm.
+2.  Mild to moderate acromioclavicular joint arthritic changes.
+3.  Mild supraspinatus and infraspinatus tendinosis and/or posttraumatic contusion. No extensive partial thickness or full-thickness tear.
+
+Electronically signed by: Emma Davis MD 2/10/2025 5:06 PM EST
+
+![](img-0.jpeg) Emma Davis
+
+<figure>
+<img src="img-1.jpeg" alt="img-1.jpeg" />
+<figcaption aria-hidden="true">img-1.jpeg</figcaption>
+</figure>
+
+If you would like to speak to a radiologist regarding this report, please call:555-000-0002
+
+== EXTRACT PAGE 3 ==
+
+<figure>
+<img src="img-0.jpeg" alt="img-0.jpeg" />
+<figcaption aria-hidden="true">img-0.jpeg</figcaption>
+</figure>
+
+<figure>
+<img src="img-1.jpeg" alt="img-1.jpeg" />
+<figcaption aria-hidden="true">img-1.jpeg</figcaption>
+</figure>
+
+If you would like to speak to a radiologist regarding this report, please call:555-000-0002 page 3 of 4
+
+<figure>
+<img src="img-0.jpeg" alt="img-0.jpeg" />
+<figcaption aria-hidden="true">img-0.jpeg</figcaption>
+</figure>
+
+== EXTRACT PAGE 4 ==
+
+<figure>
+<img src="img-0.jpeg" alt="img-0.jpeg" />
+<figcaption aria-hidden="true">img-0.jpeg</figcaption>
+</figure>
+
+<figure>
+<img src="img-1.jpeg" alt="img-1.jpeg" />
+<figcaption aria-hidden="true">img-1.jpeg</figcaption>
+</figure>
+
+If you would like to speak to a radiologist regarding this report, please call:555-000-0002 page 4 of 4

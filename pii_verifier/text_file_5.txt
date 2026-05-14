@@ -1,0 +1,282 @@
+== EXTRACT PAGE 1 ==
+
+REVIEWED Alice Johnson 02/06/2025 10:46:54 AM EST
+
+St. Mary's Hospital
+
+St. Mary's Hospital.com \|555-000-0001 New York: 200 Sample Lane, City B, State 67890 Chicago: 100 Dummy Street, City A, State 12345 Houston: 300 Test Avenue, City C, State 11111 Los Angeles: 400 Placeholder Road, City D, State 22222
+
+Patient Name: Robert Williams Patient ID: MR-DUMMY-000001 Referring Physician: Emma Davis. Date of Birth: 01/01/1990 Procedure: MRI CERVICAL SPINE W/O Date of Study: 03-Feb-2025 8:46 AM
+
+EXAM: MRI CERVICAL SPINE WITHOUT IV CONTRAST.
+
+HISTORY: MVA 1/15/2025
+
+TECHNIQUE: Axial and sagittal images multi-weighted sequences of the cervical spine were obtained.
+
+COMPARISON: None.
+
+# FINDINGS:
+
+POSTERIOR FOSSA AND BRAIN STEM: Unremarkable. The cerebellar tonsils terminate in normal position without a Chiari malformation.
+
+SPINAL CORD: Normal cord signal characteristics without edema or myelomalacia from the cervical medullary junction to the visualized upper thoracic cord.
+
+OSSEOUS STRUCTURES: Vertebral bodies are normal height without fractures.
+
+ALIGNMENT: Straightening of the normal cervical lordosis which may reflect muscle spasm.
+
+BONE MARROW: There are Modic type I changes at C7-T1.
+
+PARASPINAL SOFT TISSUES: Paraspinal soft tissues are unremarkable.
+
+C1-C2: No abnormalities are seen. The spinal canal and foramina are patent.
+
+C2-C3: There is no disc bulge. There is no neural foraminal narrowing. There is no spinal canal stenosis.
+
+C3-C4: There is a 3 mm posterior disc protrusion. There is bilateral neural foraminal narrowing. There is impingement on bilateral exiting nerve roots. There is no spinal canal stenosis.
+
+C4-C5: There is a 3 mm posterior disc protrusion. There is no neural foraminal narrowing. There is no spinal canal stenosis.
+
+C5-C6: There is a 3-4 mm posterior disc protrusion. There is a central annular fissure. There is no neural foraminal narrowing. There is no spinal canal stenosis.
+
+C6-C7: There is a 3 mm posterior disc protrusion. There is left neural foraminal narrowing. There is no spinal canal stenosis.
+
+C7-T1: There is a 3 mm posterior disc protrusion. There is bilateral neural foraminal narrowing. There is impingement on bilateral exiting nerve roots. There is no spinal canal stenosis.
+
+# IMPRESSION:
+
+Multilevel disc pathology with neural foraminal narrowing as detailed above.
+
+No spinal canal stenosis
+
+Straightening of the cervical spine possibly related to muscle spasm/strain.
+
+Normal cervical spinal cord signal intensity.
+
+If you would like to speak to a radiologist regarding this report, please call:555-000-0002
+
+== EXTRACT PAGE 2 ==
+
+St. Mary's Hospital
+
+St. Mary's Hospital.com \|555-000-0001
+
+New York: 200 Sample Lane, City B, State 67890
+
+Chicago: 100 Dummy Street, City A, State 12345
+
+Houston: 300 Test Avenue, City C, State 11111
+
+Los Angeles: 400 Placeholder Road, City D, State 22222
+
+Patient Name: Robert Williams Referring Physician: Emma Davis. Procedure: MRI CERVICAL SPINE W/O
+
+Patient ID: MR-DUMMY-000001 Date of Birth: 01/01/1990 Date of Study: 03-Feb-2025 8:46 AM
+
+The descriptions/nomenclature of any reported disc pathology, specifically, with respect to the definitions of a disc bulge or disc herniation (protrusion type disc herniation and/or extruded disc herniation\] is based on the recommendations from the following peer reviewed journal article: Lumbar Disc Nomenclature: version 2.0: Recommendations of the combined task forces of the North American Spine Society, the American Society of Spine Radiology and the American Society of Neuroradiology. Spine J. 2014 Nov 1;14(11):2525-45. Any references to causation and permanency follow the guidelines established by the American medical Association Guides to the Evaluation of Permanent Impairment, Sixth Edition, 2023. It should be noted that a normal MRI does not exclude certain pathologies that may be difficult to diagnose radiographically including certain pathologies involving small localized nerves and facet joints. A normal MRI does not exclude the possibility of certain abnormalities that may be only detected with a thorough physical examination and clinical history.
+
+Electronically signed by: James Miller, MD 2/3/2025 4:06 PM EST
+
+<figure>
+<img src="img-0.jpeg" alt="img-0.jpeg" />
+<figcaption aria-hidden="true">img-0.jpeg</figcaption>
+</figure>
+
+<figure>
+<img src="img-1.jpeg" alt="img-1.jpeg" />
+<figcaption aria-hidden="true">img-1.jpeg</figcaption>
+</figure>
+
+If you would like to speak to a radiologist regarding this report, please call:555-000-0002
+
+== EXTRACT PAGE 3 ==
+
+REVIEWED
+
+Alice Johnson 02/06/2025 10:48:22 AM EST
+
+^{}\[\]
+
+St. Mary's Hospital
+
+St. Mary's Hospital.com \|555-000-0001
+
+New York: 200 Sample Lane, City B, State 67890
+
+Chicago: 100 Dummy Street, City A, State 12345
+
+Houston: 300 Test Avenue, City C, State 11111
+
+Los Angeles: 400 Placeholder Road, City D, State 22222
+
+Patient Name: Robert Williams Patient ID: MR-DUMMY-000001 Referring Physician: Emma Davis. Date of Birth: 01/01/1990 Procedure: MRI THORACIC SPINE W/O Date of Study: 03-Feb-2025 8:55 AM
+
+EXAM: MRI THORACIC SPINE W/O
+
+HISTORY: Mid back pain post motor vehicle collision on 1/15/2025.
+
+TECHNIQUE: This MR study consists of multiple sagittal and axial images of the thoracic spine obtained.
+
+COMPARISON: None.
+
+# FINDINGS:
+
+SPINAL CORD: Normal cord signal characteristics without edema or myelomalacia. The conus terminates in normal position.
+
+OSSEOUS STRUCTURES: Vertebral bodies are normal height. Schmorl’s nodes at T9 and T10.
+
+ALIGNMENT: No vertebral body listhesis is present.
+
+BONE MARROW: Modic type I changes at T2 and T3 endplates.
+
+PARASPINAL SOFT TISSUES: Paraspinal soft tissues are unremarkable.
+
+# INTERVERTEBRAL DISCS:
+
+T1-T2: No disc herniation, central canal, or foraminal stenosis. T2-T3: No disc herniation, central canal, or foraminal stenosis. T3-T4: No disc herniation, central canal, or foraminal stenosis. T4-T5: No disc herniation, central canal, or foraminal stenosis. T5-T6: No disc herniation, central canal, or foraminal stenosis. T6-T7: No disc herniation, central canal, or foraminal stenosis. T7-T8: No disc herniation, central canal, or foraminal stenosis. T8-T9: No disc herniation, central canal, or foraminal stenosis. T9-T10: No disc herniation, central canal, or foraminal stenosis. T10-T11: No disc herniation, central canal, or foraminal stenosis. T11-T12: No disc herniation, central canal, or foraminal stenosis. T12-L1: No disc herniation, central canal, or foraminal stenosis.
+
+# IMPRESSION:
+
+Schmorl’s nodes at T9 and T10 and Modic type I changes at T2 and T3 endplates. Otherwise, unremarkable MRI of the thoracic spine.
+
+The descriptions/nomenclature of any reported disc pathology, specifically with respect to the definitions of a disc bulge or disc herniation (protrusion type disc herniation and/or extruded disc herniation), is based on the recommendations from the following peer reviewed journal article: Lumbar Disc Nomenclature: version 2.0: Recommendations of the combined task forces of the North American Spine Society, the American Society of Spine Radiology, and the American Society of Neuroradiology. Spine J. 2014 Nov 1;14(11):2525-45. Any references to causation and permanency follow the guidelines established by the American Medical Association Guides to the Evaluation of Permanent Impairment, Sixth Edition, 2023. It should be noted that a
+
+If you would like to speak to a radiologist regarding this report, please call:555-000-0002
+
+== EXTRACT PAGE 4 ==
+
+St. Mary's Hospital
+
+St. Mary's Hospital.com \|555-000-0001
+
+New York: 200 Sample Lane, City B, State 67890
+
+Chicago: 100 Dummy Street, City A, State 12345
+
+Houston: 300 Test Avenue, City C, State 11111
+
+Los Angeles: 400 Placeholder Road, City D, State 22222
+
+Patient Name: Robert Williams Patient ID: MR-DUMMY-000001 Referring Physician: Emma Davis. Date of Birth: 01/01/1990 Procedure: MRI THORACIC SPINE W/O Date of Study: 03-Feb-2025 8:55 AM
+
+normal MRI does not exclude certain pathologies that may be difficult to diagnose radiographically including certain pathologies involving small localized nerves and facet joints. A normal MRI does not exclude the possibility of certain abnormalities that may only be detected with a thorough physical examination and clinical history.
+
+Electronically signed by: Olivia Wilson MD, MD 2/3/2025 3:56 PM EST
+
+![](img-0.jpeg) Benjamin Moore MD
+
+<figure>
+<img src="img-1.jpeg" alt="img-1.jpeg" />
+<figcaption aria-hidden="true">img-1.jpeg</figcaption>
+</figure>
+
+If you would like to speak to a radiologist regarding this report, please call:555-000-0002
+
+== EXTRACT PAGE 5 ==
+
+REVIEWED Alice Johnson 02/06/2025 10:49:09 AM EST
+
+St. Mary's Hospital
+
+St. Mary's Hospital.com \|555-000-0001 New York: 200 Sample Lane, City B, State 67890 Chicago: 100 Dummy Street, City A, State 12345 Houston: 300 Test Avenue, City C, State 11111 Los Angeles: 400 Placeholder Road, City D, State 22222
+
+Patient Name: Robert Williams Referring Physician: Emma Davis. Procedure: MRI LUMBAR SPINE W/O
+
+Patient ID: MR-DUMMY-000001 Date of Birth: 01/01/1990 Date of Study: 03-Feb-2025 9:10 AM
+
+EXAM: MRI LUMBAR SPINE W/O
+
+HISTORY: Low back pain post motor vehicle collision on 1/15/2025.
+
+TECHNIQUE: Axial and sagittal multi-weighted images of the lumbar spine were obtained.
+
+COMPARISON: None.
+
+# FINDINGS:
+
+CONUS: Terminates in normal position and demonstrates normal signal characteristics.
+
+CAUDA EQUINA: Unremarkable.
+
+OSSEOUS STRUCTURES: Vertebral bodies are normal height without fractures.
+
+ALIGNMENT: No vertebral body listhesis is present.
+
+BONE MARROW: Normal bone marrow signal. No focal osseous lesion is seen.
+
+PARASPINAL SOFT TISSUES: Edema-like signal intensity at the interspinous ligaments of L4-L5 and L5-S1.
+
+T12-L1: No disc herniation, central canal, or foraminal stenosis.
+
+L1-L2: Bilateral facet effusions. No disc herniation, central canal, or foraminal stenosis.
+
+L2-L3: Bilateral facet effusions. No disc herniation, central canal, or foraminal stenosis.
+
+L3-L4: Bilateral facet effusions. No disc herniation, central canal, or foraminal stenosis.
+
+L4-L5: Bilateral facet effusions. No disc herniation, central canal, or foraminal stenosis.
+
+L5-S1: Bilateral facet effusions. Right lateralizing protrusion-type disc herniation resulting in mild right neural foraminal stenosis and abutment of the exiting right L5 nerve root (series 12, image 22; series 10, image 6; series 9, image 6). No significant central canal stenosis.
+
+# IMPRESSION:
+
+1.  At L5-S1, there is a right lateralizing protrusion-type disc herniation resulting in mild right neural foraminal stenosis and abutment of the exiting right L5 nerve root.
+2.  Edema-like signal intensity at the interspinous ligaments of L4-L5 and L5-S1 suggestive for ligamentous injury.
+3.  Multilevel facet effusions may be seen in capsular strain.
+
+The descriptions/nomenclature of any reported disc pathology, specifically with respect to the definitions of a disc bulge or disc herniation (protrusion type disc herniation and/or extruded disc herniation), is based on the recommendations from the following peer reviewed journal article: Lumbar Disc Nomenclature: version 2.0: Recommendations of the combined task forces of the North American Spine Society, the American Society of Spine Radiology, and the American Society of Neuroradiology. Spine J. 2014 Nov 1;14(11):2525-45. Any references to causation and permanency follow the guidelines established by the American Medical Association Guides to the Evaluation of Permanent Impairment, Sixth Edition, 2023. It should be noted that a normal MRI does not exclude certain pathologies that may be difficult to diagnose radiographically including certain pathologies involving small localized nerves and facet joints. A normal MRI does not exclude the
+
+If you would like to speak to a radiologist regarding this report, please call:555-000-0002
+
+== EXTRACT PAGE 6 ==
+
+St. Mary's Hospital
+
+St. Mary's Hospital.com \|555-000-0001
+
+New York: 200 Sample Lane, City B, State 67890
+
+Chicago: 100 Dummy Street, City A, State 12345
+
+Houston: 300 Test Avenue, City C, State 11111
+
+Los Angeles: 400 Placeholder Road, City D, State 22222
+
+Patient Name: Robert Williams Patient ID: MR-DUMMY-000001 Referring Physician: Emma Davis. Date of Birth: 01/01/1990 Procedure: MRI LUMBAR SPINE W/O Date of Study: 03-Feb-2025 9:10 AM
+
+possibility of certain abnormalities that may only be detected with a thorough physical examination and clinical history.
+
+Electronically signed by: Olivia Wilson MD, MD 2/3/2025 3:50 PM EST
+
+![](img-0.jpeg) Benjamin Moore MD
+
+<figure>
+<img src="img-1.jpeg" alt="img-1.jpeg" />
+<figcaption aria-hidden="true">img-1.jpeg</figcaption>
+</figure>
+
+If you would like to speak to a radiologist regarding this report, please call:555-000-0002
+
+== EXTRACT PAGE 7 ==
+
+<figure>
+<img src="img-0.jpeg" alt="img-0.jpeg" />
+<figcaption aria-hidden="true">img-0.jpeg</figcaption>
+</figure>
+
+<figure>
+<img src="img-1.jpeg" alt="img-1.jpeg" />
+<figcaption aria-hidden="true">img-1.jpeg</figcaption>
+</figure>
+
+If you would like to speak to a radiologist regarding this report, please call:555-000-0002 page 3 of 4
+
+== EXTRACT PAGE 8 ==
+
+<figure>
+<img src="img-0.jpeg" alt="img-0.jpeg" />
+<figcaption aria-hidden="true">img-0.jpeg</figcaption>
+</figure>
+
+If you would like to speak to a radiologist regarding this report, please call:555-000-0002 page 4 of 4
