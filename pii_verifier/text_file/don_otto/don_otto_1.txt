@@ -1,0 +1,110 @@
+====page 1====
+
+# **[LOGO PLACEHOLDER: AdventHealth / Return Mail Only]**
+*(Note: Logo likely appears in the header of the original document, e.g., top of page with clinic/hospital branding.)*
+
+AdventHealth
+
+Return Mail Only
+
+200 Sample Lane, City B, State 67890
+
+100 Dummy Street, City A, State 12345
+
+Pay at: https://account.adventhealth.com
+
+Easy &amp; Secure From Any Device
+
+Questions? Call555-000-0001 (855-AH1-BILL)
+
+Date: 05/28/25
+
+The following document contains the requested services for Alice Johnson (Guarantor #MR-DUMMY-000001). If you have any questions, please contact customer service. Patient Name: . DOS: 04/30/25 - 04/30/25
+
+Professional Charges
+
+|  Svc Date | Code | Description | Qty | Amount  |
+| --- | --- | --- | --- | --- |
+|  Charges for visit with Emma Davis, MD  |   |   |   |   |
+|  04/30/25 | 70450 | CT Head/Brain W/O Contrast Material | 1 | 122.00  |
+|  04/30/25 | 72125 | CT Cervical Spine W/O Contrast Material | 1 | 142.00  |
+|  Charges for visit with James Miller, MD  |   |   |   |   |
+|  04/30/25 | 71260 | Diagnostic Computed Tomography Thorax W/Contrast | 1 | 168.00  |
+|  04/30/25 | 74177 | CT Abdomen & Pelvis W/Contrast Material | 1 | 263.00  |
+
+Total Charges 695.00
+
+||MR-DUMMY-000001|1|
+
+====page 1 end ====
+
+====page 2====
+
+Advent Health
+
+Return Mail Only
+200 Sample Lane, City B, State 67890
+100 Dummy Street, City A, State 12345
+
+Pay at: https://account.adventhealth.com
+Easy & Secure From Any Device
+Questions? Call555-000-0001 (855-AH 1-BI LL)
+Date: 05/28/25
+
+The following document contains the requested services for Alice Johnson (Guarantor
+#MR-DUMMY-000001). If you have any questions, please contact customer service. Patient Name: Alice Johnson. DOS: 04/30/25 - 04/30/25
+
+Hospital Charges
+
+Svc Date
+Code
+Description
+Qty
+Amount
+04/30/25
+70450
+CT Scan Head or Brain Without Contrast
+1
+5,188.00
+04/30/25
+71260
+CT Scan of Chest With Contrast
+1
+9,433.00
+04/30/25
+72125
+CT Scan of Upper Spine Without Contrast
+1
+6,549.00
+04/30/25
+74177
+CT Scan of Abdomen and Pelvis With Contrast
+1
+15,082.00
+04/30/25
+96374
+Injection of Drug or Substance Into Vein
+1
+407.00
+04/30/25
+99285
+Emergency Department Visit With High Level of Medical
+1
+6,054.00
+Decision Making
+04/30/25
+J0136
+Acetaminophen 10 Mg/Ml Solution (0264-4100-90)
+100
+142.70
+04/30/25
+Q9967
+lopamidol 76 % Solution (0270-1316-95)
+80
+111.88
+Total Charges
+42,967.58
+
+I I MR-DUMMY-000001111
+
+====page 2 end ====

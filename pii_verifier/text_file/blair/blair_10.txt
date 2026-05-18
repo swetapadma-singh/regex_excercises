@@ -1,0 +1,188 @@
+====page 6====
+
+To:555-000-0002
+2025/10/08 15:56:59
+6 /7
+From:555-000-0003
+6/20/2025 1:01:31 PM
+p. 2 of 2
+
+# **Records Requested in Electronic Form** per 45 CFR 164.524(c)(2)(ii)
+
+The records include, but are not limited to, the following items:
+
+|  Most Recent History and Physical | All From ______ to ______  |
+| --- | --- |
+|  Most Recent Discharge Summary | All From ______ to ______  |
+|  Initial Patient Paperwork/Questionnaires | All From ______ to ______  |
+|  Office Notes and Reports | All From ______ to ______  |
+|  Physical Therapy Records and Notes | All From ______ to ______  |
+|  Laboratory Reports and Results | All  |
+|  X-ray and Imaging Reports | All  |
+|  Consultation Reports from any other Physicians | All  |
+|  Entire Record and/or Chart | All  |
+|  Final Narrative Reports & Impairment Ratings | XXX Total Charges XXX Balance  |
+|  Xxx Itemized Bill for Services Rendered | Medicare/Medicaid, ERISA, group health, medical, worker’s compensation, etc., insurance and or collateral source benefits providers’ records (i.e., medical records, medical reports, insurance and submission claim forms, payout records, benefits and policy information, subrogation language, claims of lien, etc.)  |
+|  XXX Other ______ BILLING LEDGER & ITEMIZED BILL 3/25/2025 TO PRESENT |   |(tbl-0.md)
+
+***Always include patient intake forms and any documents related to the billing and payment for services.
+
+## REQUIRED DISCLOSURES - 45 CFR 164.508(c)
+
+A. This protected health information is to be used for the following purpose: A civil legal claim or proceeding.
+
+B. This authorization may be revoked by a signed and properly dated written revocation, delivered to the healthcare provider named above, provided that this release cannot be revoked as to protected health information that had been previously released in reliance on this document.
+
+C. The undersigned acknowledges that a refusal to sign this form will not result in a denial of healthcare by the Alice Johnson or any other healthcare provider and that this release has not been coerced by a healthcare entity or any of its business associates.
+
+D. The undersigned acknowledges that once the PHI is disclosed, it may be re-disclosed to individuals or organizations that are not subject to the federal privacy regulations such as expert witnesses, litigants, insurance companies, and even may become public record if filed with a court of law.
+
+E. This authorization will be effective for the entire duration of the legal matters related to the accident which involved the patient and occurred on 3/25/2025, unless earlier revoked in writing.
+
+Emma Davis
+Patient’s Name
+
+01/01/1990
+Patient’s Date of Birth
+
+***999-99-9001
+Patient’s Social Security Number
+
+Witness
+10/8/2025
+Dated
+
+Note: a Copy of this Authorization Shall Be Treated as an Original
+Certified#: DFID18556719 Matter-17491028
+
+====page 6 end ====
+
+====page 7====
+
+2025/10/08 15:56:59 7 /7
+
+# Model Attestation Regarding a Requested Use or Disclosure of Protected Health Information Potentially Related to Reproductive Health Care
+
+The entire form must be completed for the attestation to be valid.
+
+|  Name of person(s) or specific identification of the class of persons to receive the requested PHI.  |
+| --- |
+|  Robert Williams  |
+|  Name or other specific identification of the person or class of persons from whom you are requesting the use or disclosure.  |
+|  Alice Johnson  |
+|  Description of specific PHI requested, including name(s) of individual(s), if practicable, or a description of the class of individuals, whose protected health information you are requesting.  |
+|  BILLING LEDGER & ITEMIZED BILL 3/25/2025 TO PRESENT  |(tbl-0.md)
+
+I attest that the use or disclosure of PHI that I am requesting is not for a purpose prohibited by the HIPAA Privacy Rule at 45 CFR 164.502(a)(5)(iii) because of one of the following (check one box):
+
+☑ The purpose of the use or disclosure of protected health information is not to investigate or impose liability on any person for the mere act of seeking, obtaining, providing, or facilitating reproductive health care or to identify any person for such purposes.
+
+☐ The purpose of the use or disclosure of protected health information is to investigate or impose liability on any person for the mere act of seeking, obtaining, providing, or facilitating reproductive health care, or to identify any person for such purposes, but the reproductive health care at issue was not lawful under the circumstances in which it was provided.
+
+I understand that I may be subject to criminal penalties pursuant to 42 U.S.C. 1320d-6 if I knowingly and in violation of HIPAA obtain individually identifiable health information relating to an individual or disclose individually identifiable health information to another person.
+
+Signature of the person requesting the PHI
+
+/s/ Robert Williams
+
+Date 10/08/2025
+
+If you have signed as a representative of the person requesting PHI, provide a description of your authority to act for that person.
+
+Litigation Assistant
+
+This attestation document may be provided in electronic format, and electronically signed by the person requesting protected health information when the electronic signature is valid under applicable Federal and state law.
+
+====page 7 end ====
+
+====page 8====
+
+Alice Johnson
+1 Alice Johnson Circle
+Alice Johnsonpa, FL 10001555-000-0001
+
+Emma Davis
+200 Sample Lane, City B, State 67890
+Alice JohnsonPA, FL 60601
+
+This is not a bill. This is an itemization of your Alice Johnson services. If you have any questions
+about your itemized bill or would like to file a grievance for some or all charges listed on your
+itemized bill, please send an email to dummy1@example.com to initiate the process.
+
+Patient:   Emma Davis
+Alice Johnson Account:  MR-DUMMY-000001
+
+Admission Date: 03/25/25
+Discharge Date: 03/25/25
+
+Visit Coverages:   INS-DUMMY-111111
+
+Charges
+
+Date
+Rev Code
+Description
+Qty
+Amount
+
+Payments and Adjustments
+
+Date
+Description
+Amount
+
+Current Alice Johnson Account Balance:
+1,367.18
+
+03/25/25
+0259
+ACETAMINOPHEN 325 MG TAB
+3
+1.00
+03/25/25
+0259
+IBUPROFEN 800 MG TAB
+1
+1.00
+03/25/25
+0259
+LIDOCAINE 4 % PTMD
+1
+4.00
+03/25/25
+0320
+HB XRAY PELVIS LIMITED
+1
+589.00
+03/25/25
+0320
+HB XRAY SHOULDER ROUTINE
+1
+691.00
+03/25/25
+0324
+HB XRAY CHEST 1 VIEW
+1
+710.00
+03/25/25
+0450
+HB ER LEVEL IV
+1
+2,190.00
+Total Charges
+4,186.00
+
+06/16/25
+Generic Auto Payments
+-97.92
+09/23/25
+Generic Auto Adjustments
+-2,720.90
+Total Insurance Payments and Adjustments
+
+Printed On:  11/18/25
+1
+
+-2,818.82
+
+====page 8 end ====

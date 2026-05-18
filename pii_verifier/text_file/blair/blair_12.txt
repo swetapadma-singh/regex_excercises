@@ -1,0 +1,48 @@
+====page 1====
+
+Daily SOAP Note
+
+Alice Johnson CHIROPRACTIC
+100 Dummy Street, City A, State 12345
+New York, FL 10001555-000-0001
+www.athanschiro.com
+
+Robert Williams DOB:01/01/1990 UIN: MR-DUMMY-000001 Saturday, March 28, 2026
+
+SUBJECTIVE:
+The patient explained that he has been feeling slightly worse since his last office visit. On a scale ofoto 10, withobeing nothing and 10 being the worst, Mr. Robert Williams rated his neck a 3, entire upper back a 4, entire mid back a 4, entire lower back a 4, right arm a 2, right knee a 2 and generalized headaches a 2. Mr. Robert Williams's neck was described as sharp, stiff, a numbness, tingly and sharp with motion. The patient let me know that his problems continue to be aggravated when he does nothing since it is always there. The patient explained that his symptoms are still relieved when he rests.
+
+OBJECTIVE:
+I performed an exam on Robert Williams (99211). The patient had decreased cervical flexion and extension. Mr. Robert Williams presented with decreased lumbar flexion with pain, extension with pain, left rotation with pain, right rotation with pain, left lateral flexion with pain and right lateral flexion with pain. During palpation of the patient's spine, I noted biomechanical joint dysfunction over his C2, C3, C4, T1, T2, T3, L1, L2 and L3 vertebral segments. Extra spinal subluxations were found in the patient's: right inferior scapula. There was hypertonicity over the patient's neck, entire mid back, entire upper back and entire lower back. Tender taut fibers were present in the patient's neck, entire mid back, entire upper back, entire lower back and right shoulder musculature. Orthopedic testing revealed Shoulder depression test was positive bilaterally, Distraction test was positive, Foraminal compression test was positive and Kemp's test was positive bilaterally. I palpated triggerpoints in Robert Williams's reactor spinae, quadratus lumborum and multifidus muscles.
+
+ASSESSMENT:
+Currently, the patient's prognosis is fair.
+Current Diagnosis:
+S14.2XXA Injury of nerve root of cervical spine, initial encounter
+S24.2XXA Injury of nerve root of thoracic spine, initial encounter
+M99.07 Nonallopathic lesion of upper extremities (finding)
+G44.209 Tension-type headache (disorder)
+M99.06 Segmental and somatic dysfunction of Lower extremity (finding)
+M51.26 Displacement of lumbar intervertebral disc without myelopathy (disorder)
+Onset: Saturday, May 17, 2025
+
+PROCEDURE/PLAN:
+To increase the blood flow, decrease the muscle tonicity, and to decrease the discomfort I elected to use ultrasound over the patient's neck (97035). To increase the blood flow, decrease the muscle tonicity, and decrease the discomfort I used electrical therapy with the milliamperes set to the patient's tolerance level over his neck and right shoulder musculature (G0283). The Artho Stim Adjusting device was applied over the following subluxations: C2, C3, C4, T1, T2, T3, L1, L2 and L3 (98941). An extremity adjustment was used over the patient's right inferior scapula (98943). The patient has been advised to return for his next treatment on an as needed basis. Dry Needling trigger point stimulation was performed using filiform 30 gauge needles. Dry needling is the use of a solid needle for therapy of muscle pain, sometimes also known as intramuscular stimulation. Dry needling contrasts with the use of a hollow hypodermic needle to inject substances such as saline solution, botox or corticosteroids to the same point. Such use of a solid needle has been found to be as effective of injection of substances in such cases as relief of pain in muscles and connective tissue. Analgesia produced by needling a pain spot has been called the needle effect. Myofascial trigger points were located and dry needling of the myofascial trigger point elicited a local twitch response, which is an involuntary spinal cord reflex in which the muscle fibers in the taut band of muscle contract. The LTR indicates the proper placement of the needle in a trigger point. Dry needling that elicits LTR's improves treatment out comes, and may work by activating endogenous opioids. Dry Needles are inserted into the musculature. The needle is used to systematically tap and percutaneously jab the tendinous junction to instill mild bleeding. This is to reset the inflammatory response and allow fibroblastic proliferation and collagen formation leading to tendon healing. Inactivation of MTrPs by dry needling appears to be the results of the mechanical action of the needle, since it can be successfully accomplished without the use of local anesthetics or other materials. (20561) Shockwave Therapy (0101T) was performed over the site of positive biological response. Shockwave Treatment is a medical procedure that involves the use of shock waves, which are high-energy acoustic
+
+====page 1 end ====
+
+====page 2====
+
+Robert Williams Saturday, March 28, 2026 visit page 2
+
+waves, to treat certain medical conditions. With shockwave therapy, these shock waves are generated outside the body and then directed toward the targeted area within the body.
+
+Patient tolerated treatment well, and reported improvement following the treatment today.
+
+Dr. Alice Johnson
+NPI: 1497742993
+License: FL Lic.# CH 7004
+
+The patient has been advised to return for his next treatment on an as needed basis. CPT codes: Established Patient 99211-25, CMT 3-4 Regions 98941, 98943 CMT Extremity, Electric Stim G0283 1 Unit, Ultrasound 97035 1 Units, 0101T Shockwave Therapy 1 Unit and 20561
+
+====page 2 end ====

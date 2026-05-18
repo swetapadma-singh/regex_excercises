@@ -1,0 +1,117 @@
+====page 1====
+
+# Daily SOAP Note
+
+Alice Johnson CHIROPRACTIC
+100 Dummy Street, City A, State 12345
+New York, FL 10001555-000-0001
+www.athanschiro.com
+
+Robert Williams DOB:01/01/1990 UIN: MR-DUMMY-000001 Thursday, August 21, 2025
+
+## SUBJECTIVE:
+
+The patient came in for his appointment and stated that he is doing slightly worse than he was doing on his last visit. When using a scale ofoto 10, withobeing nothing and 10 being the worst, Mr. Robert Williams rated his neck a 2, entire upper back a 2, entire mid back a 2, entire lower back a 3, right arm a 2, right knee a 2 and generalized headaches a 2. The patient described his neck as sharp, stiff, a numbness, tingly and sharp with motion. The patient's aggravating activities are unchanged. As previously noted, they are when he does nothing since it is always there. The patient also informed me that his problems continue to become better when he rests.
+
+## OBJECTIVE:
+
+An examination was performed (99211). The patient presented with decreased cervical flexion and extension. Mr. Robert Williams had decreased lumbar flexion with pain, extension, left rotation, right rotation, left lateral flexion and right lateral flexion. Spinal biomechanical joint dysfunction was noted over Mr. Robert Williams's C2, C3, C4, T1, T2, T3, L1, L2 and L3 vertebral segments. Extra spinal subluxations were found in the patient's: right inferior scapula. The patient had hypertonicity over his neck, entire mid back, entire upper back and entire lower back. Tender taut fibers were palpated in the patient's neck, entire mid back, entire upper back, entire lower back and right shoulder musculature. Orthopedic testing revealed Shoulder depression test was positive bilaterally, Distraction test was positive, Foraminal compression test was positive and Kemp's test was positive bilaterally.
+
+## ASSESSMENT:
+
+The patient's current prognosis is fair.
+
+Current Diagnosis:
+- S14.2XXA Injury of nerve root of cervical spine, initial encounter
+- S24.2XXA Injury of nerve root of thoracic spine, initial encounter
+- M99.07 Nonallopathic lesion of upper extremities (finding)
+- G44.209 Tension-type headache (disorder)
+- M99.06 Segmental and somatic dysfunction of Lower extremity (finding)
+- M51.26 Displacement of lumbar intervertebral disc without myelopathy (disorder)
+Onset: Saturday, May 17, 2025
+
+## PROCEDURE/PLAN:
+
+To increase the blood flow, decrease the muscle tonicity, and to decrease the discomfort ultrasound was applied to the patient's neck (97035). Electrical therapy was used to increase the patient's blood flow, decrease the tonicity, and decrease the discomfort with the milliamperes set to the patient's tolerance level over his neck and right shoulder musculature (G0283). I choose to use the Artho Stim Adjusting device on the patient over the following subluxations: C2, C3, C4, T1, T2, T3, L1, L2 and L3 (98941). An extremity adjustment was applied over Mr. Robert Williams's right inferior scapula (98943). Mr. Robert Williams has been informed to return for his next recommended treatment on an as needed basis.
+
+Dr. Alice Johnson
+NPI: 1497742993
+License: FL Lic.# CH7004
+
+Mr. Robert Williams has been informed to return for his next recommended treatment on an as needed basis. CPT codes:
+Established Patient 99211-25, CMT 3-4 Regions 98941, 98943 CMT Extremity, Electric Stim G0283 1 Unit and Ultrasound 97035 1 Units
+
+====page 1 end ====
+
+====page 2====
+
+FLORIDA DEPARTMENT OF HIGHWAY SAFETY AND MOTOR VEHICLES
+
+# APPLICATION FOR DISABLED PERSON PARKING PERMIT
+
+Please submit this form to your local tax collector office or license plate agency.
+
+http://www.flhsmv.gov/offices/
+
+This form is not valid for more than 12 months from the date of the certifying authority's signature.
+
+Please Print/Type below
+
+APPLICATION BY DISABLED PERSON (See warning below.)
+
+I certify that I am a person with one of the disabilities listed in section 320.0848, Florida Statutes. I further state that my physician or other certifying practitioner has completed the statement of certification below on my behalf, as required in section 320.0848, Florida Statutes.
+
+|  Name of Disabled Person as printed on their Florida Driver License or Identification Card Robert Williams R-152 078 91 095 0 |   |   | Current Disabled Parking Permit Number (if applicable) | Signature of Disabled Person or Guardian of the Disabled Person Robert Williams |   | Date signed Aug 21 '25  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  Date of Birth 3-15-1991 | Sex M | Disabled Person's E-mail Address dummy1@example.com |   | Disabled Person's Phone Number555-000-0002 |   |   |
+|  Address 300 Test Avenue, City C, State 11111 |   |   | City New York | State FL | Zip 10001 |   |
+|  Florida Driver License or Identification Number: (Required for permanent and temporary parking permits unless exception is noted by physician below) |   |   |   | If applicable, check one of the following: ☐ I am a frequent traveler. ☐ I am quadriplegic. |   |   |
+
+# PHYSICIAN/CERTIFYING PRACTITIONER'S STATEMENT OF CERTIFICATION (See warning below.)
+
+☑ TEMPORARY PERMIT: This is to certify that the applicant named above is a person with a temporary disability (six months or less) that limits or impairs his/her ability to work or is temporarily sight impaired. Due to the temporary specific disability(ies) checked below (2-8), the disabled person parking permit should be issued from 1. 0121123 (date) through 212128 (date).
+
+☐ PERMANENT PERMIT: This is to certify that the applicant named above is legally blind or is a disabled person with a permanent disability(ies) that limits or impairs his/her ability to walk 200 feet without stopping to rest. Specify below (2-8) either legally blind or the specific disability(ies).
+
+Disability type as displayed in Issuance system:
+
+☐ 2. inability to walk without the use of or assistance from a brace, cane, crutch, prosthetic device, or other assistive device, or without assistance of another person. If the assistive device significantly restores the person's ability to walk to the extent that the person can walk without severe limitation, the person is not eligible for the exemption parking permit.
+
+☐ 3. The need to permanently use a wheelchair.
+
+☐ 4. Restriction by lung disease to the extent that the person's forced (respiratory) expiratory volume for 1 second, when measured by spirometry, is less than one liter or the person's arterial oxygen is less than 60 mm/hg on room air at rest.
+
+☐ 5. Use of portable oxygen.
+
+☐ 6. Restriction by cardiac condition to the extent that the person's functional limitations are classified in severity as Class III or Class IV according to standards set by the American Heart Association.
+
+☑ 7. Severe limitation in a person's ability to walk due to an arthritic, neurological, or orthopedic condition.
+
+☐ 8. Legally blind.
+
+|  Certification or License No. (Required) CH-7004 of a Physician, Osteopathic or Podiatric Physician, Chiropractor, Optometrist, Advanced Practice Registered Nurse under the protocol of a licensed physician or a Physician Assistant licensed under Chapter 456 or 459. |   |   |   |   | Licensed in State of FL  |   |
+| --- | --- | --- | --- | --- | --- | --- |
+|  Print/Type Name of Certifying Authority Dr. Alice Johnson | Business Address 100 Dummy Street, City A, State 12345. | City New York | State FL | Zip 10001 |  |   |
+|  Certifying Authority Signature |   | Date Signed 8.21.25 | Telephone Number555-000-0001 |   |  |   |
+|  SPECIAL EXCEPTION: The severely disabled applicant named above applying for a permanent placard is unable to obtain a Florida driver license or identification card. ☐ If the Special Exception box is checked, the certifying physician must provide his/her signature and date signed below. ☐ If the Special Exception box is checked, one of the conditions in boxes 2-8 above must also be checked.  |   |
+| --- | --- |
+|  Certifying Authority Signature | Date Signed  |(tbl-2.md)
+
+Application by an organization (See warning below.) This is to certify that _______________ provides regular transportation service to disabled persons having disabilities that limit or impair their ability to walk or are certified to be legally blind.
+
+|  Number of vehicles in fleet for this purpose | Organization's E-mail address |   | Signature of Organization's Authority |   | Date Signed  |
+| --- | --- | --- | --- | --- | --- |
+|  Address |   | City |   | State | Zip  |
+
+TAX COLLECTOR/LICENSE PLATE AGENCY USE ONLY
+
+|  Agency Personnel Processing Application | County | Agency | Date  |
+| --- | --- | --- | --- |
+
+WARNING: Any person who knowingly makes a false or misleading statement in an application or certification under section 320.0848, Florida Statutes, commits a misdemeanor of the first degree, punishable as provided in section 775.082 or 775.083, F.S. The penalty is up to one year in jail or a fine of $1,000 or both.
+
+HSMV 83039 - Rev. 06/22/22
+
+www.flhsmv.gov
+
+====page 2 end ====

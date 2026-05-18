@@ -1,0 +1,253 @@
+====page 1====
+
+2025/08/11 15:11:02 2 /6
+
+SimonMed
+
+See Tomorrow Today
+
+SimonMed FL Lake Underhill
+
+SimonMed Imaging Florida, LLC - Lake Underhill
+
+100 Dummy Street, City A, State 12345
+
+New York, FL 10001
+
+Phone:555-000-0001
+
+# DIAGNOSTIC IMAGING REPORT
+
+Patient: Robert Williams Sex: M DOB: 01/01/1990 Age: 56
+
+Diag. Imaging#: MR-DUMMY-000001
+
+Status:
+
+Referring Physician: Emma Davis FNP
+
+CC Physician:
+
+EXAM #46335735 - 07/26/2025 8:00 AM - MR LUMBAR SPINE WITHOUT CONTRAST
+
+INDICATION: Lower back pain radiating to left leg since work injury on 3/29/2025
+
+COMPARISON: None.
+
+TECHNIQUE: Sagittal and axial T1 and T2-weighted images and sagittal STIR images were obtained of the lumbar spine.
+
+FINDINGS:
+
+The alignment of the lumbar spine is normal. The marrow signal is normal. There are no compression fractures. The conus terminates normally at T12-L1 and demonstrates normal signal.
+
+Level by level:
+
+T12-L1: Unremarkable appearance of the disc. No facet arthropathy. No nerve root compression. No spinal canal or neural foraminal stenosis.
+
+L1-L2: Unremarkable appearance of the disc. No facet arthropathy. No nerve root compression. No spinal canal or neural foraminal stenosis.
+
+L2-L3: Small disc bulge and facet arthropathy without significant neuroforaminal narrowing or spinal canal stenosis.
+
+L3-L4: Small disc bulge and facet arthropathy without significant neuroforaminal narrowing or spinal canal stenosis.
+
+L4-L5: Small disc bulge and facet arthropathy resulting in mild bilateral neuroforaminal narrowing without significant spinal canal stenosis.
+
+L5-S1: Small disc bulge and facet arthropathy without significant neuroforaminal narrowing or spinal canal stenosis.
+
+IMPRESSION:
+
+No acute fracture or subluxation.
+
+Mild multilevel degenerative changes as described above.
+
+page 1 of 2
+
+====page 1 end ====
+
+====page 2====
+
+2025/08/11 15:11:02 3 /6
+
+SimonMed
+
+See Tomorrow Today
+
+SimonMed FL Lake Underhill
+
+SimonMed Imaging Florida, LLC - Lake Underhill
+
+100 Dummy Street, City A, State 12345
+
+New York, FL 10001
+
+Phone:555-000-0001
+
+# DIAGNOSTIC IMAGING REPORT
+
+Patient: Robert Williams Sex: M DOB: 01/01/1990 Age: 56
+
+Diag. Imaging#: MR-DUMMY-000001
+
+Status:
+
+Referring Physician: Emma Davis FNP
+
+CC Physician:
+
+EXAM #46335735 - 07/26/2025 8:00 AM - MR LUMBAR SPINE WITHOUT CONTRAST
+
+dd:08/01/2025 10:46 AM
+
+Reported by: Alice Johnson
+
+Electronically signed by: Alice Johnson
+
+Thank you for your kind referral. If you require further assistance, please contact our Radiologist Hotline at 555-000-0003555-000-0004).
+
+page 2 of 2
+
+====page 2 end ====
+
+====page 3====
+
+2025/08/11 15:11:02 4 /6
+
+SimonMed
+
+See Tomorrow Today
+
+SimonMed FL Lake Underhill
+
+SimonMed Imaging Florida, LLC - Lake Underhill
+
+100 Dummy Street, City A, State 12345
+
+New York, FL 10001
+
+Phone:555-000-0001
+
+# DIAGNOSTIC IMAGING REPORT
+
+Patient: Robert Williams Sex: M DOB: 01/01/1990 Age: 56
+
+Diag. Imaging#: MR-DUMMY-000001
+
+Status:
+
+Referring Physician: James Miller
+
+CC Physician:
+
+EXAM #45570294 - 05/31/2025 9:00 AM - MR CERVICAL SPINE WITHOUT CONTRAST
+
+INDICATION: Neck pain radiating to the bilateral arms status post work injury on 4/29/2025
+
+COMPARISON: None.
+
+TECHNIQUE: Sagittal T1, sagittal and axial T2, and axial gradient echo images were obtained of the cervical spine.
+
+FINDINGS:
+
+Normal size and signal of the cervical cord. Cervicomedullary junction is normal. The cerebellar tonsils are in normal position. The alignment is normal. The marrow signal is normal. Paraspinal soft tissues are unremarkable.
+
+LEVEL BY LEVEL:
+
+C2-C3: Disc bulge and facet arthropathy resulting in moderate left neuroforaminal narrowing without significant spinal canal stenosis.
+
+C3-C4: Trace disc bulge and facet arthropathy resulting in mild bilateral neuroforaminal narrowing without significant spinal canal stenosis.
+
+C4-C5: Trace disc bulge and facet arthropathy resulting in mild bilateral neuroforaminal narrowing without significant spinal canal stenosis.
+
+C5-C6: Trace disc bulge and facet arthropathy resulting in mild bilateral neuroforaminal narrowing without significant spinal canal stenosis.
+
+C6-C7: Trace disc bulge and facet arthropathy resulting in mild bilateral neuroforaminal narrowing without significant spinal canal stenosis.
+
+C7-T1: Unremarkable appearance of the disc. No significant facet joint degeneration. No spinal canal or neural foraminal stenosis.
+
+IMPRESSION:
+
+No acute fracture or subluxation.
+
+Mild multilevel degenerative changes as described above.
+
+page 1 of 2
+
+====page 3 end ====
+
+====page 4====
+
+2025/08/11 15:11:02 5 /6
+
+SimonMed
+
+See Tomorrow Today
+
+SimonMed FL Lake Underhill
+
+SimonMed Imaging Florida, LLC - Lake Underhill
+
+100 Dummy Street, City A, State 12345
+
+New York, FL 10001
+
+Phone:555-000-0001
+
+# DIAGNOSTIC IMAGING REPORT
+
+Patient: Robert Williams Sex: M DOB: 01/01/1990 Age: 56
+
+Diag. Imaging#: MR-DUMMY-000001
+
+Status:
+
+Referring Physician: James Miller
+
+CC Physician:
+
+EXAM #45570294 - 05/31/2025 9:00 AM - MR CERVICAL SPINE WITHOUT CONTRAST
+
+dd:06/06/2025 10:08 AM
+
+Reported by: Alice Johnson
+
+Electronically signed by: Alice Johnson
+
+Thank you for your kind referral. If you require further assistance, please contact our Radiologist Hotline at 555-000-0003555-000-0004).
+
+page 2 of 2
+
+====page 4 end ====
+
+====page 5====
+
+2025/08/11 15:11:02 6 /6
+
+SIMONMED IMAGING FLORIDA LLC
+PO BOX 203573
+Los Angeles TX 60601-3573555-000-0002
+
+Patient:
+Acct #: 771501
+Robert Williams
+200 Sample Lane, City B, State 67890
+New York, FL 90001
+
+Responsible party:
+Robert Williams
+200 Sample Lane, City B, State 67890
+New York, FL 90001
+
+|  Srvc. Date Modifier(s) | Procedure Description Diagnosis Code(s) | Location | Charge | Balance | Physician  |
+| --- | --- | --- | --- | --- | --- |
+|  05/31/2025 | 72141 - MRI NECK SPINE W/O DYE M54.2, M50.121, M50.122, M50.1 | 14 - 14 | $1,549.00 | $1,549.00 | Alice Johnson  |
+|  07/26/2025 | 72148 - MRI LUMBAR SPINE W/O D M54.50, M51.17 | 14 - 14 | $1,529.00 | $1,529.00 | Alice Johnson  |
+
+TOTAL BALANCE: $3,078.00
+Print Date: 08/11/2025
+
+Reproduced: Monday, August 11, 2025 06:08:14 PM (ssalunke)
+
+This report has been Reproduced from the Original
+Reproduced Monday, August, 11, 2025 06:08:14 PM (ssalunke)
+
+====page 5 end ====

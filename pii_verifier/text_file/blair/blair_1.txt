@@ -1,0 +1,169 @@
+====page 1====
+
+**INBOUND NOTIFICATION: FAX RECEIVED SUCCESSFULLY**
+
+TIME RECEIVED September 18, 2025 at 5:00:27 PM EDT
+REMOTE CSID 19498619862
+DURATION 111
+PAGES 3
+STATUS Received
+
+To: Robert Williams &amp; Robert Williams
+Page: 1 of 3
+2025-09-18 13:58:29 PDT
+19498619862
+From: Payments Fax
+
+SEPTEMBER 18, 2025
+
+MNET FINANCIAL, LLC.
+200 Sample Lane, City B, State 67890
+New York, CA 10001
+
+RETURN SERVICE REQUESTED
+
+TELE:555-000-0001 TOLL FREE
+HOURS OF OPERATION:
+M-F 8:00am - 8:00pm CST
+
+CREDITOR : RADIOLOGY ASSOCIATES OF FLORIDA
+CREDITOR A/C# : MR-DUMMY-000004
+AGENCY A/C# : MR-DUMMY-000001
+DATE OF SRVC : 03/25/25
+TOTAL DUE : $140.00
+
+Robert Williams &amp; Robert Williams
+100 Dummy Street, City A, State 12345,
+Los Angeles, FL 90001
+
+PERSONAL &amp; CONFIDENTIAL
+
+RE: Emma Davis
+---:
+
+This bill is due and payable.
+
+Our records indicate you are awaiting a third party settlement to satisfy the balance owed above.
+
+Our policy is to send you a quarterly statement. This statement will keep you informed as to the current status of this account and give you an opportunity to update your records if needed. Please notify us of any changes pertaining to this case, especially if your personal and or attorney information or representation changes.
+
+When your case settles it is your responsibility to make sure that your bill for RADIOLOGY ASSOCIATES OF FLORIDA is satisfied in full. Please forward payment in full within 10 days from the date your case settles.
+
+If your case is denied for any reason, the amount due is your responsibility to pay.
+
+Please supply a copy of this bill to your attorney and retain a copy for your records. If you wish to forego billing statements and have all billing sent to your attorney office only, please notify our office.
+
+Alice Johnson
+James Miller
+
+THIS IS A COMMUNICATION FROM A DEBT COLLECTOR. THIS IS AN ATTEMPT TO COLLECT A DEBT. ANY INFORMATION OBTAINED WILL BE USED FOR THAT PURPOSE.
+
+====page 1 end ====
+
+====page 2====
+
+To: Robert Williams &amp; Robert Williams
+2025-09-18 13:58:29 PDT
+19498619862
+From: Payments Fax
+
+SEPTEMBER 18, 2025
+
+MNET FINANCIAL, LLC.
+200 Sample Lane, City B, State 67890
+New York, CA 10001
+
+RETURN SERVICE REQUESTED
+
+TELE:555-000-0001 TOLL FREE
+HOURS OF OPERATION:
+M-F 8:00am - 8:00pm CST
+
+CREDITOR : RADIOLOGY ASSOCIATES OF FLORIDA
+CREDITOR A/C# : MR-DUMMY-000004
+AGENCY A/C# : MR-DUMMY-000002
+DATE OF SRVC : 03/25/25
+TOTAL DUE : $176.00
+
+Robert Williams &amp; Robert Williams
+100 Dummy Street, City A, State 12345,
+Los Angeles, FL 90001
+
+PERSONAL &amp; CONFIDENTIAL
+
+RE: Emma Davis
+
+---:
+
+This bill is due and payable.
+
+Our records indicate you are awaiting a third party settlement to satisfy the balance owed above.
+
+Our policy is to send you a quarterly statement. This statement will keep you informed as to the current status of this account and give you an opportunity to update your records if needed. Please notify us of any changes pertaining to this case, especially if your personal and or attorney information or representation changes.
+
+When your case settles it is your responsibility to make sure that your bill for RADIOLOGY ASSOCIATES OF FLORIDA is satisfied in full. Please forward payment in full within 10 days from the date your case settles.
+
+If your case is denied for any reason, the amount due is your responsibility to pay.
+
+Please supply a copy of this bill to your attorney and retain a copy for your records. If you wish to forego billing statements and have all billing sent to your attorney office only, please notify our office.
+
+Alice Johnson
+James Miller
+
+THIS IS A COMMUNICATION FROM A DEBT COLLECTOR. THIS IS AN ATTEMPT TO COLLECT A DEBT. ANY INFORMATION OBTAINED WILL BE USED FOR THAT PURPOSE.
+
+====page 2 end ====
+
+====page 3====
+
+To: Robert Williams &amp; Robert Williams
+2025-09-18 13:58:29 PDT
+19498619862
+From: Payments Fax
+
+SEPTEMBER 18, 2025
+
+MNET FINANCIAL, LLC.
+200 Sample Lane, City B, State 67890
+New York, CA 10001
+
+RETURN SERVICE REQUESTED
+
+TELE:555-000-0001 TOLL FREE
+HOURS OF OPERATION:
+M-F 8:00am - 8:00pm CST
+
+CREDITOR : RADIOLOGY ASSOCIATES OF FLORIDA
+CREDITOR A/C# : MR-DUMMY-000004
+AGENCY A/C# : MR-DUMMY-000003
+DATE OF SRVC : 03/25/25
+TOTAL DUE : $122.00
+
+Robert Williams &amp; Robert Williams
+100 Dummy Street, City A, State 12345,
+Los Angeles, FL 90001
+
+PERSONAL &amp; CONFIDENTIAL
+
+RE: Emma Davis
+
+---:
+
+This bill is due and payable.
+
+Our records indicate you are awaiting a third party settlement to satisfy the balance owed above.
+
+Our policy is to send you a quarterly statement. This statement will keep you informed as to the current status of this account and give you an opportunity to update your records if needed. Please notify us of any changes pertaining to this case, especially if your personal and or attorney information or representation changes.
+
+When your case settles it is your responsibility to make sure that your bill for RADIOLOGY ASSOCIATES OF FLORIDA is satisfied in full. Please forward payment in full within 10 days from the date your case settles.
+
+If your case is denied for any reason, the amount due is your responsibility to pay.
+
+Please supply a copy of this bill to your attorney and retain a copy for your records. If you wish to forego billing statements and have all billing sent to your attorney office only, please notify our office.
+
+Alice Johnson
+James Miller
+
+THIS IS A COMMUNICATION FROM A DEBT COLLECTOR. THIS IS AN ATTEMPT TO COLLECT A DEBT. ANY INFORMATION OBTAINED WILL BE USED FOR THAT PURPOSE.
+
+====page 3 end ====

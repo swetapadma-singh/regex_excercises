@@ -1,0 +1,44 @@
+====page 1====
+
+# Daily SOAP Note
+
+Alice Johnson CHIROPRACTIC
+100 Dummy Street, City A, State 12345
+New York, FL 10001555-000-0001
+www.athanschiro.com
+
+Robert Williams DOB:01/01/1990 UIN: MR-DUMMY-000001 Monday, October 20, 2025
+
+## SUBJECTIVE:
+
+The patient came in for his appointment and stated that he is doing slightly worse than he was doing on his last visit. On a scale ofoto 10 withobeing nothing and 10 being the worst, Mr. Robert Williams gave his neck a 2, entire upper back a 2, entire mid back a 2, entire lower back a 6, right arm a 2, right knee a 2 and generalized headaches a 2 since his last treatment. Mr. Robert Williams informed me that his neck is sharp, stiff, a numbness, tingly and sharp with motion. The patient's aggravating activities are unchanged and are when he does nothing since it is always there. The patient also informed me that his symptoms continue to improve when he rests.
+
+## OBJECTIVE:
+
+Biomechanical joint dysfunction over the patient's C2, C3, C4, T1, T2, T3, L1, L2 and L3 vertebral segments. Extra spinal subluxations were found in the patient's: right inferior scapula. Mr. Robert Williams presented with hypertonicity over his neck, entire mid back, entire upper back and entire lower back. Palpation of the patient revealed obviously tender taut fibers over his neck, entire mid back, entire upper back, entire lower back and right shoulder musculature.
+
+## ASSESSMENT:
+
+Based upon the results so far, the prognosis for this patient is fair.
+
+Current Diagnosis:
+- S14.2XXA Injury of nerve root of cervical spine, initial encounter
+- S24.2XXA Injury of nerve root of thoracic spine, initial encounter
+- M99.07 Nonallopathic lesion of upper extremities (finding)
+- G44.209 Tension-type headache (disorder)
+- M99.06 Segmental and somatic dysfunction of Lower extremity (finding)
+- M51.26 Displacement of lumbar intervertebral disc without myelopathy (disorder)
+Onset: Saturday, May 17, 2025
+
+## PROCEDURE/PLAN:
+
+Ultrasound was used to increase the blood flow, decrease the muscle tonicity, and to decrease the discomfort over Mr. Robert Williams's neck (97035). I applied electrical therapy to increase the Mr. Robert Williams's blood flow, decrease the tonicity, and decrease the discomfort over Mr. Robert Williams's neck and right shoulder musculature (G0283). I decided to use the Artho Stim Adjusting device on the patient over the following subluxations: C2, C3, C4, T1, T2, T3, L1, L2 and L3 (98941). An extremity adjustment was used over Mr. Robert Williams's right inferior scapula (98943). The patient has been instructed to return for his next treatment on an as needed basis.
+
+Dr. Alice Johnson
+NPI: 1497742993
+License: FL Lic.# CH 7004
+
+The patient has been instructed to return for his next treatment on an as needed basis. CPT codes: CMT 3-4
+Regions 98941, 98943 CMT Extremity and Electric Stim G0283 1 Unit
+
+====page 1 end ====

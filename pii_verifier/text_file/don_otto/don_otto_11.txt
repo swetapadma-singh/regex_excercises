@@ -1,0 +1,9098 @@
+====page 1====
+
+# **[LOGO PLACEHOLDER: Alice Johnson]**
+*(Note: Logo likely appears in the header of the original document, e.g., top of page with clinic/hospital branding.)*
+
+# Alice Johnson
+
+56 y.o. male (DOB: 01/01/1990)
+
+## 4/30/2025 0226
+
+|  Pt Class | Emergency | Admitting |   |
+| --- | --- | --- | --- |
+|  Service | Emergency Medicine | Attending |   |
+|  Location | St. Mary's Hospital | Referring | No ref. provider found  |
+|   | St. Mary's Hospital Emergency Department | Dx |   |
+|   | D41 |  |   |
+
+## Patient Demographics
+
+|  100 Dummy Street, City A, State 12345
+New York FL 90001 | PCP
+Language
+Phone | Emma Davis, MD
+English555-000-0001  |
+| --- | --- | --- |
+|  Emergency Contacts
+Benjamin Moore (Sister)555-000-0002
+James Miller (NOR/Attny)555-000-0003 |  |   |
+
+## Guarantor
+
+### PD04302025Robert Williams
+
+|  Relation | Self | Alice Johnson  |
+| --- | --- | --- |
+|  Address | 100 Dummy Street, City A, State 12345
+New York, FL 10001 | Self
+NA  |
+|  Home |555-000-0001  |
+| --- | --- |
+|  Work |   |
+|  Mobile |555-000-0001  |
+|  Employed at | Robert Williams (Full Time)  |(tbl-3.md)
+
+Olivia Wilson
+
+Medical Record #MR-DUMMY-000001
+
+Hospital Account #1990000912808
+
+Contact Serial #5010352211997
+
+June 3, 2025
+
+5010352211997
+
+====page 1 end ====
+
+====page 2====
+
+Patient Name:
+MRN:
+DOB:
+
+Olivia Wilson
+
+Alice Johnson
+MR-DUMMY-000001
+
+01/01/1990
+
+Olivia Wilson TREATMENT AND CONSENT AGREEMENT
+
+Olivia Wilson operates facilities including, but not limited to, hospitals, outpatient centers, medical groups, and
+Centra Care locations (referred to all together in this document as “Olivia Wilson”) across many states. Many
+of these facilities are separate legal entities. You may ask us for a list of Olivia Wilson entities. This
+Olivia Wilson Treatment and Consent Agreement (“Agreement”) may be signed one time each year to provide
+consent for treatment at all these Olivia Wilson facilities, unless you tell us you want to sign a new form at your
+appointment, or we update this form. This Agreement must be signed by the Patient or by the Patient’s Legal
+Representative acting for the Patient (for example, a parent signing for their minor child). All references to “I”,
+“me”, “my”, “you” and “your” refer to the Patient.
+
+CONSENT TO TREATMENT:
+
+1.
+Services, I consent to diagnostic and treatment procedures, examinations and laboratory procedures or
+inpatient admission, prescribed medications or other items (“Services”) needed for my treatment during my
+admission to or treatment at Olivia Wilson by doctors (“Physicians”), and other medical professionals,
+residents, students, integrated physician networks, health plan networks, and Olivia Wilson employees,
+contractors, and personnel (collectively “Care Providers”). I understand I will be told about my treatment and will
+be able to ask questions about the risks, options and hoped for outcome of the treatment before I let the
+treatment be done. I agree that no promises have been given to me as to the outcome of any treatment.
+
+2.Photograohy. I consent to photographs, video monitoring or audio recordings being taken of me for verifying
+my identity and/or my treatment.
+
+3.
+Video Visits. If I want to schedule a Video Visit or if my Physician thinks a Video Visit will work best for
+my care, I consent to be treated through electronic communications online that will connect me with my
+Physician or Care Provider in another location. I understand that during a Video Visit there is a risk of technical
+failures beyond the control of Olivia Wilson which could make the images harder to see correctly, or cause my
+health record to be breached or not accessible, or delay my treatment. I also understand that a Video Visit may
+be more efficient and allows me to stay at home for treatment or be treated by a distant specialist. I understand
+that other persons may be present during the Video Visit.
+
+4.
+Independent Contractors. I understand that many of the Physicians and Care Providers who provide
+treatment to me at a hospital, ambulatory surgery center, free standing emergency department or urgent care
+facility are not employees or agents of Olivia Wilson. I understand that these independent contractors may, as
+permitted by law, bill me on their own for the Services they provide. Independent contractors are responsible for
+their own actions. Olivia Wilson is not responsible for Services provided to me by these independent
+contractors. Olivia Wilson does not pay for the errors or mistakes or failure to act by any of these independent
+contractors.
+
+5.
+Patient Rights. I understand a copy of Olivia Wilson’s Patient Rights and Responsibilities information will
+be offered to me as required by law.
+
+Olivia Wilson Treatment and Consent Agreement/Multistate
+Updated: 01/01/2025
+Version: 10.0
+
+====page 2 end ====
+
+====page 3====
+
+Olivia Wilson
+
+6.
+Advance Directives. I have been able to tell Olivia Wilson about my current choices for Advance
+Directives by filling out a new form or giving them a copy of my earlier Advance Directives. Olivia Wilson,
+Physicians and Care Providers are not required to follow Advance Directives they do not know about. Please
+select which option(s) below applies to you:
+
+*****SELECTION REQUIRED TO PROCEED*****
+r I have Advance Directives and I have given a copy to Olivia Wilson.
+
+C I have Advance Directives, but I have not given Olivia Wilson a copy. I understand I must give
+Olivia Wilson a copy.
+
+(7 | do not have Advance Directives.
+r I would like information about Advance Directives.
+
+7.
+Legal Representative. I have been able to tell Olivia Wilson about my current choice for my Legal
+Representative by giving them a copy of my legal documents outlining my decision. Olivia Wilson,
+Physicians and Care Providers are not required to involve my Legal Representative in my treatment if they do
+not know who my Legal Representative is or if there are changes to this delegation they do not know about. I
+understand that I am responsible to tell Olivia Wilson, Physicians and Care Providers when I change my Legal
+Representative, or when the powers of the Legal Representative end.
+8.
+Personal PropertyA/aluables. Where applicable, I will give any personal property or valuables to
+Olivia Wilson for storage in a secure location if I want to ensure my personal property and valuables are
+safe. Olivia Wilson shall not be liable in any event for loss or damage to personal property or valuables in
+excess of $100. I release Olivia Wilson from liability for any personal property or valuables that are not given
+to Olivia Wilson for safekeeping.
+
+CONSENT TO PAYMENT:
+
+1.
+Payment. I, or (where permitted by law) my Legal Representative signing this Agreement for me, must
+pay for the Services received during my treatment today and any related future Services provided by
+Olivia Wilson, Physicians and Care Providers (“Account”), including any required co-pays, with cash, check,
+credit card and/or insurance. I understand that no credit is being given to me and that the Account is due and
+payable right away. If I cannot pay my Account in full when due, Olivia Wilson’s Financial Services Office
+will determine if I qualify for any financial assistance. If I do not pay for all my Services and Olivia Wilson
+sends my Account to an attorney or collection agency, I agree to pay the attorneys’ fees and collection
+expenses as permitted by law up to 25% of the money I owe.
+
+FOR Olivia Wilson FACILITIES IN COLORADO: I understand that if I am receiving treatment in Colorado,
+there are certain times when balance billing (when an out-of-network provider bills you for the difference
+between their billed charge and the amount your health insurance or plan pays) is prohibited. If a patient has or
+may have insurance, balance bills are prohibited under some state and federal laws when a patient receives:
+
+• Emergency services;
+• Non-emergency services from an out-of-network provider (like an anesthesiologist or radiologist) at an
+in-network facility, such as a hospital;
+
+Olivia Wilson Treatment and Consent Agreement/Multistate
+Updated: 01/01/2025
+Version: 10.0
+
+====page 3 end ====
+
+====page 4====
+
+Olivia Wilson
+• Emergency services from a private ground ambulance provider (not from a fire department or
+government entity); and
+• Services from an out-of-network air ambulance provider.
+
+In these circumstances, some state and federal laws prohibit providers from sending me a surprise balance
+bill, and I cannot be charged for more than in-network cost-sharing for these services. I acknowledge I have
+received disclosures related to balance bills.
+
+I also understand that in Colorado there is no guarantee of reimbursement or payment from any insurance
+company or other payer. I understand this Agreement is a contract and that it obligates me to pay all charges for
+my treatment not paid by my insurer or any other payer source, unless specifically prohibited by applicable law. I
+understand the hospital has pre-determined the charges for certain procedures, supplies, and treatments,
+
+which these chargesarelisted inthe hospital'sChargemaster, and thesepricesare incorporated byreference into
+this Agreement. I acknowledge it may not be possible to state in advance which specific supplies and services
+will be part of my treatment. I acknowledge I have the right to request an estimate of the facility's average
+charge for treatments that are frequently performed on in-patient, outpatient, or surgical procedures. If I receive
+an estimate of charges, I acknowledge that the hospital is acting in good faith by providing such an estimate. I
+acknowledge that any estimate is not binding and that the charges I am personally obligated to pay may be
+more than the estimated charge for my specific treatment. I acknowledge this Agreement means I personally
+have full financial responsibility for, and agree to pay, all charges of the hospital and of physicians rendering
+services not otherwise paid by my health insurance or other payer based upon the hospital's pre-determined
+Chargemaster rates, unless specifically prohibited by applicable law.
+
+I hereby acknowledge and agree that the hospital has not made anyimplied representations aboutthe chargesI
+
+am personally obligated to pay.Iunderstand the chargesI will be charged for my treatment are pre-determined
+rates based upon the Chargemaster in effect at the time of my treatment. I have agreed to pay the hospital's
+
+Chargemaster rates for the treatment I receive in Colorado.
+
+2.
+Credit Card Payments. If I pay for the Services with my credit card, I certify that I am the credit card
+holder and authorize payment of the Services.
+
+3.
+Insurance Payments and Assignment of Benefits. If I am entitled to benefits under: (i) the Medicare
+program, the Medicaid program, other kinds of government insurance (the "Program"); (ii) Employee
+Retirement Income Security Act (“ERISA”) health benefit plans; or (iii) any insurance policy or other health
+benefit plan (covering me or anyone legally responsible for me) or from any other source (the “Benefit Plan”),
+including as a result of injuries sustained by me, in consideration for admission to and/or for Services provided
+to me by Olivia Wilson, Physicians and Care Providers, which includes independent contractors, I irrevocably
+assign, transfer and convey the Program and Benefit Plan benefits payable and all right, title and interest in and
+to such benefits, compensation or payment received or to be received for the Services provided to me by
+Olivia Wilson, Physicians and Care Providers (collectively “Benefits”) to Olivia Wilson, Physicians, Care
+Providers, and their assignees. I irrevocably authorize payment of my Benefits directly to Olivia Wilson,
+Physicians, Care Providers and their assignees, to be applied to my Account. I understand that assigning my
+payment of Benefits will not relieve me of obligations to pay Olivia Wilson, Physicians, Care Providers, and their
+assignees, for charges that are not covered by this assignment. If assignment or direct payment is not
+permitted, I agree to direct my Benefit Plan to make checks or drafts jointly payable to (i) the beneficiary or
+covered perEmma Davis and (ii) Olivia Wilson, Physicians, Care Providers, or their assignees, and to send payment to
+me in care of Olivia Wilson, Physicians, Care Providers, or their assignees. I also give permission for
+Olivia Wilson, Physicians and Care Providers to seek payment in full for charges from parties who injure me or
+
+Olivia Wilson Treatment and Consent Agreement/Multistate
+Updated: 01/01/2025
+Version: 10.0
+
+====page 4 end ====
+
+====page 5====
+
+Olivia Wilson
+
+others who may be obligated to pay for my care and their insurers even if Benefits are payable by a managed
+care payer on my behalf. I agree to pay the difference between the amount my insurance pays and
+Olivia Wilson, Physicians or Care Providers’ charges (as limited by law or contract) except when Olivia Wilson,
+Physicians or Care Providers have a contract(s) with a Benefit Plan that will not let them collect that difference
+from me and/or the subscriber.
+
+If my Benefit Plan includes a self-funded/insured plan under ERISA or other type of Benefit Plan, in order to help
+me get my Benefits: I irrevocably authorize and appoint Olivia Wilson, Physicians, Care Providers or their
+assignees to be my representative and attorney-in-fact, when Olivia Wilson, Physicians, Care Providers or their
+assignees agree in writing to so act in taking all actions needed to get payment, appealing any adverse benefit
+determination or requesting any reconsideration and to receive notices on my behalf for this purpose. I will
+follow the procedures required by ERISA or my Benefit Plan for this authorization, if any.
+
+4.
+Honesty and Cooperation Statement. I promise that my (i) payment sources and insurance coverage
+information and (ii) any completed insurance applications are true and correct to the best of my knowledge. I
+agree to give my insurance or financial assistance information timely. I agree to pay all charges that could have
+been filed if deadlines are missed due to my dishonesty or non-cooperation.
+
+5.
+Consumer Report Consent. I authorize Olivia Wilson, Physicians and Care Providers, or their
+assignees, to get consumer reports about me from one or more consumer reporting agencies to assist
+Olivia Wilson, Physicians and Care Providers, or their assignees, with their business activities related to billing,
+collecting, instituting payment arrangements, and/or determining eligibility for uncompensated care and/or
+government programs for past, current or upcoming Services at the hospital or outpatient center (whether or
+not such Service did, may, or will involve an extension of credit) or to resolve any outstanding Account
+balances. I understand Olivia Wilson, Physicians and Care Providers or their assignees may obtain consumer
+reports about me for Services at the hospital or outpatient center without my written permission under some
+circumstances as permitted by law. Consumer reports will not be pulled for Services provided at Olivia Wilson
+Medical Group or Centra Care locations.
+
+6.
+Credit Balances. I give permission to apply any credit balances to pay for amounts due to Olivia Wilson,
+Physicians, and Care Providers for current Accounts or accounts I have not paid yet.
+
+7.
+Hospital Laboratory Bills. Testing of fluids/specimens in Olivia Wilson’s laboratory at the hospital is
+performed under the supervision of a Physician (i.e., pathologist) who may not perform the test or review
+results, but who does supervise and monitor reporting of the laboratory test results to ordering Physicians. As
+permitted by law, I AUTHORIZE PAYMENT BY MY BENEFITS FOR THE PHYSICIAN/PATHOLOGIST
+SUPERVISORY SERVICES. I understand I will not be billed for these supervisory services at the Olivia Wilson
+laboratory if my Benefits deny reimbursement.
+
+CONSENT TO SHARING HEALTH INFORMATION:
+
+I give consent to Olivia Wilson, Physicians and Care Providers to share the following health information as
+permitted by law and described below:
+
+a.
+What Health Information: My name, address, contact information, financial information, diagnoses,
+treatment information which includes HIGHLY CONFIDENTIAL SUBSTANCE ABUSE, MENTAL HEALTH AND
+HIV/AIDS INFORMATION AS WELL AS INFORMATION IDENTIFIED IN THE Olivia Wilson JOINT NOTICE
+OF PRIVACY PRACTICES AS SUBJECT TO SPECIAL STATE LAWS, and any other information that is part of
+my health record with Olivia Wilson.
+
+Olivia Wilson Treatment and Consent Agreement/Multistate
+Updated: 01/01/2025
+Version: 10.0
+
+====page 5 end ====
+
+====page 6====
+
+# **[LOGO PLACEHOLDER: Olivia Wilson / c. **To Whom**]**
+*(Note: Logo likely appears in the header of the original document, e.g., top of page with clinic/hospital branding.)*
+
+# Olivia Wilson
+
+b. **For What Purposes**: Treatment, payment, and healthcare operations and as further described in the Olivia Wilson Joint Notice of Privacy Practices.
+
+c. **To Whom**:
+
+- Any perEmma Davis or entity responsible for (i) paying for or determining if I am eligible for payment for my treatment or for assigning my Benefits, and (ii) their healthcare operations.
+- Physicians or Care Providers or my referring physician and any health care practitioner, nursing home, health care facility, ambulance service, home health agency, hospice, government or private agency which may provide medical, mental health, rehabilitation, social or related Services to me during a visit with, or during or upon my discharge or transfer from an Olivia Wilson facility.
+- Physicians who have not treated me at Olivia Wilson, but who have my written permission to access my health information.
+- Business partners (and their agents and vendors used to provide the services) of Olivia Wilson, Physicians or Care Providers who provide administrative, operational, financial, billing and collection, legal and technical support services.
+- Olivia Wilson’s affiliates, which are other entities owned or managed by Olivia Wilson or other physicians who are part of integrated physician or plan networks.
+- Olivia Wilson’s institutionally related foundation for fundraising purposes, but only when I have received treatment at the hospital and then only my name, address, contact information, age, gender, dates of services, health insurance status, department where services were provided in the hospital, treating physician(s), and outcome information.
+- Recipients who are required or permitted by law to have access to my health information.
+
+d. **How Will It Be Shared**: Hand delivery, mail, and electronically such as but not limited to electronic mail, facsimile, and through health information exchanges. Health information exchanges are entities that store and/or transfer health information electronically among providers to treat patients. This consent means that Olivia Wilson, Physicians and Care Providers may access my health information through health information exchanges and share my health information with other health care providers through health information exchanges. I understand my highly confidential information will be part of my health information shared or accessed.
+
+e. **Can I Stop Sharing My Health Information**: Please review the Olivia Wilson Joint Notice of Privacy Practices and ask Olivia Wilson for the Request to Restrict Use and Disclosure of Protected Health Information form.
+
+These signature fields below will be locked until you’ve made a selection in the advanced directives section above.
+
+(Initial Here) I give consent to Olivia Wilson, Physicians and Care Providers to use, share and access my health information as permitted by law and described above.
+
+Olivia Wilson Treatment and Consent Agreement/Multistate
+Updated: 01/01/2025
+Version: 13.0
+
+====page 6 end ====
+
+====page 7====
+
+Olivia Wilson
+
+CONSENT TO CONTACT:
+
+By signing this Agreement, I understand that I am giving permission to Olivia Wilson, Physicians, and Care
+Providers, and their independent contractors, agents, and assignees to call me and send messages (for
+example, text messages, emails, and chat messages etc.) to me at any time, at any telephone number
+including any current or subsequently obtained cellular or wireless number that I am a user or subscriber of that
+is provided by me or given to Olivia Wilson by a third party helping Olivia Wilson collect my debt, by using an
+automatic telephone dialing system or an artificial or prerecorded voice, for any purpose related to my
+healthcare and treatment, including prescription refill and appointment reminders, billing or collecting payment
+for my care (including financial assistance options), recommending possible treatment options or health-related
+benefits and services, and transportation arrangements. Consent to contact you for payment as described
+above continues until you tell us to cancel your consent or you make payment in full or Olivia Wilson,
+Physicians or Care Providers waive or cancel your payment.
+
+You may opt out of receiving text messages from Olivia Wilson at any time by texting STOP each time a
+message is sent to you from us. You may also select certain communication choices within the Olivia Wilson
+app. You may contact Olivia Wilson at any time to opt out of receiving auto-dialed or pre-recorded voice calls.
+Olivia Wilson reserves the right to have an Olivia Wilson staff member personally call you at any time about
+your treatment or payment for our Services.
+
+EFFECTIVE PERIOD:
+
+(Initial Here) I understand this Agreement is effective during the calendar year I sign it and until I sign it
+again.
+
+07W ( !//a W/Z/zi’zKWZ'
+
+i i
+jk.
+i r,..- 1 1... <
+11..,,.
+n,-,...,i.,.,.■!.!
+r rn
+rr-' ; • ui
+
+ANY HANDWRITTEN CHANGES TO THIS FORM SHALL NOT BE LEGALLY BINDING OR ENFORCEABLE. I
+HAVE READ THIS AGREEMENT OR HAVE HAD IT READ TO ME. IT HAS BEEN EXPLAINED TO MY
+SATISFACTION.
+
+1
+
+Signature:
+
+IF THE SIGNATURE ABOVE IS NOT THE PATIENT'S, WRITE THE NAME AND RELATIONSHIP OF THE
+PEREmma Davis SIGNING FOR THE PATIENT BELOW.
+
+Olivia Wilson Treatment and Consent Agreement/Multistate
+Updated: 01/01/2025
+Version: 10.0
+
+====page 7 end ====
+
+====page 8====
+
+Olivia Wilson
+
+Relationship: (e.g., Parent, Guardian, Health Care Surrogate, Guarantor, Proxy, Power of Attorney}
+
+Printed Name:
+
+EMPLOYEE SIGNATURE IF PATIENT OR LEGAL REPRESENTATIVE IS NOT ABLE/UNWILLING TO SIGN.
+ReaEmma Davis Patient Unable To Sign:
+Signature:
+
+IF INTERPRETER SERVICES ARE USED.
+
+Interpreter Signature:
+
+Please write the interpreter name, badge ID number, language translated, method of translation (phone,
+video, or in-perEmma Davis), and interpreter signature if translation is in-perEmma Davis:
+
+Interpreter Name:
+
+Badge ID Number:
+
+Language Translated:
+
+Olivia Wilson Treatment and Consent Agreement/Multistate
+Updated: 01/01/2025
+Version: 10.0
+
+====page 8 end ====
+
+====page 9====
+
+# Olivia Wilson
+
+Method of Translation:
+
+Olivia Wilson Treatment and Consent Agreement/Multistate
+Updated: 01/01/2025
+Version: 10.0
+
+====page 9 end ====
+
+====page 10====
+
+AHEOR EAST New York HOSPITAL
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in County General Hospital
+
+ReaEmma Davis for Visit
+
+Chief Complaint [last edited by Lucas Anderson, RN on 4/30/2025 0213]
+
+•
+Motor Vehicle Crash
+
+Visit Diagnosis [last edited by Mia Thompson, DO on 4/30/2025 0536]
+
+• Cervical strain, acute, initial encounter (primary)
+
+Visit Information
+
+Admission Information
+
+Arrival Date/Time:
+04/30/2025 0211
+Admit Date/Time:
+04/30/2025 0226
+IP Adm. Date/Time:
+Admission Type:
+
+Means of Arrival:
+
+Emergency
+
+Car
+
+Point of Origin:
+
+Primary Service:
+
+Nonhealthcare
+Facility Point Of
+Origin
+Emergency Medicine
+
+Admit Category:
+
+Secondary Service:
+N/A
+Transfer Source:
+
+Admit Provider:
+
+Service Area:
+
+Attending Provider:
+
+Olivia Wilson
+SERVICE AREA
+
+Daniel Harris,
+MD
+
+Unit:
+
+Referring Provider:
+
+County General Hospital
+
+ED Disposition
+
+ED Disposition
+Discharge
+
+Condition
+Stable
+
+User
+Mia Thompson,
+DO
+
+Date/Time
+
+Wed Apr 30,
+2025 5:36 AM
+
+Comment
+
+Discharge Information
+
+Date/Time: 04/30/2025 0600
+Provider: Daniel Harris, MD
+
+Disposition: Home Or Self Care
+Destination: —
+Unit: County General Hospital
+
+Follow-up Information
+
+Follow up With
+Specialties
+Details
+Why
+Contact Info555-000-0004
+
+Emma Davis, MD
+Internal Medicine
+300 Test Avenue, City C, State 11111
+Suite 200
+New York FL 90001555-000-0005
+
+County General Hospital
+
+Emergency Medicine
+Go to
+As needed, If symptoms
+worsen
+
+400 Placeholder Road, City D, State 22222
+New York Florida 32822-
+8224
+
+Treatment Team
+
+Provider
+Service
+Role
+Provider Team
+Specialty
+From
+To
+Daniel Harris
+
+—
+Attending
+—
+Emergency
+Medicine
+
+04/30/25 0227
+04/30/25 0600
+
+Ava Martinez
+—
+Emergency
+—
+Advanced Tech
+
+Emergency
+Medicine
+
+04/30/25 0318
+04/30/25 0327
+
+Liam Clark,
+RN
+
+—
+Registered
+—
+Nurse
+
+Emergency
+Medicine
+
+04/30/25 0234
+—
+
+Mia Thompson
+
+—
+Resident
+—
+Emergency
+Medicine
+
+04/30/25 0226
+—
+
+ED Care Timeline
+
+Patient Care Timeline (4/30/2025 02:11 to 4/30/2025 06:00)
+
+4/30/2025
+Event
+Details
+User
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 1
+
+====page 10 end ====
+
+====page 11====
+
+# **[LOGO PLACEHOLDER: City Medical Center]**
+*(Note: Logo likely appears in the header of the original document, e.g., top of page with clinic/hospital branding.)*
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+ED Care Timeline (continued)
+
+|  02:11 | GE MC - Patient arrived in ED |  | Noah Rodriguez  |
+| --- | --- | --- | --- |
+|  02:11 | Patient arrived in ED |  | Noah Rodriguez  |
+|  02:11:34 | Emergency encounter created |  | Noah Rodriguez  |
+|  02:12:12 | Arrival Complaint | MVC, L RIB AND SHOULDER PAIN |   |
+|  02:13 | Triage Completed |  | Lucas Anderson, RN  |
+|  02:13 | Triage Completed |  | Lucas Anderson, RN  |
+|  02:13 | GE MC - Triage Completed |  | Lucas Anderson, RN  |
+|  02:13 | Acuity | Acuity
+Patient Acuity: 4
+Triage Complete: Triage complete | Lucas Anderson, RN  |
+|  02:13 | Vital Signs | Height and Weight
+Height: 175.3 cm (5' 9")
+Height Method: Stated
+Weight: 95.3 kg (210 lb)
+Weight Method: Stated | Lucas Anderson, RN  |
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 2
+
+====page 11 end ====
+
+====page 12====
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+ED Care Timeline (continued)
+
+02:13
+Custom Formula
+Vitals
+Lucas Anderson
+Data
+Total Weight Change: 0
+Lucas Anderson, RN
+Measurements
+
+Total Weight Change Percent: 2222 Percent
+Weight Change Since Preop: 95.23 kgs
+Initial Excess Weight: -72.57 kgs
+Percent of IBW: 4630.01 Percent
+EBW(kg): 3357.94 kg
+EBW(lbs): 3350 lbs
+Weight Change Since Preop: 95.25 kg
+Initial Excess Weight: -72.57 kg
+Percent of IBW: 131.25 Percent
+EBW(kg): 22.66 kg
+EBW(lb): 50 lb
+Vital Signs
+
+BMI (Calculated): 31
+Height and Weight
+
+BSA (Calculated - sq m): 2.15 sq meters
+Weight in (lb) to have BMI = 25: 168.9
+Measurements
+
+Percent Excess Weight Loss: 0 Percent
+Weight and Growth Recommendation
+
+IBW/kg (Calculated) Female: 66.2 kg
+Adult IBW/VT Calculations
+
+IBW kg (Calculated) : 70.7
+Adult Low Range Vt 6mL/kg : 424.2 mL/kg
+Adult Moderate Range Vt 8mL/kg : 565.6 mL/kg
+Adult High Range Vt 10mL/kg: 707 mL/kg
+Adult Lower Range Vt 4mL/kg : 282.8 mL
+Adult Low Range Vt 6mL/kg : 424.2 mL
+Adult Moderate Range Vt 8mL/kg : 565.6 mL
+Adult High Range Vt 10mL/kg: 707 mL
+Pediatric IBW/VT Calculations
+
+Pediatric Low Range Vt 6mL/kg: 356.58 mL
+Pediatric Moderate Range Vt 8mL/kg : 475.44 mL
+Pediatric High Range Vt 10mL/kg: 594.3 mL
+IBW kg Pediatrics (Calculated) : 59.43
+Pediatric Low Range Vt 6mL/kg : 356.58 mL/kg
+Pediatric Moderate Range Vt 8mL/kg : 475.44 mL/kg
+Pediatric High Range Vt 10mL/kg: 594.3 mL/kg
+NICU VT Calculations
+
+NICU Low Range Vt4mUkg: 381.02 mL
+NICU Moderate Range Vt 5mL/kg : 476.27 mL
+NICU High Range Vt 6mL/kg: 571.53 mL
+NICU Low Range Vt4mL/kg : 381.02 mL/kg
+NICU Moderate Range Vt 5mL/kg : 476.27 mL/kg
+NICU High Range Vt 6mL/kg: 571.53 mL/kg
+Other flowsheet entries
+
+BMI (Calculated): 31.1
+Percent Excess Weight Loss: 0 Percent
+IBW in lbs (Bariatric): 160
+Weight Change Since Last Visit: 95.23 kg
+IBW in kg (Bariatric): 72.57
+IBW/kg (Calculated) Male: 70.7 kg
+Daily Weight Change: -4536 g
+BMI (Calculated): 31
+BMI (Calculated): 31.1
+IBW in kg (Bariatric): 72.57 kg
+IBW in lb (Bariatric): 1601b
+Weight Change Since Last Visit: 95.25 kg
+IBW/kg (Calculated) Male: 70.7 kg
+IBW/kg (Calculated) Female: 66.2 kg
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 3
+
+====page 12 end ====
+
+====page 13====
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in A
+
+ED Care Timeline (continued)
+
+idventHealth East New York Emergency Department (continued)
+
+02:13:11
+
+02:13:11
+
+GE MC - Triage
+Started
+Triage Started
+
+Lucas Anderson, RN
+Lucas Anderson, RN
+02:13:11
+
+02:13:15
+
+02:13:18
+
+Chief Complaints
+Updated
+Acuity 4 Selected
+
+Allergies Reviewed
+
+Motor Vehicle Crash
+Lucas Anderson, RN
+Lucas Anderson, RN
+Lucas Anderson, RN
+02:14
+Travel Screening
+Have you been in contact with someone who was sick? No / Unsure ; Do you
+have any of the following new or worsening symptoms? Joint pain; Muscle
+pain ; Have you traveled internationally or domestically in the last month? No
+Travel Locations: Travel history not shown for past encounters
+
+Lucas Anderson, RN
+
+02:14
+Primary
+Assessment
+
+Airway
+
+Airway (WDL): Within Defined Limits
+Breathing
+
+Breathing (WDL): Within Defined Limits
+Circulation
+
+Circulation (WDL): Within Defined Limits
+Disability
+
+Disability (WDL): Within Defined Limits
+
+Lucas Anderson, RN
+
+02:14
+Vital Signs
+Vital Signs
+
+Restart Vitals Timer: Yes
+
+Lucas Anderson, RN
+
+02:14
+Sepsis Screening
+Sepsis Screening
+
+Are there risk factors of infection present/new?: Current infection
+present/suspected’
+Sepsis Escalation Critiera: No criteria met
+Is there a suspected infection?: Unknown/other source of infection ’■
+
+Lucas Anderson, RN
+
+02:14
+Vital Signs
+' - ' Vital Signs
+
+BP: 151/80 *
+
+Lucas Anderson, RN
+
+02:14
+Vitals
+Reassessment
+
+Vitals Timer
+
+Restart Vitals Timer: Yes
+
+Lucas Anderson, RN
+
+02:14
+Pain Assessment
+Pain Assessment Timer
+
+Restart Pain Assessment Timer: Yes
+
+Lucas Anderson, RN
+
+02:14
+Vital Signs
+Vital Signs
+
+Temp: 36.7 °C (98.1 °F)
+Heart Rate: 62
+Resp: 20
+Oxygen Saturation
+
+SpO2: 98%
+Pain Assessment
+
+Pain Assessment: 0-10
+Pain Score: 3 - Mild pain
+
+Lucas Anderson, RN
+
+02:14
+Vitals/Pain
+Vitals
+
+MAP CALCULATED (mmHg): 104
+
+Lucas Anderson, RN
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 4
+
+====page 13 end ====
+
+====page 14====
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+ED Care Timeline (continued)
+
+02:14
+Communicable
+Disease Screening
+Coat'd
+
+Communicable Disease Screen Cont'd
+Lucas Anderson
+Confirmed Positive Influenza Result Past 14 Days: No
+Lucas Anderson, RN
+Have you had 3 or more unexplained diarrheal stools (watery/liquid) in the
+last 24 hours (exclude patients with known chronic diarrhea, laxative use,
+new medications with possible side effect, known condition such as lactose
+intolerance)?: No
+Have you had diarrhea and 1 or more of these risk factors: age 65 y or
+greater, fever, chills, abdominal pain, nausea, IBD or immune compromise;
+OR diarrhea and within last 30 days had C diff infection,
+hospitalization/LTAC/SNF stay, or antibiotic use?: No
+Employed in Healthcare: No
+Do you live in Group/Communal/Congregate Living setting?: No
+Have you been notified by your physician or the health department that you
+had an infection that requires special precautions or treatment in the last 12
+months? : No
+Have you been hospitalized outside of the United States within the last 12
+months?: No
+
+02:14
+Custom Formula
+Data
+
+Relevant Labs and Vitals
+Lucas Anderson
+Temp (in Celsius) for APACHE IV: 36.7
+Lucas Anderson, RN
+Other flowsheet entries
+
+Last Pain Score Used: 0-10
+
+02:21
+Care Level Score
+(CLS)
+
+XSOLIS Care Level Score
+Interface,
+CLS Score: 12 (Device Time: 02:21:00)
+Incoming Clinical
+CLS Max Score: 12 (Device Time: 02:21:00)
+Documentation
+Flowsheet - Xsolis
+- Cortex
+02:26:08
+Patient roomed in
+ED
+
+To room D41
+Benjamin Moore,
+CNA
+02:26:30
+Assign Resident
+
+02:26:30
+Assign Physician
+
+02:26:30
+GE MC- Assign
+Physician
+
+Mia Thompson, DO assigned as Resident
+Mia Thompson, DO
+
+Mia Thompson, DO
+
+Mia Thompson, DO
+
+02:27:44
+Assign Physician
+
+02:27:44
+GE MC- Assign
+Physician
+
+Daniel Harris, MD assigned as Attending
+Mia Thompson, DO
+
+Mia Thompson, DO
+
+02:28
+Assign Registrar
+
+02:28:10
+Registrar Assigned
+
+02:28:43
+First Provider
+Evaluation
+
+Other flowsheet entries
+Isabella Garcia
+Assign Registrar: Sign up to register patient
+Noah Rodriguez
+
+Isabella Garcia
+Noah Rodriguez
+Daniel Harris,
+MD
+02:30
+Sepsis Predictive
+Model Score
+
+Sepsis Model Scores
+Ethan Hernandez,
+Early Detection of Sepsis Score: 1.3
+Charlotte Lopez
+
+02:34
+Glasgow Coma
+Scale
+
+Glasgow Coma Scale
+Liam Clark,
+Best Eye Response: Spontaneous
+RN
+Best Verbal Response: Oriented
+Best Motor Response: Follows commands
+Glasgow Coma Scale Score: 15
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 5
+
+====page 14 end ====
+
+====page 15====
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in >
+
+ED Care Timeline (continued)
+
+'XdventHealth East New York Emergency Department (continued)
+
+02:34
+Complex
+Assessment
+
+Neurological
+
+Level of Consciousness: Alert
+Orientation Level: Oriented X4
+Cognition: Appropriate judgement; Appropriate safety awareness;
+Appropriate attention/concentration
+Sedation Scales
+
+Sedation Scale Used: Richmond Agitation Sedation Scale
+Richmond Agitation Sedation Scale (RASS): Alert and calm
+HEENT
+
+HEENT (WDL): Exceptions to WDL
+Neck: Tenderness; Trachea midline; Symmetrical; No trauma/injury
+Respiratory
+
+Respiratory Pattern: Normal
+Respiratory Depth/Rhythm: Regular
+Respiratory Effort: Unlabored
+Chest Assessment: Chest expansion symmetrical
+Musculoskeletal
+
+Musculoskeletal (WDL): Exceptions to WDL (C/O rib Pain)
+Charting Type
+
+Charting Type: Shift assessment
+
+Liam Clark,
+RN
+
+02:34
+Custom Formula
+Data
+
+Glasgow Coma Scale
+
+Glasgow Coma Scale Numeric: 15
+Confusion Assessment Method-ICU (CAM-ICU)
+
+Feature 3: Altered Level of Consciousness: Negative
+
+Liam Clark,
+RN
+
+02:34:36
+Assign Nurse
+Liam Clark, RN assigned as Registered Nurse
+Liam Clark,
+RN
+02:40
+Suicide Risk
+Screening
+
+Columbia Suicide Severity Rating Scale
+
+1.Have you wished you were dead or wished you could go to sleep and not
+wake up?(Past Month): No
+2.Have you actually had any thoughts of killing yourself?(Past Month): No
+6.Have you ever done anything, started to do anything, or prepared to do
+anything to end your life?: No
+Suicide Risk: No Risk Indicated
+
+Liam Clark,
+RN
+
+02:40
+TB Screening
+TB Screening
+
+Active TB or History of TB (even if on meds): No
+Immunocompromised (HIV, Cancer): No
+Incarcerated within Last 2 Years: No
+New Positive Test Result for Tuberculin Skin Test (TST) or Interferon
+Gamma Release (IGRA), History of Recent TB Exposure: No
+Bloody Sputum: No
+Cough Greater Than 2 Weeks: No
+Homeless or in a Shelter: No
+Foreign Born: No
+IV Drug User: No
+Unexplained Weight Loss More Than 10lbs in 30 Days: No
+Fever and/or Chills and/or Night Sweats: No
+Total Score : 0
+TB Interventions
+
+Mask Placed on Patient: No
+Notify Provider : No
+
+Liam Clark,
+RN
+
+02:40
+S.T.A.R. Program
+S.T.A.R. Program
+
+Is there a history of sensory or developmental concerns?: No
+
+Liam Clark,
+RN
+
+02:40
+Custom Formula
+Data
+
+Columbia Suicide Severity Rating Scale
+
+Risk of Suicide: Low Risk
+
+Liam Clark,
+RN
+
+02:45
+Sepsis Predictive
+Model Score
+
+Sepsis Model Scores
+
+Early Detection of Sepsis Score: 1.3
+
+Ethan Hernandez,
+Charlotte Lopez
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 6
+
+====page 15 end ====
+
+====page 16====
+
+# **[LOGO PLACEHOLDER: City Medical Center]**
+*(Note: Logo likely appears in the header of the original document, e.g., top of page with clinic/hospital branding.)*
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+
+04/30/2025 - ED in AdventHealth East New York Emergency Department (continued)
+
+ED Care Timeline (continued)
+
+|  02:46:07 | Registration Completed |  | Isabella Garcia
+Amelia Perez  |
+| --- | --- | --- | --- |
+|  02:55:12 | Orders Placed | Imaging - CT Head Cervical Spine WO IV Contrast; CT Chest Abdomen Pelvis W IV Contrast
+IV - Insert peripheral IV | Mia Thompson, DO  |
+|  02:55:13 | CT Ordered | CT CHEST ABDOMEN PELVIS W IV CONTRAST, CT HEAD CERVICAL SPINE WO IV CONTRAST | Mia Thompson, DO  |
+|  02:55:16 | Orders Placed | Medications - acetaminophen (Ofirmev) injection 1,000 mg | Mia Thompson, DO  |
+|  02:58:23 | Orders Placed | Medications - lopamidol (Isovue-370) 76 % solution 80 mL | Daniel Harris, MD  |
+|  03:01:05 | Allergies Reviewed |  | Daniel Harris, MD  |
+|  03:01:05 | History Reviewed | Sections Reviewed: Tobacco, Alcohol, Drug Use, Sexual Activity, Custom, Social Documentation, Socioeconomic, Medical, Surgical, Family | Daniel Harris, MD  |
+|  03:01:05 | Home Medications Reviewed |  | Daniel Harris, MD  |
+|  03:02:30 | Note Shared | ED Prov Note filed by Logan Sanchez | Logan Sanchez  |
+|  03:08:06 | Orders Acknowledged | New - Insert peripheral IV; CT Head Cervical Spine WO IV Contrast; CT Chest Abdomen Pelvis W IV Contrast; acetaminophen (Ofirmev) injection 1,000 mg; lopamidol (Isovue-370) 76 % solution 80 mL | Liam Clark, RN  |
+|  03:15 | Sepsis Predictive Model Score | Sepsis Model Scores
+Early Detection of Sepsis Score: 1.26 | Chronicics, Batchq  |
+|  03:18:32 | Team Member Assigned | Ava Martinez assigned as Emergency Advanced Tech | Ava Martinez  |
+|  03:27:27 | Team Member Removed | Ava Martinez removed as Emergency Advanced Tech | Ava Martinez  |
+|  03:38 | Peripheral IV 04/30/25 Right Antecubital Placed | Removal Date/Time: 04/30/25 0545 Placement Date/Time: 04/30/25 0338
+Size Gauge: 20 G Orientation: Right Location: Antecubital | Liam Clark, RN  |
+|  03:42 | Medication New Bag | acetaminophen (Ofirmev) injection 1,000 mg - Dose: 1,000 mg ; Rate: 400 mL/hr ; Route: Intravenous ; Line: Peripheral IV 04/30/25 Right Antecubital ; Scheduled Time: 0300 | Liam Clark, RN  |
+|  03:42 | Peripheral IV 04/30/25 Right Antecubital Assessment | Site Assessment: Clean; Dry; Intact
+Dressing Status: Clean; Dry; Intact
+Dressing Intervention: New dressing
+Dressing Type: Transparent
+Infiltration Score (Adult): 0 + I
+Phlebitis Score: 0 | Liam Clark, RN  |
+|  03:42 | Pain Assessment | Pain Assessment Timer
+Restart Pain Assessment Timer: Yes | Liam Clark, RN  |
+|  03:42 | Data | Pain
+Pain Location: Neck
+Pain Assessment
+Pain Score: 4 - Moderate pain | Liam Clark, RN  |
+|  03:42 | Custom Formula Data | Other flowsheet entries
+Last Pain Score Used: 0-10 | Liam Clark, RN  |
+|  03:45 | Sepsis Predictive Model Score | Sepsis Model Scores
+Early Detection of Sepsis Score: 1.29 | Chronicics, Batchq  |
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 7
+
+====page 16 end ====
+
+====page 17====
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in AdventHealth East New York Emergency Department (continued)
+
+ED Care Timeline (continued)
+
+03:57
+Medication
+Stopped
+
+acetaminophen (Ofirmev) injection 1,000 mg- Route: Intravenous ; Line:
+Peripheral IV 04/30/25 Right Antecubital ; Scheduled Time: 0357
+
+Liam Clark,
+RN
+
+03:57
+Pain Assessment
+Pain Assessment Timer
+
+Restart Pain Assessment Timer: Yes
+
+Liam Clark,
+RN
+
+03:57
+Data
+Pain Assessment
+
+Pain Score: 0 - No pain
+
+Liam Clark,
+RN
+
+03:57
+Custom Formula
+Data
+
+Other flowsheet entries
+
+Last Pain Score Used: 0-10
+
+Liam Clark,
+RN
+
+04:00
+Vital Signs
+Vital Signs
+
+Restart Vitals Timer: Yes
+
+Liam Clark,
+RN
+
+04:00
+Vitals
+Reassessment
+
+Vitals Timer
+
+Restart Vitals Timer: Yes
+
+Liam Clark,
+RN
+
+04:00
+Pain Assessment
+Pain Assessment Timer
+
+Restart Pain Assessment Timer: Yes
+
+Liam Clark,
+RN
+
+04:00
+Vitals/Pain
+Vitals
+
+MAP CALCULATED (mmHg): 98
+
+Liam Clark,
+RN
+
+04:00
+Complex Vitals
+Vitals
+
+Temp: 36.6 “C (97.9 °F)
+Temp Source: Oral
+Heart Rate: 72
+Heart Rate Source: Monitor
+Resp: 20
+BP: 134/80 (Device Time: 04:00:00)
+MAP (mmHg): 98 (Device Time: 04:00:00)
+BP Location: Left arm
+BP Method: Automatic
+Patient Position: Lying
+Pain Assessment
+
+Pain Assessment: No/denies pain
+ICP/Pressure
+
+MAP (mmHg): 98 (Device Time: 04:00:00)
+Oxygen Therapy
+
+SpO2: 96 % (Device Time: 04:00:25)
+Oxygen Therapy: None (Room air)
+
+Liam Clark,
+RN
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 8
+
+====page 17 end ====
+
+====page 18====
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in AdventHealth East New York Emergency Department (continued)
+
+ED Care Timeline (continued)
+
+04:00
+Complex
+Neurological
+Liam Clark,
+Assessment
+Level of Consciousness: Alert
+Orientation Level: Oriented X4
+Cognition: Appropriate judgement; Appropriate safety awareness;
+Appropriate attention/concentration
+Glasgow Coma Scale
+
+Best Eye Response: Spontaneous
+Best Verbal Response: Oriented
+Best Motor Response: Follows commands
+Glasgow Coma Scale Score: 15
+Sedation Scales
+
+Sedation Scale Used: Richmond Agitation Sedation Scale
+Richmond Agitation Sedation Scale (RASS): Alert and calm
+Confusion Assessment Method-ICU (CAM-ICU)
+
+Feature 3: Altered Level of Consciousness: Negative
+HEENT
+
+HEENT (WDL): Exceptions to WDL
+Neck: Tenderness; Trachea midline; Symmetrical; No trauma/injury
+Respiratory
+
+Respiratory Pattern: Normal
+Chest Assessment: Chest expansion symmetrical
+Musculoskeletal
+
+Musculoskeletal (WDL): Exceptions to WDL (C/O rib Pain)
+
+RN
+
+04:00
+Basic Assessment
+Charting Type
+
+Charting Type: Reassessment
+
+Liam Clark,
+RN
+
+04:00
+Custom Formula
+Data
+
+Glasgow Coma Scale
+
+Glasgow Coma Scale Numeric: 15
+Relevant Labs and Vitals
+
+Temp (in Celsius) for APACHE IV: 36.6
+
+Liam Clark,
+RN
+
+04:00
+Sepsis Predictive
+Model Score
+
+Sepsis Model Scores
+
+Early Detection of Sepsis Score: 1.29
+
+Chronicles,
+Batchq
+
+04:15
+Sepsis Predictive
+Model Score
+
+Sepsis Model Scores
+
+Early Detection of Sepsis Score: 1.29
+
+Chronicles,
+Batchq
+
+04:43:07
+Patient Transport
+In Progress
+
+Transport to: ZONE - ED CT
+Noelia Lopez
+
+04:45
+Sepsis Predictive
+Model Score
+
+Sepsis Model Scores
+
+Early Detection of Sepsis Score: 1.29
+
+Chronicles,
+Batchq
+
+04:48:32
+Imaging Exam
+
+Arrived
+
+CT Head Cervical Spine WO IV Contrast
+Emma Davis,
+RT,ARRT
+04:48:32
+Imaging Exam
+
+Arrived
+
+CT Chest Abdomen Pelvis W IV Contrast
+Emma Davis,
+RT.ARRT
+04:49
+Medication Given
+iopamidol (lsovue-370) 76 % solution 80 mL - Dose: 80 mL ; Route:
+Intravenous ; Line: Peripheral IV 04/30/25 Right Antecubital ; Scheduled
+Time: 0449
+
+Emma Davis,
+RT,ARRT
+
+04:50:15
+Imaging Exam
+Started
+
+CT Head Cervical Spine WO IV Contrast
+Emma Davis,
+RT.ARRT
+04:50:15
+Imaging Exam
+Started
+
+CT Chest Abdomen Pelvis W IV Contrast
+Emma Davis,
+RT,ARRT
+04:56:39
+Patient Transport
+In Progress
+
+Transport to: D41
+Waleska Rios
+Roman
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 9
+
+====page 18 end ====
+
+====page 19====
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in A
+
+ED Care Timeline (continued)
+
+>dventHealth East New York Emergency Department (continued)
+
+05:00
+Sepsis Predictive
+Sepsis Model Scores
+Chronicles,
+Model Score
+Early Detection of Sepsis Score: 1.29
+Batchq
+
+05:05:48
+Imaging Exam
+
+Ended
+
+CT Head Cervical Spine WO IV Contrast
+Harper Ramirez,
+ARRT
+05:05:48
+Imaging Exam
+
+Ended
+
+CT Chest Abdomen Pelvis W IV Contrast
+Harper Ramirez,
+ARRT
+05:21:18
+CT Head Cervical
+Spine WO IV
+Contrast Resulted
+
+Last updated: 4/30/2025 05:24 Status: Final result
+Interface,
+Incoming Ancillary
+Results And
+Orders - Imaging
+Results To
+Radiant/Cupid -
+Master
+05:24:24
+CT Final Result
+CT Head Cervical Spine WO IV Contrast
+Interface,
+Incoming Ancillary
+Results And
+Orders - Imaging
+Results To
+Radiant/Cupid -
+Master
+05:24:24
+CT Final Result
+(Final result) CT HEAD CERVICAL SPINE WO IV CONTRAST
+Interface,
+Incoming Ancillary
+Results And
+Orders - Imaging
+Results To
+Radiant/Cupid -
+Master
+05:27:39
+CT Chest Abdomen
+Pelvis W IV
+Contrast Resulted
+
+Last updated: 4/30/2025 05:30 Status: Final result
+Interface,
+Incoming Ancillary
+Results And
+Orders - Imaging
+Results To
+Radiant/Cupid -
+Master
+05:30
+Sepsis Predictive
+Sepsis Model Scores
+Chronicles,
+Model Score
+Early Detection of Sepsis Score: 1.29
+Batchq
+
+05:30:45
+CT Final Result
+CT Chest Abdomen Pelvis W IV Contrast
+Interface,
+Incoming Ancillary
+Results And
+Orders - Imaging
+Results To
+Radiant/Cupid -
+Master
+05:30:45
+CT Final Result
+(Final result) CT CHEST ABDOMEN PELVIS W IV CONTRAST
+Interface,
+Incoming Ancillary
+Results And
+Orders - Imaging
+Results To
+Radiant/Cupid -
+Master
+05:36:03
+Discharge
+Disposition
+Seiected
+
+ED Disposition set to Discharge.
+Mia Thompson, DO
+
+05:36:03
+Disposition
+Selected
+
+Mia Thompson, DO
+
+05:36:51
+GE MC - Patient
+discharged
+
+Mia Thompson, DO
+
+05:36:51
+Patient Ready to
+Go
+
+Mia Thompson, DO
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 10
+
+====page 19 end ====
+
+====page 20====
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in AdventHealth East New York Emergency Department (continued)
+
+ED Care Timeline (continued)
+
+05:40:14
+Note Shared
+ED Prov Note filed by Logan Sanchez
+Logan Sanchez
+05:41:51
+Discharge Orders
+Placed
+
+Medications - methocarbamol (Robaxin) 500 MG tablet
+Daniel Harris,
+MD
+05:45
+Care Handoff
+Care Handoff
+
+Handoff Type: Given to patient - patient left the ED
+
+Liam Clark,
+RN
+
+05:45
+Discharge
+Education
+
+Discharge Education
+
+Patient Teaching: Discharge instructions reviewed
+Learner: Patient
+
+Liam Clark,
+RN
+
+05:45
+Goal/Outcome
+Evaluation (Adult)
+
+Goal/Outcome Evaluation
+
+Goal: Acute Signs/Symptoms are Managed: met
+Goal: Acceptable Pain Level Achieved: met
+Discharge Instructions: discharge instructions, able to teach back
+Participants in Discharge Teaching: patient
+
+Liam Clark,
+RN
+
+05:45
+Sepsis Predictive
+Model Score
+
+Sepsis Model Scores
+
+Early Detection of Sepsis Score: 1.26
+
+Chronicles,
+Batchq
+
+05:45:19
+
+05:46:25
+
+Peripheral IV
+04/30/25 Right
+Antecubital
+Removed
+AVS Printed
+
+Removal Date/Time: 04/30/25 0545 Placement Date/Time: 04/30/25 0338
+Size Gauge: 20 G Orientation: Right Location: Antecubital
+
+Liam Clark,
+RN
+
+Liam Clark,
+RN
+05:46:25
+
+05:50:41
+
+AVS Printed
+
+AVS Printed
+
+Discharge Acknowledgement Form
+Excuses
+PatientPass Education
+AVS
+
+Liam Clark,
+RN
+
+Liam Clark,
+RN
+05:50:41
+AVS Printed
+Discharge Acknowledgement Form
+PatientPass Education
+AVS
+Excuses
+
+Liam Clark,
+RN
+
+05:52
+Vital Signs
+Vital Signs
+
+Restart Vitals Timer: Yes
+
+Liam Clark,
+RN
+
+05:52
+Vitals
+Reassessment
+
+Vitals Timer
+
+Restart Vitals Timer: Yes
+
+Liam Clark,
+RN
+
+05:52
+Pain Assessment
+Pain Assessment Timer
+
+Restart Pain Assessment Timer: Yes
+
+Liam Clark,
+RN
+
+05:52
+Vitals/Pain
+Vitals
+
+MAP CALCULATED (mmHg): 106
+
+Liam Clark,
+RN
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 11
+
+====page 20 end ====
+
+====page 21====
+
+# **[LOGO PLACEHOLDER: City Medical Center]**
+*(Note: Logo likely appears in the header of the original document, e.g., top of page with clinic/hospital branding.)*
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+
+# 04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+## ED Care Timeline (continued)
+
+|  05:52 | Complex Vitals | Vitals
+Temp: 36.7 °C (98 °F)
+Temp Source: Oral
+Heart Rate: 80
+Heart Rate Source: Monitor
+Resp: 20
+BP: 139/89 (Device Time: 05:51:57)
+MAP (mmHg): 102 (Device Time: 05:51:57)
+BP Location: Left arm
+BP Method: Automatic
+Patient Position: Lying
+Pain Assessment
+Pain Assessment: Noldenies pain
+ICP/Pressure
+MAP (mmHg): 102 (Device Time: 05:51:57)
+Oxygen Therapy
+SpO2: 98 %
+Oxygen Therapy: None (Room air) | Liam Clark, RN  |
+| --- | --- | --- | --- |
+|  05:52 | Complex Assessment | Neurological
+Level of Consciousness: Alert
+Orientation Level: Oriented X4
+Cognition: Appropriate judgement; Appropriate safety awareness;
+Appropriate attention/concentration
+Glasgow Coma Scale
+Best Eye Response: Spontaneous
+Best Verbal Response: Oriented
+Best Motor Response: Follows commands
+Glasgow Coma Scale Score: 15
+Sedation Scales
+Sedation Scale Used: Richmond Agitation Sedation Scale
+Richmond Agitation Sedation Scale (RASS): Alert and calm
+Confusion Assessment Method-ICU (CAM-ICU)
+Feature 3: Altered Level of Consciousness: Negative
+HEENT
+HEENT (WDL): Exceptions to WDL
+Neck: Tenderness; Trachea midline; Symmetrical; No trauma/injury
+Respiratory
+Respiratory Pattern: Normal
+Chest Assessment: Chest expansion symmetrical
+Musculoskeletal
+Musculoskeletal (WDL): Exceptions to WDL (C/O rib Pain)
+Charting Type
+Charting Type: Reassessment | Liam Clark, RN  |
+|  05:52 | Custom Formula Data | Glasgow Coma Scale
+Glasgow Coma Scale Numeric: 15
+Relevant Labs and Vitals
+Temp (in Celsius) for APACHE IV: 36.7 | Liam Clark, RN  |
+|  05:55 | Discharge Education | Discharge Education
+Patient Teaching: Discharge Instructions reviewed
+Learner: Patient | Liam Clark, RN  |
+|  05:55 | Goal/Outcome Evaluation (Adult) | Goal/Outcome Evaluation
+Goal: Acute Signs/Symptoms are Managed: met
+Goal: Acceptable Pain Level Achieved: met
+Discharge Instructions: discharge instructions, able to teach back
+Participants in Discharge Teaching: patient | Liam Clark, RN  |
+|  06:00 | Patient discharged |  | Liam Clark, RN  |
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 12
+
+====page 21 end ====
+
+====page 22====
+
+City Medical Center
+Sophia Taylor
+400 Placeholder Road, City D, State 22222
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+New York FL 60601
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+ED Care Timeline (continued)
+
+06:00
+LACE+ Score
+LACE+
+Liam Clark,
+LACE+ Score: 35
+RN
+
+06:00:56
+ED AVS Snapshot
+Liam Clark,
+Taken
+RN
+06:00:56
+ED Patient Billing
+Liam Clark,
+Extract ADT
+RN
+Trigger
+06:00:56
+ED TeamHealth
+Liam Clark,
+Extract - Generated
+RN
+06:00:58
+Charting Complete
+Bonnie Smith
+
+06:00:58
+Charting Complete
+Liam Clark,
+RN
+
+ED Charges
+
+Description
+Code
+Date
+Service Prov
+Modifiers
+Qty
+Status
+HC EMERGENCY DEPARTMENT VISIT LEVEL 5
+4509928501
+04/30/2025
+Daniel Harris
+
+1
+Filed
+
+HC INJ NON-CHEMO, THER/PROPH/DIAG, IV
+PUSH, SGL/INITIAL DRUG
+
+2609637401
+04/30/2025
+1
+Filed
+
+ED Provider Notes
+
+ED Provider Notes by Mia Thompson, DO at 4/30/2025 0257
+
+Author: Mia Thompson, DO
+Service: Emergency Medicine
+Filed: 4/30/2025 8:41 AM
+Date of Service: 4/30/2025 2:57 AM
+Editor: Mia Thompson, DO (Resident)
+
+Author Type: Resident
+Status: Attested
+Cosigner: Daniel Harris, MD at
+5/1/2025 3:08 AM
+Attestation signed by Daniel Harris, MD at 5/1/2025 3:08 AM
+Physician with Resident Attestation: I personally saw and examined the patient. I have reviewed and agree with
+the resident's findings, including all diagnostic interpretations and treatment plan as written. I was present for
+the key portions of any procedures performed.
+
+56-year-old male presenting for MVC with extensive damage. Patient currently on anticoagulant due to his AFib.
+Patient has diffuse pain all throughout, we will order CT imaging head neck chest abdomen pelvis. CT imaging
+negative for acute abnormalities, no hemorrhage. Patient feels better after medications. Given return
+precautions if symptoms worsen otherwise can follow up outpatient with PCP.
+
+EMERGENCY DEPARTMENT ATTENDING/RESIDENT NOTE[IV-1T]
+
+City Medical Center^"
+
+Room™D41/D4TKA1T’
+
+Name™1Sophia Taylor[KA1Tl
+Age/Gender:[lv1TI 56 y.o. male[KA1TI
+MRN™MR-DUMMY-000001™
+PQp-nvm gon |_am chau, MD[KA1T1
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 13
+
+====page 22 end ====
+
+====page 23====
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+ED Provider Notes (continued)
+
+Attending: Dr.llv1T] Daniel Harris MD, Daniel Harris[lv2M1
+Resident: Dr.[lv1T1 Mia Thompson DO, Mia Thompson[IV2M]
+
+History Provided By:[lv1T]
+Patient.[IV2MI
+
+History of Present lllness[lv1T]
+
+Chief Complaint
+Patient presents with
+
+• Motor Vehicle Crash[KA1T|
+
+Patient is a 56 y.o. male with a PMHx of AFIB, on Eliquis,No known allergies , presenting to the ED with a c/o of mvc.Pt
+was driving a semi truck on the turnpike going approximally 55 mph, another semi truck merged over and the pt hit
+the other semi truck. Pt notes there was no airbag deployment and was restianed.Pt has left lower rib pain and left
+sided neck pain. Patient denies chest pain, SOB, LOC, fever, chills, headache, nausea, vomiting, or diarrhea.lKA2Ml
+
+History provided by:|lvlT| Patient[lvlM]
+
+Language interpreter used:[lv1T] No[IVJMl
+
+Medical History[lv1T]
+
+Past Medical History:
+Diagnosis
+Date
+• Hyperlipidemia
+
+History reviewed. No pertinent surgical history.[KA1Tl
+
+Adult Social History:[lv2Ml
+Social History
+
+Tobacco Use
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 14
+
+====page 23 end ====
+
+====page 24====
+
+City Medical Center
+Sophia Taylor
+400 Placeholder Road, City D, State 22222
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+New York FL 60601
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+ED Provider Notes (continued)
+
+• Smoking status:
+Not on file
+• Smokeless tobacco:
+Not on file
+Substance Use Topics
+
+• Alcohol use:
+Not on file
+• Drug use:
+Not on file[KA1T)
+
+Review of Systems
+
+Review of Systems
+Constitutional: Negative for[lv'1T1 chills[KA2T] and[lv1Tl fever[KA2T1.
+
+HENT: Negative for[lvlT1 congestion[KA2T] and[lv1Tl sore throat[KA2Tl.
+
+Eyes: Negative forllv1Tl visual disturbance[KA2T|.
+
+Respiratory: Negative for|lv/IT] cough|KA2T1 and|lv/IT1 shortness of breath|KA2T|.
+
+Cardiovascular: Negative for[lv-171 chest pain[KA-2T1.
+Gastrointestinal: Negative forllvJT1 abdominal painlKA2T|,llv1T1 diarrhealKA-2T|,[IVJT| nausealKA2T] and[lv-1T] vomiting[KA2Tl.[lv,1T]
+
+Left-sided pain[KA2MI
+Genitourinary: Negative forllvlTl dysurialKA2T1.
+Musculoskeletal: Positive for[lv1Tl neck pain[KA2M1. Negative for[lv-1T1 back pain[KA2T1.
+Neurological: Negative for[lv1T] dizziness[KA2TUlvn] weakness[KA2Tl and[lv/ITl headaches[KA2Tl.
+
+Psychiatric/Behavioral: Negative for[lv1T] behavioral problems[KA2TUlv1T1
+All other systems reviewed and are negative[KA2T].
+
+Physical Exam[lv1TI
+
+ED Triage Vitals
+Temp
+Heart
+Resp
+BP
+Rate
+04/30/25 04/30/25 04/30/25 04/30/25
+0214
+0214
+0214
+0214
+36.7 °C
+62
+20
+(!)
+(98.1 °F)
+151/80
+
+SpO2
+Temp
+Heart
+Patient
+Source
+Rate
+Position
+Source
+04/30/25 04/30/25 04/30/25 04/30/25
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 15
+
+====page 24 end ====
+
+====page 25====
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+ED Provider Notes (continued)
+
+0214
+98 %
+
+0400
+Oral
+
+0400
+
+Monitor
+
+0400
+Lying
+
+BP
+FiO2 (%)
+Oxygen
+02 Flow
+Location
+Therapy
+Rate
+(L/min)
+04/30/25 —
+04/30/25 —
+0400
+0400
+Left arm
+None
+(Room
+air)
+
+02
+Delivery
+Method
+
+[KA.1T]
+
+Physical Exam
+Vitals and nursing note reviewed.
+Constitutional:
+
+General: He is not in acute distress.
+Appearance: He is well-developed.
+HENT:
+
+Head: Normocephalic and atraumatic. Nollv1T1 raccoon eyes[lv1Ml or[lv1T] Battle's signIIV-1M).
+
+Nose:
+Right Nostril: No[lv1TI septal hematomaIIV1Ml.
+Left Nostril: No[lvlT| septal hematoma[lv-1MI.
+
+Eyes:
+
+Conjunctiva/sclera: Conjunctivae normal.
+Neck:
+
+Comments:[lv/IT] Mild left para cervical ttp[KA2M]
+Cardiovascular:
+
+Rate and Rhythm: Normal rate and regular rhythm.
+Pulmonary:
+
+Effort: Pulmonary effort is normal. No respiratory distress.
+Breath sounds: Normal breath sounds.
+Abdominal:
+
+Palpations: Abdomen is soft.
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 16
+
+====page 25 end ====
+
+====page 26====
+
+# **[LOGO PLACEHOLDER: City Medical Center]**
+*(Note: Logo likely appears in the header of the original document, e.g., top of page with clinic/hospital branding.)*
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+ED Provider Notes (continued)
+
+Tenderness: There is no abdominal tenderness.
+
+Musculoskeletal:
+General: No swelling.
+Cervical back: Neck supple.
+Comments: [IV.1T] Mild left lower anterior rib tenderness to palpation [KA.2M]
+
+Skin:
+General: Skin is warm and dry.
+Capillary Refill: Capillary refill takes less than 2 seconds.
+
+Neurological:
+Mental Status: He is alert.
+
+Psychiatric:
+Mood and Affect: Mood normal. [IV.1T]
+
+Vitals:
+|   | 04/30/25 0213 | 04/30/25 0214 | 04/30/25 0400 | 04/30/25 0552  |
+| --- | --- | --- | --- | --- |
+|  BP: |  | (1) 151/80 | 134/80 | 139/89  |
+|  BP Location: |  |  | Left arm | Left arm  |
+|  Patient |  |  | Lying | Lying  |
+|  Position: |  |  |  |   |
+|  Pulse: |  | 62 | 72 | 80  |
+|  Resp: |  | 20 | 20 | 20  |
+|  Temp: |  | 36.7 °C (98.1 °F) | 36.6 °C (97.9 °F) | 36.7 °C (98 °F)  |
+|  TempSrc: |  |  | Oral | Oral  |
+|  SpO2: |  | 98% | 96% | 98%  |
+|  Weight: | 95.3 kg (210 lb) |  |  |   |
+|  Height: | 1.753 m (5' |  |  |   |
+|   | 9") [KA.1T] |  |  |   |
+
+ED Medication Administration [IV.1T]
+
+No Known Allergies
+
+ED Medication Administration from 04/30/2025 0211 to 04/30/2025 0600
+
+Printed by 65897 at 6/3/25 11:31 PM
+
+====page 26 end ====
+
+====page 27====
+
+City Medical Center
+Sophia Taylor
+400 Placeholder Road, City D, State 22222
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+New York FL 60601
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+ED Provider Notes (continued)
+
+Dos
+Date/Time Order
+e
+Route Action
+Action by
+04/30/202 acetaminophen
+1,00 Intrav
+New Bag
+[DUMMY_Person Name_22]
+
+5 0342
+(Ofirmev) injection
+0
+enous
+EDT
+1,000 mg
+mg
+04/30/202 acetaminophen
+0
+Intrav
+Stopped
+[DUMMY_Person Name_22]
+
+5 0357
+(Ofirmev) injection
+mg
+enous
+EDT
+1,000 mg
+04/30/202 iopamidol (Isovue-
+80
+Intrav
+Given
+Liam Clark, SiKA1T<
+
+5 0449
+370) 76 % solution 80
+mL
+enous
+EDT
+mL
+
+Medical Decision Makings
+
+No orders to display
+
+CT Head Cervical Spine WO IV Contrast
+Final Result
+
+EXAM:
+CT BRAIN WITHOUT CONTRAST
+CT CERVICAL SPINE WITHOUT CONTRAST
+
+INDICATION: Trauma
+
+COMPARISON: None
+
+TECHNIQUE: Axial images from foramen
+magnum to vertex without contrast.
+Axial images were obtained through the
+cervical spine. 2D reconstructions
+were performed. Up-to-date CT equipment
+and radiation dose reduction
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 18
+
+====page 27 end ====
+
+====page 28====
+
+City Medical Center
+Sophia Taylor
+400 Placeholder Road, City D, State 22222
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+New York FL 60601
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+ED Provider Notes (continued)
+
+techniques were employed.
+
+FINDINGS:
+HEAD
+EXTRAAXIAL SPACE: Prominence of the
+ventricles and extra-axial CSF spaces,
+likely reflecting generalized atrophy. No
+acute extra-axial fluid
+collection is seen.
+
+CEREBRUM: The gray-white differentiation
+is within normal limits for the
+patient's age. Periventricular white matter
+disease. No acute intracranial
+hemorrhage is seen. No midline shift is
+seen. No evidence of acute
+territorial infarct is seen.
+
+CEREBELLUM: No gross acute findings
+seen in the posterior fossa. No
+definitive evidence of cerebellar tonsillar
+ectopy.
+
+BRAINSTEM: No gross acute findings seen,
+noting limitations related to
+artifact at the skull base.
+
+SKULL/EXTRACRANIAL STRUCTURES:
+Paranasal sinuses: Retention cysts maxillary
+sinuses. Partial
+opacification left sphenoid sinus.
+
+Mastoids/middle ears: Grossly well aerated.
+
+Remainder: No displaced calvarial fracture
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 19
+
+====page 28 end ====
+
+====page 29====
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+ED Provider Notes (continued)
+
+seen. No acute findings
+associated with the imaged orbits.
+
+CERVICAL SPINE:
+
+ALIGNMENT: No acute spondylolisthesis is
+seen.
+
+VERTEBRAL COLUMN: No acute fracture
+seen. The vertebral body heights and
+intervertebral disk spaces are grossly
+preserved.
+
+CRANIOVERTEBRAL JUNCTION: No gross
+acute findings seen.
+
+DISK LEVELS C2-3 to C7-T1: No gross
+acute findings seen, MRI if further
+evaluation is clinically indicated.
+
+PARAVERTEBRAL SPACE: No gross acute
+findings seen.
+
+IMPRESSION:
+
+1. No acute intracranial hemorrhage seen.
+If symptoms persist and there
+
+are no contraindications, MRI may provide
+further evaluation.
+2. No acute cervical spine findings seen.
+3. Left sphenoid sinus disease can be
+correlated for sinusitis.
+
+Created by: [DUMMY_Person Name_21]
+Signed by: [DUMMY_Person Name_21]
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 20
+
+====page 29 end ====
+
+====page 30====
+
+City Medical Center
+Sophia Taylor
+400 Placeholder Road, City D, State 22222
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+New York FL 60601
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+ED Provider Notes (continued)
+
+Signed on: 4/30/2025 5:21 EDT
+Location: OSRR45
+
+CT Chest Abdomen Pelvis W IV Contrast
+Final Result
+
+EXAM: CT CHEST, ABDOMEN, PELVIS
+WITH IV CONTRAST
+
+INDICATION: Trauma
+
+COMPARISON: CT dated 5/30/2022.
+
+TECHNIQUE: Contiguous axial images
+were obtained from the thoracic inlet
+to the pelvic floor following the oral and
+intravenous administration of
+contrast. Coronal and sagittal reformations
+are provided.
+
+Up-to-date CT equipment and radiation
+dose reduction techniques were
+employed.
+
+CONTRAST: Intravenous - iopamidol
+(lsovue-370) 76 % solution 80
+mL(Administered 80mL)
+
+FINDINGS:
+
+LUNGSAND PLEURA:
+Airways are patent.
+
+Bibasilar and dependent groundglass
+airspace opacities are nonspecific,
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 21
+
+====page 30 end ====
+
+====page 31====
+
+# **[LOGO PLACEHOLDER: City Medical Center]**
+*(Note: Logo likely appears in the header of the original document, e.g., top of page with clinic/hospital branding.)*
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+ED Provider Notes (continued)
+
+may represent atelectasis and/or infiltrates.
+No pleural effusions.
+
+MEDIASTINUM: No masses.
+
+THORACIC LYMPH NODES: No
+adenopathy.
+
+HEART: Normal in size. No pericardial
+effusion.
+
+Scattered coronary artery calcifications are
+noted. Note that this exam is
+not a diagnostic evaluation of the coronary
+arteries.
+
+THORACIC AORTA AND GREAT VESSELS:
+No aneurysm or dissection.
+
+PULMONARY ARTERIES: Normal size. No
+central pulmonary embolus.
+
+LIVER: Borderline enlarged, measuring 18.3
+cm. No mass. No intrahepatic
+biliary dilatation. Portal veins are patent.
+
+GALLBLADDER: No wall thickening. No
+radiopaque stones.
+
+COMMON BILE DUCT: Normal caliber. No
+radiopaque stones.
+
+SPLEEN: Within normal limits.
+
+PANCREAS: No mass. No pancreatic fluid
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 22
+
+====page 31 end ====
+
+====page 32====
+
+City Medical Center
+Sophia Taylor
+400 Placeholder Road, City D, State 22222
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+New York FL 60601
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+ED Provider Notes (continued)
+
+collections.
+
+ADRENALS: No masses.
+
+KIDNEYS:
+Few left-sided renal cysts measuring up to
+9 mm. No hydronephrosis.
+
+ABDOMINAL/PELVIC LYMPH NODES: No
+adenopathy.
+
+STOMACH, SMALL BOWEL AND COLON:
+No bowel wall thickening or obstruction.
+
+APPENDIX: Normal.
+
+PERITONEAL CAVITY: No mesenteric
+stranding or free fluid. No free air.
+
+ABDOMINAL AORTA: No aneurysm.
+
+PELVIC ORGANS:
+Prostate is enlarged. Urinary bladder is
+unremarkable.
+
+SOFT TISSUE: Normal.
+
+OSSEOUS STRUCTURES: No acute fracture
+or destructive lesion.
+
+IMPRESSION:
+
+1. Bibasilar and dependent groundglass
+airspace opacities are
+nonspecific, may represent atelectasis
+and/or infiltrates.
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 23
+
+====page 32 end ====
+
+====page 33====
+
+City Medical Center
+Sophia Taylor
+400 Placeholder Road, City D, State 22222
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+New York FL 60601
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+ED Provider Notes (continued)
+
+2. Otherwise no acute findings. No acute
+intra-abdominal or intrapelvic
+findings. No acute fractures.
+3. Additional ancillary findings as described
+in the body of the report.
+
+Created by: [DUMMY_Person Name_24], MD
+Signed by: [DUMMY_Person Name_24], MD
+Signed on: 4/30/2025 5:27 EDT
+Location: OSRR113
+
+Labs Reviewed - No data to displays1TI
+
+Differential Diagnosis but not limited to:[lv1T] Differential Diagnosis: Trauma or Fall -
+Intracranial hemorrhage, Skull fracture, Cervical fracture, Cervical dislocation, Intraabdominal
+
+hemorrhage, or Retroperitoneal hemorrhage
+
+56-year-old well-appearing male presenting after MVC involving semi truck. In the ED,
+patient was hemodynamically stable and neurovascularly intact in all 4 extremities. On
+anticoagulation due to AFib. CT head and neck, chest and pelvis were all obtained, negative
+for acute traumatic findings. Patient provided reassurance. Likely muscular in origin. Given
+prescription for Robaxin.[KA2M1 Counseled on following up with primary care accordingly.
+Given ED return precautions. See ED course for further details[KA-2T]
+
+External Documents Reviewed: Pt does not have any recent ED visits within the last 30 days
+available for review.[IV2T]
+
+My ED Imaging Interpretation: My findings were entered under ED Interpretation.
+
+EM Clinical Decision Rules/Scoring: Not Applicable
+
+Plan of care including diagnostics, treatment and disposition was discussed and in
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 24
+
+====page 33 end ====
+
+====page 34====
+
+City Medical Center
+Sophia Taylor
+400 Placeholder Road, City D, State 22222
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+New York FL 60601
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+ED Provider Notes (continued)
+
+agreements 2M]
+
+Head Trauma (Adult)[KA2M1 MIPS # 415 - Blunt Head Trauma (Adult)
+Patient presents with blunt head trauma, and a CT head (including cosigned orders) was
+completed because patient[KA2T] has severe/dangerous mechanism of injury identified as MVA
+with speed > 40 mph[KA2M|
+
+ED Course/Proceduresllv1Tl
+
+ED Course
+Wed Apr 30, 2025
+0533
+CT Head Cervical Spine WO IV
+Contrast
+IMPRESSION:
+1. No acute intracranial hemorrhage
+seen. If symptoms persist and there
+are no contraindications, MRI may
+provide further evaluation.
+2. No acute cervical spine findings
+seen.
+3. Left sphenoid sinus disease can
+be correlated for sinusitis.
+
+0533
+CTChest Abdomen Pelvis W IV
+Contrast
+IMPRESSION:
+1.
+Bibasilar and dependent
+groundglass airspace opacities are
+nonspecific, may represent
+atelectasis and/or infiltrates.
+1.
+Otherwise no acute findings.
+No acute intra-abdominal or
+intrapelvic findings. No acute
+fractures.
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 25
+
+====page 34 end ====
+
+====page 35====
+
+City Medical Center
+Sophia Taylor
+400 Placeholder Road, City D, State 22222
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+New York FL 60601
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+ED Provider Notes (continued)
+
+2.
+Additional ancillary findings as
+described in the body of the report.
+
+0534
+CT Head Cervical Spine WO IV
+Contrast
+IMPRESSION:
+1. No acute intracranial hemorrhage
+seen. If symptoms persist and there
+are no contraindications, MRI may
+provide further evaluation,
+
+2. No acute cervical spine findings
+seen.
+3. Left sphenoid sinus disease can
+be correlated for sinusitis.
+0535
+Patient feeling well at this time, in no
+acute distress. Results printed out
+and given to patient. Explained to
+him all incidental findings. No sinus
+tenderness on exam
+
+ED Course User Index
+
+Diagnosis
+Cervical strain, acute, initial encounter[KA1Tl
+
+Procedures[lv1M]
+
+Disposition^1T<
+
+Discharged
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 26
+
+====page 35 end ====
+
+====page 36====
+
+# **[LOGO PLACEHOLDER: City Medical Center]**
+*(Note: Logo likely appears in the header of the original document, e.g., top of page with clinic/hospital branding.)*
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+ED Provider Notes (continued)
+
+Time: [IV.2T] 0539[IV.2M]
+
+The plan has been discussed with the[IV.2T] patient[IV.2M]. All questions have been answered at this time and they are agreeable with the plan of care for discharge.[IV.2T] patient[IV.2M] encouraged to follow up with PCP or appropriate specialist as provided in the discharge summary. Strict instructions were given to return immediately to the ED for any new or worrisome concerns.[IV.2T]
+
+Discharge Medication List as of 4/30/2025 5:50 AM
+
+START taking these medications
+
+|   | Details  |
+| --- | --- |
+|  methocarbamol (Robaxin) 500 MG tablet | Take 1 tablet (500 mg total) by mouth in the morning and 1 tablet (500 mg total) before bedtime. Do all this for 5 days., Starting Wed 4/30/2025, Until Mon 5/5/2025, Print[KA.1T]  |
+
+Diagnosis:[IV.2T]
+
+1. Cervical strain, acute, initial encounter[KA.1T]
+
+Follow up:[IV.2T]
+
+Emma Davis, MD
+300 Test Avenue, City C, State 11111
+500 Mock Blvd, City E, State 33333
+New York FL 90001555-000-0005
+
+Printed by 65897 at 6/3/25 11:31 PM
+
+====page 36 end ====
+
+====page 37====
+
+City Medical Center
+Sophia Taylor
+400 Placeholder Road, City D, State 22222
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+New York FL 60601
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+ED Provider Notes (continued)
+
+Community Health Clinic Emergency Department
+400 Placeholder Road, City D, State 22222
+New York Florida 60601
+407-303-6770
+Go to
+As needed, If symptoms worsen[KA1TI
+
+Disposition:
+Disposition: DISCHARGE to|lv 271 home|IV2M|
+
+Attestations
+
+A scribe was used to perform this documentation. Scribe Attestation:
+
+I, Logan Sanchez, have acted as scribe for and in the presence ofllvlT] Dr. Mia Thompson DO,
+
+KiranfV2M’.
+
+Provider Scribe Attestation:^7- I personally performed the services in this documentation. All
+medical record entries made by the scribe were at my direction & in my presence. I have
+reviewed the chart & agree the record reflects my personal performance & is accurate 8t
+complete.[KA2M1
+
+Mia Thompson, DO
+Resident
+04/30/25 0841
+[KA.1T]
+
+Electronically signed by Mia Thompson, DO at 4/30/2025 8:41 AM
+Electronically signed by Daniel Harris, MD at 5/1/2025 3:08 AM
+
+Attribution Key
+
+IV.1 - Logan Sanchez on 4/30/2025 2:57 AM
+IV.2 - Logan Sanchez on 4/30/2025 5:38 AM
+KA.1 - Mia Thompson, DO on 4/30/2025 8:41 AM
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 28
+
+====page 37 end ====
+
+====page 38====
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+ED Provider Notes (continued)
+
+KA.2 - Mia Thompson, DO on 4/30/2025 8:38 AM
+M - Manual, T - Template
+
+Diagnosis As Of
+
+“Diagnosis As of’ is not the time of provider diagnosis. It is the last time any documentation in the note was
+updated.”
+
+Events
+
+ED Arrival at 4/30/2025 0211
+
+Unit: Community Health Clinic Emergency Department
+User: Noah Rodriguez
+
+Admission at 4/30/2025 0226
+
+Unit: Community Health Clinic
+Emergency Department
+User: Mason Gonzalez, CNA
+
+Room: D41
+Bed: D41
+
+Patient class: Emergency
+
+Discharge at 4/30/2025 0600
+
+Unit: Community Health Clinic
+Emergency Department
+User: Liam Clark, RN
+
+Room: D41
+Bed: D41
+
+Patient class: Emergency
+
+Imaging
+
+Imaging
+
+CT Head Cervical Spine WO IV Contrast (Final result)
+
+Electronically signed by: Mia Thompson, DO on 04/30/25 0255
+This order may be acted on in another encounter.
+Ordering user: Mia Thompson, DO 04/30/25 0255
+Authorized by: Daniel Harris, MD
+Frequency: ED Priority Once 04/30/25 0256 - 1 occurrence
+Quantity: 1
+Indications comment: Trauma
+
+Questionnaire
+
+Status: Completed
+
+Ordering provider: Mia Thompson, DO
+Ordering mode: Standard
+Class: Hospital Performed
+Lab status: Final result
+Instance released by: Mia Thompson Tariq Mia Thompson, DO (auto-released)
+4/30/2025 2:55 AM
+
+Question
+Answer
+Release to patient
+Immediate
+
+Screening Form
+
+General Information
+
+Patient Name: Sophia Taylor
+Date of Birth: 01/01/1990
+Legal Sex: Male
+
+MRN: MR-DUMMY-000001
+Mobile:555-000-0001
+
+Procedure
+Ordering Provider
+Authorizing Provider
+Appointment Information
+CT HEAD CERVICAL
+Mia Thompson Tariq Mia Thompson, DO
+SPINE WO IV CONTRAST555-000-0006
+
+Daniel Harris, MD555-000-0007
+
+4/30/2025 4:30 AM
+AHEOR ED CT 1
+City Medical Center
+ED CT
+
+Screening Form Questions
+
+Answer
+Comment
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 29
+
+====page 38 end ====
+
+====page 39====
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+Imaging (continued)
+
+Why are you having this exam?
+Have you had any surgeries or procedures?
+If Yes: please provide additional information
+
+and dates of surgery/procedures.
+Do you have a history of cancer?
+If you have a cancer history, please explain.
+
+Did you have chemotherapy or radiation?
+Date of last treatment?
+Is this exam with contrast or without contrast?
+
+Do you have Multiple Myeloma, adrenal tumor
+(Pheochromocytoma), Myasthenia Gravis
+(gMG), or auto immune disease?
+If yes specify?
+
+Do you have a history of hypertension requiring
+medical therapy?
+Do you have a history of renal disease,
+including: Chronic kidney disease (CKD), Acute
+kidney injury (AKI), Kidney
+ablation/surgery/transplant, One functioning
+kidney, or Renal Cancer?
+When did you have your Renal surgery?
+Are you on dialysis?
+Do you make at least 1 to 2 cups of urine daily?
+Are you diabetic?
+Do you take any Metformin-containing
+medications?
+Are you allergic to Iodine, or Imaging contrast?
+What type of reaction did you have?
+Were you pre-medicated prior to this CT exam?
+Who provided the information for the form?
+
+TRAUMA
+No
+
+No
+
+Without Contrast
+
+Tech/Using Chart
+
+Proceed with Exam
+
+Proceed?
+Proceed
+
+User
+[DUMMY_Person Name_25]
+
+Time
+04/30/2025 03:51 AM EDT
+
+End Exam Questions
+
+Answer
+Why are you having this exam?
+TRAUMA
+Have you had any surgeries or
+No
+procedures?
+If Yes: please provide additional
+
+information and dates of
+surgery/procedures.
+Do you have a history of cancer?
+No
+If you have a cancer history, please
+
+explain.
+
+Comment
+
+CT Head Cervical Spine WO IV Contrast
+Resulted: 04/30/25 0521, Result status: Final result
+
+Ordering provider: Mia Thompson, DO 04/30/25 0255
+Resulted by: [DUMMY_Person Name_21], MD
+
+Order status: Completed
+Filed by: Interface, Incoming Ancillary Results And Orders -
+Imaging Results To Radiant/Cupid - Master 04/30/25 0524
+Performed: 04/30/25 0450 - 04/30/25 0505
+Resulting lab: ADVENTHEALTH RADIOLOGY SYSTEM
+Narrative:
+
+Accession number: ADV1050476554
+
+EXAM:
+CT BRAIN WITHOUT CONTRAST
+CT CERVICAL SPINE WITHOUT CONTRAST
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 30
+
+====page 39 end ====
+
+====page 40====
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+Imaging (continued)
+
+INDICATION: Trauma
+
+COMPARIEmma Davis: None
+
+TECHNIQUE: Axial images from foramen magnum to vertex without contrast. Axial images were obtained through the cervical
+spine. 2D reconstructions were performed. Up-to-date CT equipment and radiation dose reduction techniques were employed.
+
+FINDINGS:
+HEAD
+EXTRAAXIAL SPACE: Prominence of the ventricles and extra-axial CSF spaces, likely reflecting generalized atrophy. No acute
+extra-axial fluid collection is seen.
+
+CEREBRUM: The gray-white differentiation is within normal limits for the patient's age. Periventricular white matter disease. No
+acute intracranial hemorrhage is seen. No midline shift is seen. No evidence of acute territorial infarct is seen.
+
+CEREBELLUM: No gross acute findings seen in the posterior fossa. No definitive evidence of cerebellar tonsillar ectopy.
+
+BRAINSTEM: No gross acute findings seen, noting limitations related to artifact at the skull base.
+
+SKULL/EXTRACRANIAL STRUCTURES:
+Paranasal sinuses: Retention cysts maxillary sinuses. Partial opacification left sphenoid sinus.
+
+Mastoids/middle ears: Grossly well aerated.
+
+Remainder: No displaced calvarial fracture seen. No acute findings associated with the imaged orbits.
+
+CERVICAL SPINE:
+
+ALIGNMENT: No acute spondylolisthesis is seen.
+
+VERTEBRAL COLUMN: No acute fracture seen. The vertebral body heights and intervertebral disk spaces are grossly
+preserved.
+
+CRANIOVERTEBRAL JUNCTION: No gross acute findings seen.
+
+DISK LEVELS C2-3 to C7-T1: No gross acute findings seen, MRI if further evaluation is clinically indicated.
+
+PARAVERTEBRAL SPACE: No gross acute findings seen.
+
+Impression:
+1. No acute intracranial hemorrhage seen. If symptoms persist and there are no contraindications, MRI may provide further
+evaluation.
+2. No acute cervical spine findings seen.
+3. Left sphenoid sinus disease can be correlated for sinusitis.
+
+Created by: [DUMMY_Person Name_21] Willis
+Signed by: [DUMMY_Person Name_21] Willis
+Signed on: 4/30/2025 5:21 EDT
+Location: OSRR45
+
+Testing Performed By
+
+Lab - Abbreviation
+Name
+Director
+Address
+Valid Date Range
+362 - AH RAD
+ADVENTHEALTH
+Radiology Results
+N/A
+03/22/22 0605 - Present
+RADIOLOGY
+Interface
+SYSTEM
+
+Signed
+
+Electronically signed by [DUMMY_Person Name_21], MD on 4/30/25 at 0521 EDT
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 31
+
+====page 40 end ====
+
+====page 41====
+
+# **[LOGO PLACEHOLDER: City Medical Center]**
+*(Note: Logo likely appears in the header of the original document, e.g., top of page with clinic/hospital branding.)*
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+Imaging (continued)
+
+CT Chest Abdomen Pelvis W IV Contrast (Final result)
+
+|  Electronically signed by: Mia Thompson, DO on 04/30/25 0255
+This order may be acted on in another encounter.
+Ordering user: Mia Thompson, DO 04/30/25 0255
+Authorized by: Daniel Harris, MD
+Frequency: ED Priority Once 04/30/25 0256 - 1 occurrence
+Quantity: 1
+Indications comment: Trauma |   |   | Status: Completed
+Ordering provider: Mia Thompson, DO
+Ordering mode: Standard
+Class: Hospital Performed
+Lab status: Final result
+Instance released by: Mia Thompson Tariq Mia Thompson, DO (auto-released)
+4/30/2025 2:55 AM  |
+| --- | --- | --- | --- |
+|  Questionnaire  |   |   |   |
+|  Question |   | Answer  |   |
+|  Non-IV Contrast? |   | None  |   |
+|  Release to patient |   | Immediate  |   |
+|  Screening Form  |   |   |   |
+|  General Information  |   |   |   |
+|  Patient Name: Sophia Taylor
+Date of Birth: 01/01/1990
+Legal Sex: Male |   | MRN: MR-DUMMY-000001
+Mobile:555-000-0001  |   |
+|  Procedure | Ordering Provider | Authorizing Provider | Appointment Information  |
+|  CT CHEST ABDOMEN
+PELVIS W IV CONTRAST | Mia Thompson Tariq Mia Thompson, DO555-000-0006 | Daniel Harris, MD555-000-0007 | 4/30/2025 4:30 AM
+AHEOR ED CT 1
+City Medical Center
+ED CT  |
+
+Screening Form Questions
+
+|   | Answer | Comment  |
+| --- | --- | --- |
+|  Why are you having this exam? | TRAUMA |   |
+|  Have you had any surgeries or procedures? | No |   |
+|  If Yes: please provide additional information and dates of surgery/procedures. |  |   |
+|  Do you have a history of cancer? | No |   |
+|  If you have a cancer history, please explain. |  |   |
+|  Did you have chemotherapy or radiation? |  |   |
+|  Date of last treatment? |  |   |
+|  Is this exam with contrast or without contrast? | With Contrast |   |
+|  Do you have Multiple Myeloma, adrenal tumor (Pheochromocytoma), Myasthenia Gravis (gMG), or auto immune disease? | No |   |
+|  If yes specify? |  |   |
+|  Do you have a history of hypertension requiring medical therapy? | No |   |
+|  Do you have a history of renal disease, including: Chronic kidney disease (CKD), Acute kidney injury (AKI), Kidney ablation/surgery/transplant, One functioning kidney, or Renal Cancer? | No |   |
+|  When did you have your Renal surgery? |  |   |
+|  Are you on dialysis? | No |   |
+|  Do you make at least 1 to 2 cups of urine daily? | No |   |
+|  Are you diabetic? | No |   |
+|  Do you take any Metformin-containing medications? | No |   |
+|  Are you allergic to Iodine, or Imaging contrast? | No |   |
+|  What type of reaction did you have? |  |   |
+|  Were you pre-medicated prior to this CT exam? |  |   |
+
+Printed by 65897 at 6/3/25 11:31 PM
+
+====page 41 end ====
+
+====page 42====
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+Imaging (continued)
+
+Who provided the information for the form?
+Tech/Using Chart
+
+Proceed with Exam
+
+Proceed?
+Proceed
+
+User
+[DUMMY_Person Name_25], RT,ARRT
+
+Time
+04/30/2025 03:51 AM EDT
+
+End Exam Questions
+
+Ordering provider: Mia Thompson, DO 04/30/25 0255
+Order status: Completed
+Resulted by: [DUMMY_Person Name_24], MD
+Filed by: Interface, Incoming Ancillary Results And Orders -
+
+Answer
+Comment
+Why are you having this exam?
+TRAUMA
+Have you had any surgeries or
+procedures?
+
+No
+
+If Yes: please provide additional
+
+information and dates of
+surgery/procedures.
+Do you have a history of cancer?
+If you have a cancer history, please
+
+explain.
+
+No
+
+CT Chest Abdomen Pelvis W IV Contrast
+Resulted: 04/30/25 0527, Result status: Final result
+
+Imaging Results To Radiant/Cupid - Master 04/30/25 0530
+Performed: 04/30/25 0450 - 04/30/25 0505
+Accession number: ADV1050476555
+Resulting lab: ADVENTHEALTH RADIOLOGY SYSTEM
+Narrative:
+
+EXAM: CT CHEST, ABDOMEN, PELVIS WITH IV CONTRAST
+
+INDICATION: Trauma
+
+COMPARISON: CT dated 5/30/2022.
+
+TECHNIQUE: Contiguous axial images were obtained from the thoracic inlet to the pelvic floor following the oral and
+intravenous administration of contrast. Coronal and sagittal reformations are provided.
+
+Up-to-date CT equipment and radiation dose reduction techniques were employed.
+
+CONTRAST: Intravenous - iopamidol (lsovue-370) 76 % solution 80 mL(Administered 80mL)
+
+FINDINGS:
+
+LUNGS AND PLEURA:
+Airways are patent.
+
+Bibasilar and dependent groundglass airspace opacities are nonspecific, may represent atelectasis and/or infiltrates. No pleural
+effusions.
+
+MEDIASTINUM: No masses.
+
+THORACIC LYMPH NODES: No adenopathy.
+
+HEART: Normal in size. No pericardial effusion.
+
+Scattered coronary artery calcifications are noted. Note that this exam is not a diagnostic evaluation of the coronary arteries.
+
+THORACIC AORTA AND GREAT VESSELS: No aneurysm or dissection.
+
+PULMONARY ARTERIES: Normal size. No central pulmonary embolus.
+
+LIVER: Borderline enlarged, measuring 18.3 cm. No mass. No intrahepatic biliary dilatation. Portal veins are patent.
+
+GALLBLADDER: No wall thickening. No radiopaque stones.
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 33
+
+====page 42 end ====
+
+====page 43====
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+Imaging (continued)
+
+COMMON BILE DUCT: Normal caliber. No radiopaque stones.
+
+SPLEEN: Within normal limits.
+
+PANCREAS: No mass. No pancreatic fluid collections.
+
+ADRENALS: No masses.
+
+KIDNEYS:
+Few left-sided renal cysts measuring up to 9 mm. No hydronephrosis.
+
+ABDOMINAL/PELVIC LYMPH NODES: No adenopathy.
+
+STOMACH, SMALL BOWEL AND COLON: No bowel wall thickening or obstruction.
+
+APPENDIX: Normal.
+
+PERITONEAL CAVITY: No mesenteric stranding or free fluid. No free air.
+
+ABDOMINAL AORTA: No aneurysm.
+
+PELVIC ORGANS:
+Prostate is enlarged. Urinary bladder is unremarkable.
+
+SOFT TISSUE: Normal.
+
+OSSEOUS STRUCTURES: No acute fracture or destructive lesion.
+
+Impression:
+
+1. Bibasilar and dependent groundglass airspace opacities are nonspecific, may represent atelectasis and/or infiltrates.
+2. Otherwise no acute findings. No acute intra-abdominal or intrapelvic findings. No acute fractures.
+3. Additional ancillary findings as described in the body of the report.
+
+Created by: [DUMMY_Person Name_24], MD
+Signed by: [DUMMY_Person Name_24], MD
+Signed on: 4/30/2025 5:27 EDT
+Location: OSRR113
+
+Testing Performed By
+
+Lab - Abbreviation
+Name
+Director
+Address
+Valid Date Range
+362 - AH RAD
+ADVENTHEALTH
+Radiology Results
+N/A
+03/22/22 0605 - Present
+RADIOLOGY
+Interface
+SYSTEM
+
+Signed
+
+Electronically signed by [DUMMY_Person Name_24], MD on 4/30/25 at 0527 EDT
+
+Clinician Notes
+
+Discharge Instructions
+
+Mia Thompson, DO at 4/30/2025 0537
+
+Author: Mia Thompson, DO
+Service: —
+Filed: 4/30/2025 5:37 AM
+Date of Service: 4/30/2025 5:37 AM
+Editor: Mia Thompson, DO (Resident)
+
+Author Type: Resident
+Status: Written
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 34
+
+====page 43 end ====
+
+====page 44====
+
+City Medical Center
+Sophia Taylor
+400 Placeholder Road, City D, State 22222
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+New York FL 60601
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+Clinician Notes (continued)
+
+Please follow up with your primary care provider in 48 hours for re-evaluation. Return to the Emergency
+Department as needed for worsening, persistent, changing and/or concerning symptoms; or if you have you
+have any other concerns. Please follow up all incidental findings on the Advent Health patient portal online.
+Follow up all findings with your primary care provider.[KA1T]
+
+Electronically signed by Mia Thompson, DO at 4/30/2025 5:37 AM
+
+Attribution Key
+
+KA.1 - Mia Thompson, DO on 4/30/2025 5:36 AM
+T - Template
+
+Patient Discharge Packet
+
+ADVENTHEALTH, CLINICIAN at 4/30/2025 0536
+
+Author: ADVENTHEALTH, CLINICIAN
+Service: —
+Filed: 4/30/2025 5:36 AM
+Date of Service: 4/30/2025 5:36 AM
+Editor: Interface, Master Transcription In
+
+Patient Education
+
+Author Type: Referring Provider
+Status: Signed
+
+Table of Contents
+
+Cervical Strain and Sprain Rehab
+
+To view videos and all your education online visit,
+
+https://pe.elsevier.com/4CsuaehV
+
+or scan this QR code with your smartphone.
+
+Access to this content will expire in one year.
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 35
+
+====page 44 end ====
+
+====page 45====
+
+City Medical Center
+Sophia Taylor
+400 Placeholder Road, City D, State 22222
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+New York FL 60601
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+Clinician Notes (continued)
+Cervical Strain and Sprain Rehab
+
+Ask your health care provider which exercises are safe for you. Do exercises exactly as told by your health care
+
+provider and adjust them as directed. It is normal to feel mild stretching, pulling, tightness, or discomfort as you do
+
+these exercises. Stop right away if you feel sudden pain or your pain gets worse. Do not begin these exercises until
+
+told by your health care provider.
+
+Stretching and range-of-motion exercises
+
+Cervical side bending
+
+1.
+Using good posture, sit on a stable chair or stand up.
+
+2.
+Without moving your shoulders, slowly tilt your left / right ear to your shoulder until
+
+you feel a stretch in the neck muscles on the opposite side. You should be looking
+
+straight ahead.
+
+3.
+Hold for
+seconds.
+
+4.
+Repeat with the other side of your neck.
+
+Repeat
+times. Complete this exercise
+times a day.
+
+Cervical rotation
+
+1.
+Using good posture, sit on a stable chair or stand up.
+
+2.
+Slowly turn your head to the side as if you are looking over your left / right
+
+shoulder.
+
+Keep your eyes level with the ground.
+
+Stop when you feel a stretch along the side and the back of your neck.
+
+3.
+Hold for
+seconds.
+
+4.
+Repeat this by turning to your other side.
+
+Repeat
+times. Complete this exercise
+times a day.
+
+Thoracic extension and pectoral stretch
+
+1.
+Roll a towel or a small blanket so it is about 4 inches (10 cm) in diameter.
+
+2.
+Lie down on your back on a firm surface.
+
+3.
+Put the towel in the middle of your back across your spine. It should not be under
+
+your shoulder blades.
+
+4.
+Put your hands behind your head and let your elbows fall out to your sides.
+
+5.
+Hold for
+seconds.
+
+Repeat
+times. Complete this exercise
+times a day.
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 36
+
+====page 45 end ====
+
+====page 46====
+
+# **[LOGO PLACEHOLDER: City Medical Center]**
+*(Note: Logo likely appears in the header of the original document, e.g., top of page with clinic/hospital branding.)*
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+Clinician Notes (continued)
+
+## Strengthening exercises
+
+### Upper cervical flexion
+
+1. Lie on your back with a thin pillow behind your head or a small, rolled-up towel under your neck.
+2. Gently tuck your chin toward your chest and nod your head down to look toward your feet. Do not lift your head off the pillow.
+3. Hold for __________ seconds.
+4. Release the tension slowly. Relax your neck muscles completely before you repeat this exercise.
+
+Repeat __________ times. Complete this exercise __________ times a day.
+
+### Cervical extension
+
+1. Stand about 6 inches (15 cm) away from a wall, with your back facing the wall.
+2. Place a soft object, about 6–8 inches (15–20 cm) in diameter, between the back of your head and the wall. A soft object could be a small pillow, a ball, or a folded towel.
+3. Gently tilt your head back and press into the soft object. Keep your jaw and forehead relaxed.
+4. Hold for __________ seconds.
+5. Release the tension slowly. Relax your neck muscles completely before you repeat this exercise.
+
+Repeat __________ times. Complete this exercise __________ times a day.
+
+## Posture and body mechanics
+
+Body mechanics refer to the movements and positions of your body while you do your daily activities. Posture is part of body mechanics. Good posture and healthy body mechanics can help to relieve stress in your body's tissues and joints. Good posture means that your spine is in its natural S-curve position (your spine is neutral), your shoulders are pulled back slightly, and your head is not tipped forward.
+
+The following are general guidelines for using improved posture and body mechanics in your everyday activities.
+
+### Sitting
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 37
+
+====page 46 end ====
+
+====page 47====
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+Clinician Notes (continued)
+
+When sitting, keep your spine neutral and keep your feet flat on the floor. Use a
+
+footrest, if needed, and keep your thighs parallel to the floor. Avoid rounding your
+
+shoulders. Avoid tilting your head forward.
+
+When working at a desk or a computer, keep your desk at a height where your
+
+hands are slightly lower than your elbows. Slide your chair under your desk so you
+
+are close enough to maintain good posture.
+
+When working at a computer, place your monitor at a height where you are looking
+
+straight ahead and you do not have to tilt your head forward or downward to look
+
+at the screen.
+
+Standing
+
+When standing, keep your spine neutral and keep your feet about hip-width apart.
+
+Keep a slight bend in your knees. Your ears, shoulders, and hips should line up.
+
+When you do a task in which you stand in one place for a long time, place one foot
+
+up on a stable object that is 2-4 inches (5-10 cm) high, such as a footstool. This
+
+helps keep your spine neutral.
+
+Resting
+
+When lying down and resting, avoid positions that are most painful for you. Try to
+
+support your neck in a neutral position. You can use a contour pillow or a small rolled-up
+
+towel. Your pillow should support your neck but not push on it.
+
+This information is not intended to replace advice given to you by your health care
+
+provider. Make sure you discuss any questions you have with your health care provider.
+
+Document Released: 2006-12-18 Document Updated: 2024-04-22 Document Reviewed: 2023-07-10
+
+Elsevier Patient Education © 2025 Elsevier Inc.
+
+[Ml.IM]
+
+Electronically signed by Interface, Master Transcription In at 4/30/2025 5:36 AM
+
+Attribution Key
+
+MI.1 - Interface, Master Transcription In on 4/30/2025 5:36 AM
+M - Manual
+
+Physician Orders
+
+IV
+
+Insert peripheral IV (Discontinued)
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 38
+
+====page 47 end ====
+
+====page 48====
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+Physician Orders (continued)
+
+Electronically signed by: Mia Thompson, DO on 04/30/25 0255
+Status: Discontinued
+Ordering user: Mia Thompson DO 04/30/25 0255
+Ordering provider: Mia Thompson, DO
+Authorized by: Daniel Harris, MD
+Ordering mode: Standard
+Frequency: STAT Once 04/30/25 0255 - 1 occurrence
+Class: Hospital Performed
+Quantity: 1
+Instance released by: Mia Thompson Tariq Mia Thompson, DO (auto-released)
+4/30/2025 2:55 AM
+Discontinued by: Automatic Discharge Provider 04/30/25 0812 [Patient Discharge]
+
+Medications
+
+acetaminophen (Ofirmev) injection 1,000 mg (Completed)
+
+Electronically signed by: Mia Thompson, DO on 04/30/25 0255
+Status: Completed
+Ordering user: Mia Thompson, DO 04/30/25 0255
+Ordering provider: Mia Thompson, DO
+Authorized by: Daniel Harris, MD
+Ordering mode: Standard
+Frequency: STAT Once 04/30/25 0300 - 1 occurrence
+Class: Normal
+Acknowledged: Liam Clark, RN 04/30/25 0308 for Placing Order
+Package: 36000-306-60
+
+iopamidol (lsovue-370) 76 % solution 80 mL (Completed)
+
+Electronically signed by: [DUMMY_Person Name_25] on 04/30/25 0258
+Status: Completed
+Ordering user: [DUMMY_Person Name_25] 04/30/25 0258
+Ordering provider: Daniel Harris, MD
+Authorized by: Daniel Harris, MD
+Ordering mode: Contrast I Radiopharm: No Cosign Required
+Frequency: Routine Once in imaging 04/30/25 0258 - 1
+Class: Normal
+occurrence
+Acknowledged: Liam Clark, RN 04/30/25 0308 for Placing Order
+Package: 0270-1316-95
+
+methocarbamol (Robaxin) 500 MG tablet (Discontinued)
+
+Electronically signed by: Daniel Harris, MD on 04/30/25 0541
+Status: Discontinued
+Ordering user: Daniel Harris, MD 04/30/25 0541
+Ordering provider: Daniel Harris, MD
+Authorized by: Daniel Harris MD
+Ordering mode: Standard
+Frequency: Routine BID 04/30/25 - 5 days
+Class: Print
+Discontinued by: [DUMMY_Person Name_27], DO 05/07/25 1551 [Therapy completed]
+
+Medication Administration Record
+
+acetaminophen (Ofirmev) injection 1,000 mg [1085440630]
+
+Ordering Provider: Mia Thompson, DO
+Ordered On: 04/30/25 0255
+Ordered Dose (Remaining/Total): 1,000 mg (0/1)
+Frequency: Once
+
+Line
+Med Link Info
+
+Status: Completed (Past End Date/Time)
+Starts/Ends: 04/30/25 0300 - 04/30/25 0357
+Route: Intravenous
+Ordered Rate/Order Duration: 400 mL/hr / 15 Minutes
+
+Comment
+Peripheral IV 04/30/25 Right Antecubital
+04/30/25 0342 by Liam Clark, RN
+
+Timestamps
+Action
+Dose / Rate / Duration
+Route
+Other Information
+Performed 04/30/25 Stopped
+0 mg
+0357
+0 mL/hr
+Documented:
+15 Minutes
+04/30/25 0521
+
+Intravenous
+Performed by: Liam Clark, RN
+
+Performed 04/30/25 New Bag
+1,000 mg
+0342
+400 mL/hr
+Documented:
+15 Minutes
+04/30/25 0342
+
+Intravenous
+Performed by: Liam Clark, RN
+Scanned Package: 0264-4100-90
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 39
+
+====page 48 end ====
+
+====page 49====
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+Medication Administration Record (continued)
+
+iopamidol (lsovue-370) 76 % solution 80 mL [1085440634]
+
+Ordering Provider: Daniel Harris, MD
+Ordered On: 04/30/25 0258
+Ordered Dose (Remaining/Total): 80 mL (0/1)
+Frequency: Once in imaging
+
+Line
+
+Status: Completed (Past End Date/Time)
+Starts/Ends: 04/30/25 0258 - 04/30/25 0449
+Route: Intravenous
+Ordered Rate/Order Duration: — / —
+Med Link Info
+Comment
+Peripheral IV 04/30/25 Right Antecubital
+04/30/25 0449 by [DUMMY_Person Name_25]
+
+Timestamps
+Action
+Dose
+Route
+Other Information
+Performed 04/30/25 Given
+80 mL
+0449
+Documented:
+04/30/25 0449
+
+Intravenous
+Performed by: [DUMMY_Person Name_25]
+Scanned Package: 0270-1316-95
+
+Current Medications List
+
+Medication List
+
+© This report is for documentation purposes only. The patient should not follow medication instructions within. For accurate
+instructions regarding medications, the patient should instead consult their physician or after visit summary.
+
+Prior To Admission
+
+Medications last reviewed by Daniel Harris, MD on 4/30/2025 0301
+
+atorvastatin (Lipitor) 10 MG tablet [patient reported]
+
+Instructions: Take 1 tablet (10 mg total) by mouth every night.
+Entered by: James Miller, RN
+Entered on: 9/14/2024
+
+amLODIPine (Norvasc) 5 MG tablet [reconciled by Mia Thompson, RN on 12/13/2024 0735]
+
+Instructions: Take 1 tablet (5 mg total) by mouth 1 (one) time each day.
+Entered by: Mia Thompson, RN
+Entered on: 12/13/2024
+Start date: 8/5/2024
+
+Eliquis 5 MG tablet [reconciled by Mia Thompson, RN on 12/13/2024 0735]
+
+Instructions: Take 1 tablet (5 mg total) by mouth in the morning and 1 tablet (5 mg total) before bedtime.
+Entered by: Mia Thompson, RN
+Entered on: 12/13/2024
+
+metoprolol tartrate (Lopressor) 25 MG tablet [reconciled by Mia Thompson, RN on 12/13/2024 0735]
+
+Instructions: Take 1 tablet (25 mg total) by mouth in the morning and 1 tablet (25 mg total) in the evening. Take with meals.
+Entered by: Mia Thompson, RN
+Entered on: 12/13/2024
+
+losartan (Cozaar) 50 MG tablet [reconciled by Mia Thompson, RN on 12/13/2024 0735]
+
+Instructions: Take 1 tablet (50 mg total) by mouth 1 (one) time each day.
+Entered by: Mia Thompson, RN
+Entered on: 12/13/2024
+Start date: 11/20/2024
+
+atorvastatin (Lipitor) 20 MG tablet [reconciled by Mia Thompson, RN on 12/13/2024 0735]
+
+Instructions: Take 1 tablet (20 mg total) by mouth every night.
+Entered by: Mia Thompson, RN
+Entered on: 12/13/2024
+Start date: 10/16/2024
+
+dilTIAZem HCI extended release 180 MG tablet sustained-release 24 hour [reconciled by Mia Thompson, RN on 12/13/2024
+0735]
+
+Instructions: 1 tablet 1 (one) time each day at the same time.
+Entered by: Mia Thompson, RN
+Entered on: 12/13/2024
+Start date: 10/24/2024
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 40
+
+====page 49 end ====
+
+====page 50====
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+Current Medications List (continued)
+
+hydroCHLOROthiazide 12.5 MG tablet [reconciled by Mia Thompson, RN on 12/13/2024 0735]
+
+Instructions: 1 tablet (12.5 mg total) 1 (one) time each day at the same time.
+Entered by: Mia Thompson, RN
+Entered on: 12/13/2024
+Start date: 9/27/2024
+
+Discharge Medication List
+
+Medications last reviewed by Daniel Harris, MD on 4/30/2025 0301
+
+atorvastatin (Lipitor) 10 MG tablet [patient reported]
+
+Instructions: Take 1 tablet (10 mg total) by mouth every night.
+Entered by: James Miller, RN
+Entered on: 9/14/2024
+
+amLODIPine (Norvasc) 5 MG tablet [reconciled by Mia Thompson, RN on 12/13/2024 0735]
+
+Instructions: Take 1 tablet (5 mg total) by mouth 1 (one) time each day.
+Entered by: Mia Thompson, RN
+Entered on: 12/13/2024
+Start date: 8/5/2024
+
+Eliquis 5 MG tablet [reconciled by Mia Thompson, RN on 12/13/2024 0735]
+
+Instructions: Take 1 tablet (5 mg total) by mouth in the morning and 1 tablet (5 mg total) before bedtime.
+Entered by: Mia Thompson, RN
+Entered on: 12/13/2024
+
+aspirin 325 MG tablet [reconciled by Mia Thompson, RN on 12/13/2024 0735]
+
+Discontinued by: Mia Thompson
+Discontinued on: 5/7/2025
+Instructions: Take 1 tablet (325 mg total) by mouth 1 (one) time each day at the same time.
+Entered by: Mia Thompson, RN
+Entered on: 12/13/2024
+End date: 5/7/2025
+
+metoprolol tartrate (Lopressor) 25 MG tablet [reconciled by Mia Thompson, RN on 12/13/2024 0735]
+
+Instructions: Take 1 tablet (25 mg total) by mouth in the morning and 1 tablet (25 mg total) in the evening. Take with meals.
+Entered by: Mia Thompson, RN
+Entered on: 12/13/2024
+
+losartan (Cozaar) 50 MG tablet [reconciled by Mia Thompson, RN on 12/13/2024 0735]
+
+Instructions: Take 1 tablet (50 mg total) by mouth 1 (one) time each day.
+Entered by: Mia Thompson RN
+Entered on: 12/13/2024
+Start date: 11/20/2024
+
+atorvastatin (Lipitor) 20 MG tablet [reconciled by Mia Thompson, RN on 12/13/2024 0735]
+
+Instructions: Take 1 tablet (20 mg total) by mouth every night.
+Entered by: Mia Thompson, RN
+Entered on: 12/13/2024
+Start date: 10/16/2024
+
+dilTIAZem HCI extended release 180 MG tablet sustained-release 24 hour [reconciled by Mia Thompson, RN on 12/13/2024
+0735]
+
+Instructions: 1 tablet 1 (one) time each day at the same time.
+Entered by: Mia Thompson, RN
+Entered on: 12/13/2024
+Start date: 10/24/2024
+
+hydroCHLOROthiazide 12.5 MG tablet [reconciled by Mia Thompson, RN on 12/13/2024 0735]
+
+Instructions: 1 tablet (12.5 mg total) 1 (one) time each day at the same time.
+Entered by: Mia Thompson, RN
+Entered on: 12/13/2024
+Start date: 9/27/2024
+
+methocarbamol (Robaxin) 500 MG tablet
+
+Discontinued by: [DUMMY_Person Name_27], DO
+Discontinued on: 5/7/2025
+Reason for discontinuation: Therapy completed
+Instructions: Take 1 tablet (500 mg total) by mouth in the morning and 1 tablet (500 mg total) before bedtime. Do all this for 5
+days.
+Authorized by: Daniel Harris, MD
+Ordered on: 4/30/2025
+Printed by 65897 at 6/3/25 11:31 PM
+Page 41
+
+====page 50 end ====
+
+====page 51====
+
+# **[LOGO PLACEHOLDER: City Medical Center]**
+*(Note: Logo likely appears in the header of the original document, e.g., top of page with clinic/hospital branding.)*
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+Current Medications List (continued)
+
+|  Start date: 4/30/2025 | End date: 5/7/2025  |
+| --- | --- |
+|  Quantity: 10 tablet | Refill: No refills remaining  |
+|  Stopped in Visit |   |
+|  None |   |
+
+IRF-PAI Abstraction Data Audit information between 06/03/2024 2331 and 06/03/2025 2331
+Sophia Taylor
+There are no abstractions to display.
+
+IRF-PAI Abstraction Data Audit information between 06/03/2024 2331 and 06/03/2025 2331
+Sophia Taylor
+There are no abstractions to display.
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 42
+
+====page 51 end ====
+
+====page 52====
+
+City Medical Center
+Sophia Taylor
+400 Placeholder Road, City D, State 22222
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+New York FL 60601
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+Patient / Family Education Scans
+
+Discharge Instruction - Scan on 5/2/2025 2:51 PM
+
+Scan (below)
+
+Sophia Taylor
+Discharge Acknowledgement Form
+
+MRN: MR-DUMMY-000001
+Description: Male DOB: 01/01/1990
+
+Discharge Acknowledgement Form
+
+(Emergency Department)
+
+I, Sophia Taylor, have been given the following list of discharge patient education materials
+and follow up instructions:
+
+Patient Education Materials, appropriate to treatment and follow up
+Medication Education Materials, appropriate to treatment and follow up
+
+I, Sophia Taylor, understand I was treated at the Emergency Department.
+I was
+Emergency status while in the Emergency Department. I understand the treatment I received and also
+understand that further treatment may be necessary. I have been given a copy of the above instructions and I
+will arrange for follow up care as outlined above. If my condition worsens, I will call my doctor or go to the
+Emergency Department.Ihave received all of my valuables and belongings prior to discharge.
+
+Signature:
+
+Relationship:
+
+(e.g„ Parent, Guardian, Health Care Surrogate, Guarantor. Proxy. Power of Attorney)
+
+CSN: 5010352211997
+
+Sophia Taylor
+Preferred name Sophia Taylor
+DOB 10'29'1960 (S6 yrs) Male
+DOS
+4'30'2025
+MRN MR-DUMMY-000001 CSN 5010352211997
+
+Sophia Taylor (MRN MR-DUMMY-000001) Printed by (154453) at 4/30/2025 5:46 AM
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 43
+
+====page 52 end ====
+
+====page 53====
+
+City Medical Center
+Sophia Taylor
+400 Placeholder Road, City D, State 22222
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+New York FL 60601
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+Case 11368825
+
+Surgery Information
+
+General Information
+
+Date: 4/30/2025
+Time:
+Status: Posted
+Location: AH EAST New York NON-IR
+Room:
+Service:
+Patient class:
+Case classification:
+
+Diagnosis Information
+
+No post-op diagnosis codes associated with the log.
+
+Clinical Documentation
+
+Case Tracking Events
+
+Event
+Time In
+In Facility
+0226
+
+Event Tracking
+
+No event timings documented
+
+Patient Preparation
+
+None
+
+Counts by Panel
+
+Panel 1
+
+Type
+
+Correct
+X-
+MD
+Which?
+?
+Ray?
+Notified?
+Counted By
+Verified By
+Sponge
+Needles/Sharps
+Instruments
+
+Sponge
+Needles/Sharps
+Instruments
+
+Sponge
+Needles/Sharps
+Instruments
+
+Initial
+Initial
+Initial
+Closing
+Closing
+Closing
+Final
+Final
+Final
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 44
+
+====page 53 end ====
+
+====page 54====
+
+City Medical Center
+Sophia Taylor
+400 Placeholder Road, City D, State 22222
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+New York FL 60601
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+Care Plan
+
+Active
+
+Problem: Adult Inpatient Plan of Care
+
+Dates:
+Start: 04/30/25
+Disciplines:
+Nurse, Interdisciplinary
+Goal: Plan of Care Review
+
+Dates:
+Start: 04/30/25
+Disciplines:
+Nurse, Interdisciplinary
+
+Goal: Patient-Specific Goal (Individualized)
+
+Dates:
+Disciplines:
+
+Start: 04/30/25
+Nurse, Interdisciplinary
+
+Goal: Absence of Hospital-Acquired Illness or Injury
+
+Dates:
+Start: 04/30/25
+Disciplines:
+Nurse, Interdisciplinary
+Intervention: Identify and Manage Fall Risk
+
+Frequency:
+Dates:
+Description:
+
+PerCPG
+Start: 04/30/25
+Perform standard risk assessment on admission using a validated tool or comprehensive approach
+appropriate to the patient; reassess fall risk frequently, with change in status or transfer to another
+level of care.
+Communicate fall injury risk to interprofessional healthcare team.
+Determine need for increased observation, equipment and environmental modification, such as low
+bed and signage, as well as supportive, nonskid footwear.
+Adjust safety measures to individual developmental age, stage and identified risk factors.
+Reinforce the importance of safety and physical activity with patient and family.
+Perform regular intentional rounding to assess need for position change, pain assessment and
+personal needs, including assistance with toileting.
+
+Intervention: Prevent Skin Injury
+
+Frequency:
+Dates:
+Description:
+
+PerCPG
+Start: 04/30/25
+Perform a screening for skin injury risk, such as pressure or moisture-associated skin damage on
+admission and at regular intervals throughout hospital stay.
+Keep all areas of skin (especially folds) clean and dry.
+Maintain adequate skin hydration.
+Relieve and redistribute pressure and protect bony prominences and skin at risk for injury;
+implement measures based on patient-specific risk factors.
+Match turning and repositioning schedule to clinical condition.
+Encourage weight shift frequently; assist with reposition if unable to complete independently.
+Float heels off bed; avoid pressure on the Achilles tenSophia Taylor.
+Keep skin free from extended contact with medical devices.
+Optimize nutrition and hydration.
+Encourage functional activity and mobility, as early as tolerated.
+Use aids (e.g., slide boards, mechanical lift) during transfer.
+
+Intervention: Prevent and Manage VTE (Venous Thromboembolism) Risk
+
+Frequency:
+Dates:
+Description:
+
+PerCPG
+Start: 04/30/25
+Assess for VTE (venous thromboembolism) risk.
+Encourage and assist with early ambulation.
+Initiate and maintain compression or other therapy, as indicated, based on identified risk in
+accordance with organizational protocol and provider order.
+Encourage both active and passive leg exercises while in bed, if unable to ambulate.
+
+Intervention: Prevent Infection
+
+Frequency:
+Dates:
+
+PerCPG
+Start: 04/30/25
+Description:
+Maintain skin and mucous membrane integrity; promote hand, oral and pulmonary hygiene.
+Optimize fluid balance, nutrition, sleep and glycemic control to maximize infection resistance.
+Printed by 65897 at 6/3/25 11:31 PM
+Page 45
+
+====page 54 end ====
+
+====page 55====
+
+City Medical Center
+Sophia Taylor
+400 Placeholder Road, City D, State 22222
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+New York FL 60601
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+Care Plan (continued)
+
+Identify potential sources of infection early to prevent or mitigate progression of infection (e.g.,
+wound, lines, devices).
+Evaluate ongoing need for invasive devices; remove promptly when no longer indicated.
+Review vaccination status.
+
+Goal: Optimal Comfort and Wellbeing
+
+Dates:
+Start: 04/30/25
+Disciplines:
+Nurse, Interdisciplinary
+Intervention: Monitor Pain and Promote Comfort
+
+Frequency:
+Dates:
+Description:
+
+PerCPG
+Start: 04/30/25
+Assess pain level, treatment efficacy and patient response at regular intervals using a consistent
+pain scale.
+Consider the presence and impact of pre-existing chronic pain.
+Encourage patient and caregiver involvement in pain assessment, interventions and safety
+measures.
+Promote activity; balance with sleep and rest to enhance healing.
+
+Intervention: Provide Person-Centered Care
+
+Frequency:
+Dates:
+Description:
+
+PerCPG
+Start: 04/30/25
+Use a family-focused approach to care.
+Develop trust and rapport by proactively providing information, encouraging questions, addressing
+concerns and offering reassurance.
+Acknowledge emotional response to hospitalization.
+Recognize and utilize personal coping strategies.
+Honor spiritual and cultural preferences.
+
+Goal: Readiness for Transition of Care
+
+Dates:
+Start: 04/30/25
+Disciplines:
+Nurse, Interdisciplinary
+Intervention: Mutually Develop Transition Plan
+
+Frequency:
+Dates:
+Description:
+
+PerCPG
+Start: 04/30/25
+Identify available resources for support (e.g., family, friends, community).
+Identity and address barriers to ongoing treatment and home management (e.g., environmental,
+financial).
+Provide opportunities to practice self-management skills.
+Assess and monitor emotional readiness for transition.
+Establish or reconnect linkage with outpatient providers or community-based services.
+
+Nursing Assessments (Flowsheets)
+
+Acuity
+
+Row Name
+04/30/25 0213
+
+Acuity
+
+Patient Acuity
+Less Urgent -fg at
+04/30/25 0213
+Triage Complete
+Triage complete -fg
+at 04/30/25 0213
+
+Assign Registrar
+
+Row Name
+04/30/25 0228
+
+OTHER
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 46
+
+====page 55 end ====
+
+====page 56====
+
+# **[LOGO PLACEHOLDER: City Medical Center]**
+*(Note: Logo likely appears in the header of the original document, e.g., top of page with clinic/hospital branding.)*
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+
+# 04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+## Nursing Assessments (Flowsheets) (continued)
+
+|  Assign Registrar | Sign up to register
+patient -YL at 04/30/25 0228  |
+| --- | --- |
+
+## Basic Assessment
+
+|  Row Name | 04/30/25 0400  |
+| --- | --- |
+|  Charting Type |   |
+|  Charting Type | Reassessment -LG
+at 04/30/25 0546  |
+
+## Care Handoff
+
+|  Row Name | 04/30/25 0545  |
+| --- | --- |
+|  Care Handoff |   |
+|  Handoff Type | Given to patient -
+patient left the ED -
+LG at 04/30/25 0545  |
+
+## Care Level Score (CLS)
+
+|  Row Name | 04/30/25 0221  |
+| --- | --- |
+|  XSOLIS Care Level Score  |   |
+|  CLS Score | 12 -8 at 04/30/25 0221  |
+|  CLS Max Score | 12 -8 at 04/30/25 0221  |(tbl-3.md)
+
+## Communicable Disease Screening Cont'd
+
+|  Row Name | 04/30/25 0214  |
+| --- | --- |
+|  Communicable Disease Screen Cont'd  |   |
+|  Confirmed | No -FG at 04/30/25 0214  |
+|  Positive Influenza Result Past 14 Days |   |
+|  Have you had 3 or more unexplained diarrheal stools (watery/liquid) in the last 24 hours (exclude patients with known chronic diarrhea, laxative use, new medications with possible side effect, known condition such as lactose intolerance)? | No -FG at 04/30/25 0214  |
+|  Have you had diarrhea and 1 or more of these risk factors: age 65 y or greater, fever, chills, abdominal pain, nausea, IBD or immune compromise; OR diarrhea and | No -FG at 04/30/25 0214  |(tbl-4.md)
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 47
+
+====page 56 end ====
+
+====page 57====
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+Nursing Assessments (Flowsheets) (continued)
+
+within last 30
+days had C diff
+infection,
+hospitalization/LT
+AC/SNF stay, or
+antibiotic use?
+Employed in
+Healthcare
+
+No -FG at 04/30/25 0214
+
+Do you live in
+Group/Communa
+l/Congregate
+Living setting?
+
+No -FG at 04/30/25 0214
+
+Have you been
+notified by your
+physician or the
+health
+
+No -FG at 04/30/25 0214
+
+department that
+you had an
+infection that
+requires special
+precautions or
+treatment in the
+last 12 months?
+Have you been
+hospitalized
+outside of the
+United States
+within the last 12
+months?
+
+No -FG at 04/30/25 0214
+
+Complex Assessment
+
+Sedation Scale
+
+Row Name
+04/30/25 0552
+04/30/25 0400
+04/30/25 0234
+
+Neurological
+
+Level of
+Alert -LG at 04/30/25
+Alert -lg at 04/30/25
+Alert -LG at 04/30/25
+Consciousness
+0600
+0523
+0310
+
+Orientation Level
+Oriented X4 -lg at
+Oriented X4 -lg at
+Oriented X4 -lg at
+04/30/25 0600
+04/30/25 0523
+04/30/25 0310
+Cognition
+Appropriate
+Appropriate
+Appropriate
+judgement;Appropri
+judgement;Appropri
+judgement;Appropri
+ate safety
+ate safety
+ate safety
+awareness;Appropri
+awareness;Appropri
+awareness;Appropri
+ate
+ate
+ate
+attention/concentrati
+attention/concentrati
+attention/concentrati
+on -LG at 04/30/25 0600
+on -LG at 04/30/25 0523
+on -LG at 04/30/25 0310
+
+Glasgow Coma Scale
+
+Best Eye
+Spontaneous -LGat
+Spontaneous -LGat
+—
+Response
+04/30/25 0600
+04/30/25 0523
+
+Best Verbal
+Oriented -LGat
+Oriented -LGat
+—
+Response
+04/30/25 0600
+04/30/25 0523
+
+Best Motor
+Follows commands
+Follows commands
+—
+Response
+-LG at 04/30/25 0600
+-LG at 04/30/25 0523
+Glasgow Coma
+Scale Score
+
+15 -LG at 04/30/25 0600
+15 -LG at 04/30/25 0523
+—
+
+Sedation Scales
+
+Sedation Scale
+Richmond Agitation
+Richmond Agitation
+Richmond Agitation
+Used
+Sedation Scale -lg
+Sedation Scale -lg
+Sedation Scale -lg
+at 04/30/25 0600
+at 04/30/25 0523
+at 04/30/25 0310
+Richmond
+Alert and calm -LG at
+Alert and calm -LG at
+Alert and calm -LG at
+Agitation
+04/30/25 0600
+04/30/25 0523
+04/30/25 0310
+
+(RASS)
+Printed by 65897 at 6/3/25 11:31 PM
+Page 48
+
+====page 57 end ====
+
+====page 58====
+
+City Medical Center
+Sophia Taylor
+400 Placeholder Road, City D, State 22222
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+New York FL 60601
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+Nursing Assessments (Flowsheets) (continued)
+
+Confusion Assessment Method-ICU (CAM-ICU)
+
+Feature 3: Altered
+Level of
+Consciousness
+
+HEENT
+
+Negative -LGat
+04/30/25 0600
+
+Negative -LGat
+—
+04/30/25 0523
+
+HEENT (WDL)
+Exceptions to WDL
+-LG at 04/30/25 0600
+
+Exceptions to WDL
+-LG at 04/30/25 0523
+
+Exceptions to WDL
+-LG at 04/30/25 0521
+Neck
+Tenderness;Trachea
+midline;Symmetrical
+;No trauma/injury -
+LG at 04/30/25 0600
+
+Tenderness;Trachea
+midline;Symmetrical
+;No trauma/injury -
+LG at 04/30/25 0523
+
+Tendemess;Trachea
+midline;Symmetrical
+;No trauma/injury -
+LG at 04/30/25 0521
+
+Respiratory
+
+Respiratory
+Normal -lg at 04/30/25
+Normal -lg at 04/30/25
+Normal -lg at 04/30/25
+Pattern
+0600
+0523
+0521
+
+Respiratory
+Depth/Rhythm
+
+—
+—
+Regular -lg at
+04/30/25 0521
+
+Respiratory Effort
+—
+—
+Unlabored -LGat
+04/30/25 0521
+Chest
+Chest expansion
+Chest expansion
+Chest expansion
+Assessment
+symmetrical -LGat
+04/30/25 0600
+
+symmetrical -LGat
+04/30/25 0523
+
+symmetrical -LGat
+04/30/25 0521
+
+Musculoskeletal
+
+Musculoskeletal
+Exceptions to WDL
+Exceptions to WDL
+Exceptions to WDL
+(WDL)
+C/O rib Pain -LG at
+04/30/25 0600
+® C/O rib Pain -LG at
+04/30/25 0523
+® C/O rib Pain -LG at
+04/30/25 0310
+Charting Type
+
+Charting Type
+Reassessment -LG
+at 04/30/25 0600
+
+—
+Shift assessment -
+LG at 04/30/25 0310
+
+Complex Vitals
+
+Row Name
+04/30/25 0552
+04/30/25 0400
+
+Vitals
+
+Temp
+36.7 °C (98 °F) -LG
+at 04/30/25 0559
+
+36.6 °C (97.9 °F) -
+LG at 04/30/25 0523
+Temp src
+Oral -LG at 04/30/25
+0559
+
+Oral -LG at 04/30/25
+0523
+Pulse
+80 -LG at 04/30/25 0559
+72 -LG at 04/30/26 0623
+Heart Rate
+Monitor -lg at
+Monitor -LGat
+Source
+04/30/25 0559
+04/30/25 0523
+
+Resp
+20 -LG at 04/30/25 0559
+20 -LG at 04/30/25 0523
+BP
+139/89 -LG at 04/30/25
+0559
+
+134/80 -LG at 04/30/25
+0522
+MAP (mmHg)
+102 -LG at 04/30/25
+0559
+
+98 -LG at 04/30/25 0522
+
+BP Location
+Left arm -lg at
+04/30/25 0559
+
+Left arm -lg at
+04/30/25 0523
+BP Method
+Automatic -lg at
+04/30/25 0559
+
+Automatic -LGat
+04/30/25 0523
+Patient Position
+Lying -lg at 04/30/25
+0559
+
+Lying -lg at 04/30/25
+0523
+Pain Assessment
+
+Pain Assessment
+No/denies pain -lg
+at 04/30/25 0559
+
+No/denies pain -lg
+at 04/30/25 0523
+
+Oxygen Therapy
+
+SpO2
+98 % -LG at 04/30/25
+0559
+
+96 % -LG at 04/30/25
+0523
+Oxygen Therapy
+None (Room air) -lg
+at 04/30/25 0559
+
+None (Room air) -lg
+at 04/30/25 0523
+
+Custom Formula Data
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 49
+
+====page 58 end ====
+
+====page 59====
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+Nursing Assessments (Flowsheets) (continued)
+
+Row Name
+04/30/25 0552
+04/30/25 0400
+04/30/25 0357
+04/30/25 0342
+04/30/25 0240
+
+OTHER
+
+Last Pain Score
+—
+Used
+
+—
+0-10 -LG at 04/30/25
+0521
+
+0-10 -LG at 04/30/25
+0342
+
+—
+
+Relevant Labs and Vitals
+
+Temp (in Celsius)
+36.7 -lg at 04/30/25
+for APACHE IV
+»559
+
+36-6 -LG at 04/30/25
+—
+0523
+
+—
+—
+
+Glasgow Coma Scale
+
+Glasgow Coma
+15 -lg at 04/30/25 0600
+Scale Numeric
+
+15 -LG at 04/30/25 0523
+—
+—
+—
+
+Columbia Suicide Severity Rating Scale
+
+Risk of Suicide
+—
+
+Row Name
+04/30/25 0234
+04/30/25 0214
+04/30/25 0213
+
+—
+Low Risk -LG at
+04/30/25 0309
+
+OTHER
+
+BMI (Calculated)
+—
+
+Percent Excess
+—
+Weight Loss
+IBW in lbs
+—
+(Bariatric)
+Weight Change
+—
+Since Last Visit
+IBW in kg
+—
+(Bariatric)
+IBW/kg
+—
+(Calculated) Male
+Daily Weight
+—
+Change
+BMI (Calculated)
+—
+BMI (Calculated)
+—
+
+IBW in kg
+—
+(Bariatric)
+IBW in lb
+—
+(Bariatric)
+Weight Change
+—
+Since Last Visit
+IBW/kg
+—
+(Calculated) Male
+IBW/kg
+—
+(Calculated)
+Female
+Last Pain Score
+—
+Used
+
+—
+31.1 -FG at 04/30/25
+0213
+—
+0 Percent -fg at
+04/30/25 0213
+—
+160 -FG at 04/30/25
+0213
+—
+95.23 kg -FG at
+04/30/25 0213
+—
+72.57 -FG at 04/30/25
+0213
+—
+70.7 kg -FG at
+04/30/25 0213
+—
+-4536 g -FG at
+04/30/25 0213
+—
+31 -FG at 04/30/25 0213
+—
+31.1 -FG at 04/30/25
+0213
+—
+72.57 kg -FG at
+04/30/25 0213
+—
+1601b -FG at 04/30/25
+0213
+—
+95.25 kg -FG at
+04/30/25 0213
+—
+70.7 kg -FG at
+04/30/25 0213
+—
+66.2 kg -FG at
+04/30/25 0213
+
+0-10 -FG at 04/30/25
+—
+0214
+
+Measurements
+
+Total Weight
+—
+Change Percent
+Weight Change
+—
+Since Preop
+Initial Excess
+—
+Weight
+Percent of IBW
+—
+
+EBW (kg)
+—
+
+EBW (lbs)
+—
+
+Weight Change
+—
+Since Preop
+
+—
+2222 Percent -FG at
+04/30/25 0213
+—
+95.23 kgs -fg at
+04/30/25 0213
+—
+-72.57 kgs -fg at
+04/30/25 0213
+—
+4630.01 Percent -fg
+at 04/30/25 0213
+—
+3357.94 kg -fg at
+04/30/25 0213
+—
+3350 lbs -FG at
+04/30/25 0213
+—
+95.25 kg -FG at
+04/30/25 0213
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 50
+
+====page 59 end ====
+
+====page 60====
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+Nursing Assessments (Flowsheets) (continued)
+
+Initial Excess
+—
+—
+Weight
+Percent of IBW
+—
+—
+
+-72.57 kg -FGat
+04/30/25 0213
+131.25 Percent -fg
+at 04/30/25 0213
+EBW (kg)
+—
+—
+22.66 kg -FGat
+04/30/25 0213
+EBW (lb)
+—
+—
+50 lb -FG at 04/30/25
+0213
+Height and Weight
+
+BSA (Calculated -
+—
+—
+sq m)
+Weight in (lb) to
+—
+—
+have BMI = 25
+
+Vital Signs
+
+2.15 sq meters -fg
+at 04/30/25 0213
+168.9 -FG at 04/30/25
+0213
+
+BMI (Calculated)
+—
+—
+Weight and Growth Recommendation
+
+31 -FGat 04/30/25 0213
+
+IBW/kg
+—
+—
+(Calculated)
+Female
+
+66.2 kg -FGat
+04/30/25 0213
+
+Vitals
+
+Total Weight
+—
+—
+Change
+
+Measurements
+
+0 -FGat 04/30/25 0213
+
+Percent Excess
+—
+—
+Weight Loss
+
+Adult IBW/VT Calculations
+
+0 Percent -fg at
+04/30/25 0213
+
+IBW kg
+—
+—
+(Calculated)
+Adult Lower
+—
+—
+Range Vt 4mL/kg
+Adult Low Range
+—
+—
+Vt 6mL/kg
+Adult Moderate
+—
+—
+Range Vt 8mL/kg
+Adult High Range
+—
+—
+Vt 10mL/kg
+Adult Low Range
+—
+—
+Vt 6mL/kg
+Adult Moderate
+—
+—
+Range Vt 8mL/kg
+Adult High Range
+—
+—
+Vt 10mL/kg
+
+Pediatric IBW/VT Calculations
+
+70.7 -FG at 04/30/25
+0213
+
+282.8 mL -FGat
+04/30/25 0213
+
+424.2 mL -FGat
+04/30/25 0213
+565.6 mL -FGat
+04/30/25 0213
+
+707 mL -FG at
+04/30/25 0213
+
+424.2 mL/kg -fg at
+04/30/25 0213
+565.6 mL/kg -fg at
+04/30/25 0213
+707 mL/kg -fg at
+04/30/25 0213
+
+IBW kg Pediatrics
+—
+—
+(Calculated)
+Pediatric Low
+—
+—
+Range Vt 6mL/kg
+Pediatric
+—
+—
+Moderate Range
+Vt 8mL/kg
+
+59.43 -FG at 04/30/25
+0213
+356.58 mL -FGat
+04/30/25 0213
+475.44 mL -FGat
+04/30/25 0213
+
+Pediatric High
+—
+—
+Range Vt
+10mL/kg
+Pediatric Low
+—
+—
+Range Vt 6mL/kg
+Pediatric
+—
+—
+Moderate Range
+Vt 8mL/kg
+Pediatric High
+—
+—
+Range Vt
+
+594.3 mL -FGat
+04/30/25 0213
+
+356.58 mL/kg -fg at
+04/30/25 0213
+475.44 mL/kg -fg at
+04/30/25 0213
+
+594.3 mL/kg -fg at
+04/30/25 0213
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 51
+
+====page 60 end ====
+
+====page 61====
+
+# **[LOGO PLACEHOLDER: City Medical Center]**
+*(Note: Logo likely appears in the header of the original document, e.g., top of page with clinic/hospital branding.)*
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+
+# 04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+## Nursing Assessments (Flowsheets) (continued)
+
+|  10mL/kg
+NICU VT Calculations  |   |   |
+| --- | --- | --- |
+|  NICU Low Range
+Vt 4mL/kg | — | 381.02 mL -FG at
+04/30/25 0213  |
+|  NICU Moderate
+Range Vt 5mL/kg | — | 476.27 mL -FG at
+04/30/25 0213  |
+|  NICU High Range
+Vt 6mL/kg | — | 571.53 mL -FG at
+04/30/25 0213  |
+|  NICU Low Range
+Vt 4mL/kg | — | 381.02 mL/kg -FG at
+04/30/25 0213  |
+|  NICU Moderate
+Range Vt 5mL/kg | — | 476.27 mL/kg -FG at
+04/30/25 0213  |
+|  NICU High Range
+Vt 6mL/kg | — | 571.53 mL/kg -FG at
+04/30/25 0213  |
+|  Relevant Labs and Vitals  |   |   |
+|  Temp (in Celsius)
+for APACHE IV | 36.7 -FG at 04/30/25
+0214 | —  |
+|  Glasgow Coma Scale  |   |   |
+|  Glasgow Coma
+Scale Numeric | 15 -LG at 04/30/25 0234 | —  |
+|  Confusion Assessment Method-ICU (CAM-ICU)  |   |   |
+|  Feature 3: Altered
+Level of
+Consciousness | Negative -LG at
+04/30/25 0310 | —  |
+
+## Data
+
+|  Row Name | 04/30/25 0357 | 04/30/25 0342  |
+| --- | --- | --- |
+|  Pain Assessment  |   |   |
+|  Pain Score | 0 - No pain -LG at 04/30/25 0521 | 4 - Moderate pain - LG at 04/30/25 0342  |
+|  Pain  |   |   |
+|  Pain Location | — | Neck -LG at 04/30/25 0342  |
+
+## Discharge Education
+
+|  Row Name | 04/30/25 0555 | 04/30/25 0545  |
+| --- | --- | --- |
+|  Discharge Education  |   |   |
+|  Patient Teaching | Discharge instructions reviewed -LG at 04/30/25 0600 | Discharge instructions reviewed -LG at 04/30/25 0545  |
+|  Learner | Patient -LG at 04/30/25 0600 | Patient -LG at 04/30/25 0545  |
+
+## Glasgow Coma Scale
+
+|  Row Name | 04/30/25 0234  |
+| --- | --- |
+|  Glasgow Coma Scale  |   |
+|  Best Eye Response | Spontaneous -LG at 04/30/25 0234  |
+|  Best Verbal Response | Oriented -LG at 04/30/25 0234  |
+|  Best Motor Response | Follows commands -LG at 04/30/25 0234  |
+|  Glasgow Coma Scale Score | 15 -LG at 04/30/25 0234  |(tbl-3.md)
+
+Printed by 65897 at 6/3/25 11:31 PM
+
+====page 61 end ====
+
+====page 62====
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+Nursing Assessments (Flowsheets) (continued)
+
+Goal/Outcome Evaluation (Adult)
+
+Row Name
+04/30/25 0555
+04/30/25 0545
+
+Goal/Outcome Evaluation
+
+Goal: Acute
+met -LG at 04/30/25
+met -LG at 04/30/25
+Signs/Symptoms
+are Managed
+
+0600
+0545
+
+Goal: Acceptable
+met -LG at 04/30/25
+met -LG at 04/30/25
+Pain Level
+Achieved
+
+0600
+0545
+
+Discharge
+discharge
+discharge
+Instructions
+instructions, able to
+teach back -lg at
+04/30/25 0600
+
+instructions, able to
+teach back -lg at
+04/30/25 0545
+Participants in
+patient -lg at 04/30/25
+patient -lg at 04/30/25
+Discharge
+Teaching
+
+0600
+0545
+
+LACE+ Score
+
+Row Name
+04/30/25 0600
+
+LACE+
+
+LACE+ Score
+35 -LG at 04/30/25 0600
+
+Lines/Drains/Airways
+
+Row Name
+04/30/25 0342
+
+[REMOVED] Peripheral IV 04/30/25 Right Antecubital
+
+IV Properties
+Placement Date: 04/30/25 -LG, 04/30/25 0342 Placement Time: 0338 -LG, 04/30/25 0342 Size (Gauge): 20
+G -LG, 04/30/25 0342 Orientation: Right -LG, 04/30/25 0342 Location: Antecubital -LG, 04/30/25 0342
+Removal Date: 04/30/25 -LG, 04/30/25 0545 Removal Time: 0545 -LG, 04/30/25 0545
+Site Assessment
+Clean;Dry;lntact -lg
+at 04/30/25 0342
+Dressing Type
+Transparent -LGat
+04/30/25 0342
+Infiltration Score
+(Adult)
+Phlebitis Score
+Dressing Status
+
+0 + I -LG at 04/30/25
+0342
+
+0 -LG at 04/30/25 0342
+Clean;Dry;lntact -lg
+at 04/30/25 0342
+Dressing
+Intervention
+
+New dressing -lg at
+04/30/25 0342
+
+Pain Assessment
+
+Timer
+
+Row Name
+04/30/25 0552
+04/30/25 0400
+04/30/25 0357
+04/30/25 0342
+04/30/25 0214
+
+Pain Assessment Timer
+
+Restart Pain
+Yes -LG at 04/30/25
+Yes -LG at 04/30/25
+Yes -LG at 04/30/25
+Yes -LG at 04/30/25
+Yes -FG at 04/30/25
+Assessment
+0559
+0523
+0521
+0342
+0214
+
+Primary Assessment
+
+Row Name
+04/30/25 0214
+
+Airway
+
+Airway (WDL)
+Within Defined
+Limits -FG at 04/30/25
+0214
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 53
+
+====page 62 end ====
+
+====page 63====
+
+City Medical Center
+Sophia Taylor
+400 Placeholder Road, City D, State 22222
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+New York FL 60601
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+Nursing Assessments (Flowsheets) (continued)
+
+Breathing
+
+Breathing (WDL)
+Within Defined
+Limits -FG at04/30/25
+0214
+Circulation
+
+Circulation (WDL)
+Within Defined
+Limits -FG at 04/30/25
+0214
+Disability
+
+Disability (WDL)
+Within Defined
+Limits -FG at 04/30/25
+0214
+
+S.T.A.R. Program
+
+Row Name
+04/30/25 0240
+
+S.T.A.R. Program
+
+Is there a history
+of sensory or
+developmental
+concerns?
+
+No -LG at 04/30/25 0309
+
+Sepsis Predictive Model Score
+
+Row Name
+04/30/25 0545
+04/30/25 0530
+04/30/25 0500
+04/30/25 0445
+04/30/25 0415
+
+Sepsis Model Scores
+
+Early Detection of
+1.26 -bc at 04/30/25
+Sepsis Score
+0549
+Row Name
+04/30/25 0400
+
+1.29 -BC at 04/30/25
+0536
+04/30/25 0345
+
+1.29 -BC at 04/30/25
+0508
+04/30/25 0315
+
+1.29 -BC at 04/30/25
+0450
+04/30/25 0245
+
+1.29 -BC at 04/30/25
+0424
+04/30/25 0230
+
+Sepsis Model Scores
+
+Early Detection of
+1.29 -bc at 04/30/25
+Sepsis Score
+0406
+
+1.29 -BC at 04/30/25
+0350
+
+1.26 -BC at 04/30/25
+0322
+
+1.3 -BC at 04/30/25
+0253
+
+1.3 -BC at 04/30/25
+0235
+
+Sepsis Screening
+
+Row Name
+04/30/25 0214
+
+Sepsis Screening
+
+Are there risk
+factors of
+infection
+present/new?
+Sepsis Escalation
+Critiera
+Is there a
+suspected
+infection?
+
+Current infection
+present/suspected
+’ -FG at 04/30/25 0214
+
+No criteria met -fg at
+04/30/25 0214
+Unknown/other
+source of
+infection '
+-fg at
+04/30/25 0214
+
+Suicide Risk Screening
+
+Row Name
+04/30/25 0240
+
+Columbia Suicide Severity Rating Scale
+
+1.Have you
+No -lg at 04/30/25 0309
+wished you were
+dead or wished
+you could go to
+sleep and not
+wake up?(Past
+Month)
+Printed by 65897 at 6/3/25 11:31 PM
+Page 54
+
+====page 63 end ====
+
+====page 64====
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+Nursing Assessments (Flowsheets) (continued)
+
+2.Have you
+actually had any
+thoughts of killing
+yourself?(Past
+Month)
+6.Have you ever
+done anything,
+started to do
+anything, or
+prepared to do
+anything to end
+your life?
+Suicide Risk
+
+No -LG al 04/30/25 0309
+
+No -LG at 04/30/25 0309
+
+No Risk Indicated -
+LG at 04/30/25 0309
+
+TB Screening
+
+Row Name
+04/30/25 0240
+
+TB Screening
+
+Active TB or
+History of TB
+(even if on meds)
+Immunocomprom
+ised (HIV,
+Cancer)
+Incarcerated
+within Last 2
+Years
+New Positive Test
+Result for
+Tuberculin Skin
+Test (TST) or
+Interferon
+Gamma Release
+(IGRA), History of
+Recent TB
+Exposure
+Bloody Sputum
+Cough Greater
+Than 2 Weeks
+Homeless or in a
+Shelter
+Foreign Born
+IV Drug User
+Unexplained
+Weight Loss
+More Than 10lbs
+in 30 Days
+Fever and/or
+Chills and/or
+Night Sweats
+Total Score
+
+TB Interventions
+
+No -LG at 04/30/25 0308
+
+No -LG at 04/30/25 0308
+
+No -LG at 04/30/25 0308
+
+No -LG at 04/30/25 0308
+
+No -LG at 04/30/25 0308
+NO -LG at 04/30/25 0308
+
+NO -LG at 04/30/25 0308
+
+No -LG at 04/30/25 0308
+No -LG at 04/30/25 0308
+No -LG at 04/30/25 0308
+
+No -LG at 04/30/25 0308
+
+0 -LG at 04/30/25 0308
+
+Mask Placed on
+Patient
+Notify Provider
+
+No -LG at 04/30/26 0308
+
+No -LG at 04/30/25 0308
+
+Vital Signs
+
+Row Name
+04/30/25 0214
+04/30/25 0213
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 55
+
+====page 64 end ====
+
+====page 65====
+
+City Medical Center
+Sophia Taylor
+400 Placeholder Road, City D, State 22222
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+New York FL 60601
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+Nursing Assessments (Flowsheets) (continued)
+
+Vital Signs
+
+Temp
+36.7 °C (98.1 °F) -
+FG at 04/30/25 0214
+
+—
+
+Pulse
+62 -FG at 04/30/25 0214
+—
+Resp
+
+Oxygen Saturation
+
+20 -FG at 04/30/25 0214
+—
+
+SpO2
+98 % -FG at 04/30/25
+0214
+
+—
+
+Pain Assessment
+
+Pain Assessment
+0-10 -FG at 04/30/25
+0214
+—
+
+Pain Score
+3 - Mild pain -FGat
+04/30/25 0214
+
+—
+
+Height and Weight
+
+Height
+—
+1.753 m (5' 9") -FGat
+04/30/25 0213
+Height Method
+—
+Stated -FG at 04/30/25
+0213
+Weight
+—
+95.3 kg (2101b) -FG
+at 04/30/25 0213
+Weight Method
+—
+Stated -FG at 04/30/25
+0213
+
+Vital Signs
+
+Row Name
+04/30/25 0214
+
+Vital Signs
+
+BP
+151/80*
+-FGat
+04/30/25 0215
+
+Vital Signs
+
+Row Name
+04/30/25 0552
+04/30/25 0400
+04/30/25 0214
+
+Vital Signs
+
+Restart Vitals
+Yes -LG at 04/30/25
+Yes -LG at 04/30/25
+Yes -FG at 04/30/25
+Timer
+0559
+0523
+0215
+
+Vitals Reassessment
+
+Row Name
+04/30/25 0552
+04/30/25 0400
+04/30/25 0214
+
+Vitals Timer
+
+Restart Vitals
+Yes -lg at 04/30/25
+Yes -lg at 04/30/25
+Timer
+0559
+0523
+
+Yes -FGat 04/30/25
+0215
+
+Vitals/Pain
+
+(mmHg)
+
+Row Name
+04/30/25 0552
+04/30/25 0400
+04/30/25 0214
+
+Vitals
+
+MAP
+CALCULATED
+
+106 -LG at 04/30/25
+0559
+
+98 -LG at 04/30/25 0522
+104 -FG at 04/30/25
+0215
+
+User Key
+(r) = Recorded By, (t) = Taken By, (c) = Cosigned By
+
+Initials
+Name
+Provider Type
+Discipline
+FG
+Lucas Anderson, RN
+Registered Nurse
+Nurse
+YL
+Isabella Garcia
+
+—
+—
+
+LG
+Liam Clark, RN
+Registered Nurse
+Nurse
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 56
+
+====page 65 end ====
+
+====page 66====
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+Nursing Assessments (Flowsheets) (continued)
+
+BC
+II
+
+Chronicles, Batchq
+Interface, Incoming Clinical
+
+Documentation Flowsheet -
+Xsolis - Cortex
+
+All Flowsheet Data (all recorded)
+
+Data
+
+Row Name
+04/30/25 0357
+04/30/25 0342
+
+Pain Assessment
+
+Pain Score
+0 - No pain
+
+Pain
+
+4 - Moderate pain
+
+Pain Location
+—
+Neck
+
+Custom Formula Data
+
+Row Name
+04/30/25 0552
+04/30/25 0400
+04/30/25 0357
+04/30/25 0342
+04/30/25 0240
+
+OTHER
+
+Last Pain Score
+—
+Used
+
+Relevant Labs and Vitals
+
+—
+0-10
+0-10
+—
+
+Temp (in Celsius)
+36.7
+for APACHE IV
+
+Glasgow Coma Scale
+
+36.6
+—
+—
+—
+
+Glasgow Coma
+15
+Scale Numeric
+
+Columbia Suicide Severity Rating Scale
+
+15
+—
+—
+—
+
+Risk of Suicide
+—
+Row Name
+04/30/25 0234
+04/30/25 0214
+04/30/25 0213
+
+—
+Low Risk
+
+OTHER
+
+BMI (Calculated)
+—
+Percent Excess
+—
+Weight Loss
+IBW in lbs
+—
+(Bariatric)
+Weight Change
+—
+Since Last Visit
+IBW in kg
+—
+(Bariatric)
+IBW/kg
+—
+(Calculated) Male
+Daily Weight
+—
+Change
+BMI (Calculated)
+—
+BMI (Calculated)
+—
+IBW in kg
+—
+(Bariatric)
+IBW in lb
+—
+(Bariatric)
+Weight Change
+—
+Since Last Visit
+IBW/kg
+—
+(Calculated) Male
+IBW/kg
+—
+(Calculated)
+Female
+
+I
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+I
+I
+
+I
+
+I
+
+I
+
+I
+
+31.1
+0 Percent
+
+160
+
+95.23 kg
+
+72.57
+
+70.7 kg
+
+-4536 g
+
+31
+31.1
+72.57 kg
+
+1601b
+
+95.25 kg
+
+70.7 kg
+
+66.2 kg
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 57
+
+====page 66 end ====
+
+====page 67====
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+All Flowsheet Data (all recorded) (continued)
+
+Last Pain Score
+—
+0-10
+Used
+
+Measurements
+
+Total Weight
+—
+—
+Change Percent
+Weight Change
+—
+—
+Since Preop
+Initial Excess
+—
+—
+Weight
+Percent of IBW
+—
+—
+EBW (kg)
+—
+—
+EBW (lbs)
+—
+—
+Weight Change
+—
+—
+Since Preop
+Initial Excess
+—
+—
+Weight
+Percent of IBW
+—
+—
+EBW (kg)
+—
+—
+EBW (lb)
+—
+—
+Height and Weight
+
+2222 Percent
+
+95.23 kgs
+
+-72.57 kgs
+
+4630.01 Percent
+3357.94 kg
+3350 lbs
+95.25 kg
+
+-72.57 kg
+
+131.25 Percent
+22.66 kg
+50 lb
+
+BSA (Calculated -
+—
+—
+sq m)
+Weight in (lb) to
+—
+—
+have BMI = 25
+
+Vital Signs
+
+2.15 sq meters
+
+168.9
+
+BMI (Calculated)
+—
+—
+Weight and Growth Recommendation
+
+31
+
+IBW/kg
+—
+—
+(Calculated)
+Female
+Vitals
+
+66.2 kg
+
+Total Weight
+—
+—
+Change
+
+Measurements
+
+0
+
+Percent Excess
+—
+—
+Weight Loss
+
+Adult IBW/VT Calculations
+
+0 Percent
+
+IBW kg
+—
+—
+(Calculated)
+Adult Lower
+—
+—
+Range Vt 4mL/kg
+Adult Low Range
+—
+—
+Vt 6mL/kg
+Adult Moderate
+—
+—
+Range Vt 8mL/kg
+Adult High Range
+—
+—
+Vt 10mL/kg
+Adult Low Range
+—
+—
+Vt 6mL/kg
+Adult Moderate
+—
+—
+Range Vt 8mL/kg
+Adult High Range
+—
+—
+Vt 10mL/kg
+
+Pediatric IBW/VT Calculations
+
+70.7
+
+282.8 mL
+
+424.2 mL
+
+565.6 mL
+
+707 mL
+
+424.2 mL/kg
+
+565.6 mL/kg
+
+707 mL/kg
+
+IBW kg Pediatrics
+—
+—
+(Calculated)
+Pediatric Low
+—
+—
+Range Vt 6mL/kg
+Pediatric
+—
+—
+
+59.43
+
+356.58 mL
+
+475.44 mL
+Printed by 65897 at 6/3/25 11:31 PM
+Page 58
+
+====page 67 end ====
+
+====page 68====
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+All Flowsheet Data (all recorded) (continued)
+
+Moderate Range
+Vt 8mL/kg
+Pediatric High
+—
+Range Vt 10mUkg
+Pediatric Low
+—
+Range Vt 6mL/kg
+Pediatric
+—
+Moderate Range
+Vt 8mL/kg
+Pediatric High
+—
+Range Vt 10ml_/kg
+
+NICU VT Calculations
+
+—
+
+594.3 mL
+
+356.58 mL/kg
+
+475.44 mL/kg
+
+594.3 mL/kg
+
+NICU Low Range
+—
+Vt 4mL/kg
+NICU Moderate
+—
+Range Vt 5mL/kg
+NICU High Range
+—
+Vt 6mL/kg
+NICU Low Range
+—
+Vt 4mL/kg
+NICU Moderate
+—
+Range Vt 5mL/kg
+NICU High Range
+—
+Vt 6mL/kg
+
+Relevant Labs and Vitals
+
+—
+
+381.02 mL
+
+476.27 mL
+
+571.53 mL
+
+381.02 mL/kg
+
+476.27 mL/kg
+
+571.53 mL/kg
+
+Temp (in Celsius)
+—
+for APACHE IV
+
+Glasgow Coma Scale
+
+36.7
+—
+
+Glasgow Coma
+15
+Scale Numeric
+
+Confusion Assessment Method-ICU (CAM-ICU)
+
+—
+
+Feature 3: Altered
+Level of
+Consciousness
+
+Negative
+—
+—
+
+Assign Registrar
+
+Row Name
+04/30/25 0228
+
+OTHER
+
+Assign Registrar
+Sign up to register
+patient
+
+Acuity
+
+Row Name
+04/30/25 0213
+
+Acuity
+
+Patient Acuity
+Triage Complete
+
+Less Urgent
+Triage complete
+
+Vitals/Pain
+
+Row Name
+04/30/25 0552
+04/30/25 0400
+04/30/25 0214
+
+Vitals
+
+MAP
+CALCULATED
+(mmHg)
+
+106
+98
+104
+
+Complex Vitals
+
+Row Name
+04/30/25 0552
+04/30/25 0400
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 59
+
+====page 68 end ====
+
+====page 69====
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+All Flowsheet Data (all recorded) (continued)
+
+Vitals
+
+Temp
+36.7 °C (98 °F)
+36.6 °C (97.9 °F)
+Temp src
+Oral
+Oral
+Pulse
+80
+72
+Heart Rate Source
+Monitor
+Monitor
+Resp
+20
+20
+BP
+139/89
+134/80
+MAP (mmHg)
+102
+98
+BP Location
+Left arm
+Left arm
+BP Method
+Automatic
+Automatic
+Patient Position
+Lying
+Lying
+
+Pain Assessment
+
+Pain Assessment
+No/denies pain
+No/denies pain
+
+Oxygen Therapy
+
+SpO2
+98%
+96%
+Oxygen Therapy
+None (Room air)
+None (Room air)
+
+Complex Assessment
+
+Row Name
+04/30/25 0552
+04/30/25 0400
+04/30/25 0234
+
+Neurological
+
+Level of
+Alert
+Alert
+Alert
+Consciousness
+Orientation Level
+Oriented X4
+Oriented X4
+Oriented X4
+Cognition
+Appropriate
+Appropriate
+Appropriate
+judgement;Appropria
+judgement;Appropria
+judgement;Appropria
+te safety
+te safety
+te safety
+awareness;Appropri
+awareness;Appropri
+awareness;Appropri
+ate
+ate
+ate
+attention/concentrati
+attention/concentrati
+attention/concentrati
+on
+on
+on
+Glasgow Coma Scale
+
+Best Eye
+Spontaneous
+Spontaneous
+—
+Response
+Best Verbal
+Oriented
+Oriented
+—
+Response
+Best Motor
+Follows commands
+Follows commands
+—
+Response
+Glasgow Coma
+15
+15
+—
+Scale Score
+
+Sedation Scales
+
+Sedation Scale
+Richmond Agitation
+Richmond Agitation
+Richmond Agitation
+Used
+Sedation Scale
+Sedation Scale
+Sedation Scale
+Richmond
+Alert and calm
+Alert and calm
+Alert and calm
+Agitation Sedation
+Scale (RASS)
+
+Confusion Assessment Method-ICU (CAM-ICU)
+
+Feature 3: Altered
+Negative
+Negative
+—
+Level of
+Consciousness
+
+HEENT
+
+HEENT (WDL)
+Exceptions to WDL
+Exceptions to WDL
+Exceptions to WDL
+Neck
+Tenderness;Trachea
+Tenderness;Trachea
+Tenderness;Trachea
+midline;Symmetrical;
+midline;Symmetrical;
+midline;Symmetrical;
+No trauma/injury
+No trauma/injury
+No trauma/injury
+
+Respiratory
+
+Respiratory
+Normal
+Normal
+Normal
+Pattern
+Respiratory
+—
+—
+Regular
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 60
+
+====page 69 end ====
+
+====page 70====
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+All Flowsheet Data (all recorded) (continued)
+
+Depth/Rhythm
+Respiratory Effort
+—
+
+Chest expansion
+symmetrical
+
+Unlabored
+Chest expansion
+symmetrical
+Chest Assessment
+
+Musculoskeletal
+
+Chest expansion
+symmetrical
+
+Musculoskeletal
+Exceptions to WDL
+Exceptions to WDL
+Exceptions to WDL
+(WDL)
+0 C/O rib Pain
+0 C/O rib Pain
+0 C/O rib Pain
+
+Charting Type
+
+Charting Type
+Reassessment
+—
+Shift assessment
+
+Basic Assessment
+
+Row Name
+04/30/25 0400
+
+Charting Type
+
+Charting Type
+Reassessment
+
+Goal/Outcome Evaluation (Adult)
+
+Row Name
+04/30/25 0555
+04/30/25 0545
+
+Goal/Outcome Evaluation
+
+Goal: Acute
+met
+met
+Signs/Symptoms
+are Managed
+Goal: Acceptable
+Pain Level
+Achieved
+
+met
+met
+
+Discharge
+discharge
+discharge
+Instructions
+instructions, able to
+teach back
+
+instructions, able to
+teach back
+Participants in
+Discharge
+Teaching
+
+patient
+patient
+
+Lines/Drains/Airways
+
+Row Name
+
+[REMOVED] Peripheral IV 04/30/25 Right Antecubital
+
+IV Properties
+Placement Date: 04/30/25 Placement Time: 0338 Size (Gauge): 20 G Orientation: Right Location: Antecubital
+Removal Date: 04/30/25 Removal Time: 0545
+
+Pain Assessment
+
+Row Name
+04/30/25 0552
+04/30/25 0400
+04/30/25 0357
+04/30/25 0342
+04/30/25 0214
+
+Pain Assessment Timer
+
+Restart Pain
+Yes
+Yes
+Yes
+Yes
+Yes
+Assessment Timer
+
+Communicable Disease Screening Cont'd
+
+Row Name
+04/30/25 0214
+
+Communicable Disease Screen Cont'd
+
+Confirmed
+No
+Positive Influenza
+Result Past 14
+Days
+Have you had 3 or
+No
+more unexplained
+diarrheal stools
+(watery/liquid) in
+the last 24 hours
+(exclude patients
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 61
+
+====page 70 end ====
+
+====page 71====
+
+# **[LOGO PLACEHOLDER: City Medical Center]**
+*(Note: Logo likely appears in the header of the original document, e.g., top of page with clinic/hospital branding.)*
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+
+# 04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+## All Flowsheet Data (all recorded) (continued)
+
+|  with known chronic diarrhea, laxative use, new medications with possible side effect, known condition such as lactose intolerance)?  |   |
+| --- | --- |
+|  Have you had diarrhea and 1 or more of these risk factors: age 65 y or greater, fever, chills, abdominal pain, nausea, IBD or immune compromise; OR diarrhea and within last 30 days had C diff infection, hospitalization/IT AC/SNF stay, or antibiotic use? | No  |
+|  Employed in Healthcare | No  |
+|  Do you live in Group/Communal/Congregate Living setting? | No  |
+|  Have you been notified by your physician or the health department that you had an infection that requires special precautions or treatment in the last 12 months? | No  |
+|  Have you been hospitalized outside of the United States within the last 12 months? | No  |
+
+## Primary Assessment
+
+|  Row Name | 04/30/25 0214  |
+| --- | --- |
+|  Airway |   |
+|  Airway (WDL) | Within Defined Limits  |
+|  Breathing |   |
+|  Breathing (WDL) | Within Defined Limits  |
+|  Circulation |   |
+|  Circulation (WDL) | Within Defined Limits  |
+|  Disability |   |
+|  Disability (WDL) | Within Defined Limits  |
+|  Vital Signs |   |
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 62
+
+====page 71 end ====
+
+====page 72====
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+All Flowsheet Data (all recorded) (continued)
+
+Row Name
+04/30/25 0552
+04/30/25 0400
+04/30/25 0214
+
+Vital Signs
+
+Restart Vitals
+Timer
+
+Yes
+Yes
+Yes
+
+Glasgow Coma Scale
+
+Row Name
+04/30/25 0234
+
+Glasgow Coma Scale
+
+Best Eye
+Response
+Best Verbal
+Response
+Best Motor
+Response
+Glasgow Coma
+Scale Score
+
+Spontaneous
+
+Oriented
+
+Follows commands
+
+15
+
+Sepsis Screening
+
+Row Name
+04/30/25 0214
+
+Sepsis Screening
+
+Are there risk
+factors of infection
+present/new?
+Sepsis Escalation
+Critiera
+Is there a
+
+suspected
+infection?
+
+Current infection
+present/suspected
+
+t
+
+No criteria met
+
+Unknown/other
+source of
+infection !
+
+Care Handoff
+
+Row Name
+04/30/25 0545
+
+Care Handoff
+
+Handoff Type
+Given to patient -
+patient left the ED
+
+Vital Signs
+
+Row Name
+04/30/25 0214
+
+Vital Signs
+
+BP
+151/80 1
+
+Vitals Reassessment
+
+Row Name
+04/30/25 0552
+04/30/25 0400
+04/30/25 0214
+
+Vitals Timer
+
+Restart Vitals
+Timer
+
+Yes
+Yes
+Yes
+
+Suicide Risk Screening
+
+Row Name
+04/30/25 0240
+
+Columbia Suicide Severity Rating Scale
+
+I.Have you
+wished you were
+dead or wished
+you could go to
+sleep and not
+wake up?(Past
+
+No
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 63
+
+====page 72 end ====
+
+====page 73====
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 64
+
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+All Flowsheet Data (all recorded) (continued)
+
+Month)
+2.Have you
+actually had any
+thoughts of killing
+yourself?(Past
+Month)
+
+No
+
+6.Have you ever
+done anything,
+started to do
+
+No
+
+anything, or
+prepared to do
+anything to end
+your life?
+Suicide Risk
+No Risk Indicated
+
+TB Screening
+
+Row Name
+04/30/25 0240
+
+TB Screening
+
+Active TB or
+No
+History of TB
+(even if on meds)
+Immunocompromi
+
+sed (HIV, Cancer)
+
+No
+
+Incarcerated
+within Last 2
+Years
+
+No
+
+New Positive Test
+Result for
+Tuberculin Skin
+Test (TST) or
+Interferon Gamma
+
+No
+
+Release (IGRA),
+History of Recent
+TB Exposure
+Bloody Sputum
+No
+Cough Greater
+Than 2 Weeks
+
+No
+
+Homeless or in a
+Shelter
+
+No
+
+Foreign Born
+No
+IV Drug User
+No
+Unexplained
+Weight Loss More
+Than 1Olbs in 30
+
+No
+
+Days
+Fever and/or
+Chills and/or Night
+Sweats
+
+No
+
+Total Score
+0
+
+TB Interventions
+
+Mask Placed on
+Patient
+
+No
+
+Notify Provider
+No
+
+Discharge Education
+
+Row Name
+04/30/25 0555
+04/30/25 0545
+
+Discharge Education
+
+Patient Teaching
+Discharge
+Discharge
+instructions reviewed
+instructions reviewed
+Learner
+Patient
+Patient
+
+====page 73 end ====
+
+====page 74====
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+All Flowsheet Data (all recorded) (continued)
+
+Vital Signs
+
+Row Name
+04/30/25 0214
+04/30/25 0213
+
+Vital Signs
+
+Temp
+Pulse
+Resp
+
+Oxygen Saturation
+
+36.7 °C (98.1 °F)
+62
+20
+
+—
+
+SpO2
+
+Pain Assessment
+
+98%
+—
+
+Pain Assessment
+Pain Score
+
+Height and Weight
+
+0-10
+3 - Mild pain
+
+—
+
+Height
+Height Method
+Weight
+Weight Method
+
+—
+
+1.753 m (5' 9")
+Stated
+95.3 kg (210 lb)
+Stated
+
+Sepsis Predictive Model Score
+
+Row Name
+04/30/25 0545
+04/30/25 0530
+04/30/25 0500
+04/30/25 0445
+04/30/25 0415
+
+Sepsis Model Scores
+
+Early Detection of
+Sepsis Score
+Row Name
+
+1.26
+
+04/30/25 0400
+
+1.29
+
+04/30/25 0345
+
+1.29
+
+04/30/25 0315
+
+1.29
+
+04/30/25 0245
+
+1.29
+
+04/30/25 0230
+
+Sepsis Model Scores
+
+Early Detection of
+Sepsis Score
+
+1.29
+1.29
+1.26
+1.3
+1.3
+
+Lines/Drains/Airways
+
+Row Name
+04/30/25 0342
+
+[REMOVED] Peripheral IV 04/30/25 Right Antecubital
+
+IV Properties
+
+Site Assessment
+Dressing Type
+Infiltration Score
+(Adult)
+Phlebitis Score
+Dressing Status
+Dressing
+Intervention
+
+Placement Date: 04/30/25 Placement Time: 0338 Size (Gauge): 20 G Orientation: Right Location: Antecubital
+Removal Date: 04/30/25 Removal Time: 0545
+Clean;Dry;lntact
+Transparent
+0 + I
+
+0
+Clean;Dry;lntact
+New dressing
+
+LACE+ Score
+
+Row Name
+04/30/25 0600
+
+LACE+
+
+LACE+ Score
+35
+
+S.T.A.R. Program
+
+Row Name
+04/30/25 0240
+
+S.T.A.R. Program
+
+Is there a history
+
+of sensory or
+developmental
+concerns?
+
+No
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 65
+
+====page 74 end ====
+
+====page 75====
+
+City Medical Center
+Sophia Taylor
+400 Placeholder Road, City D, State 22222
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+New York FL 60601
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+All Flowsheet Data (all recorded) (continued)
+
+Care Level Score (CLS)
+
+Row Name
+04/30/25 0221
+
+XSOLIS Care Level Score
+
+CLS Score
+12
+CLS Max Score
+12
+
+Flowsheet Row Details
+
+Airway (WDL)
+
+Effective: 06/18/08
+WDL = Within Defined Limits
+X = Exceptions to WDL
+
+Row information: Within Defined Limits (WDL) =
+•
+Airway is patent and not obstructed
+•
+Absence of artificial airway
+
+Breathing (WDL)
+
+Effective: 06/18/08
+WDL = Within Defined Limits
+X = Exceptions to WDL
+
+Row information: Within Defined Limits (WDL) =
+•
+Breath sounds are clear and equal to all lung fields
+•
+Respirations are spontaneous, unlabored, and chest excursion is symmetrical
+•
+Patient does not complain of shortness of breath or difficulty breathing
+.
+Absence of retractions, nasal flaring, subcutaneous emphysema, stridor, or wheezes
+
+Circulation (WDL)
+
+Effective: 06/18/08
+WDL = Within Defined Limits
+X = Exceptions to WDL
+
+Row information: Within Defined Limits (WDL) =
+•
+Skin is warm and dry with capillary refill less than 3 seconds
+•
+Pulses palpable
+•
+Absence of cyanosis
+
+Disability (WDL)
+
+Effective: 06/19/08
+WDL = Within Defined Limits
+X = Exceptions to WDL
+
+Row information: Within Defined Limits (WDL) =
+•
+Alert, oriented, and able to follow commands
+•
+Pupils are equal, round, and reactive to light
+•
+Eyes open spontaneously
+
+HEENT (WDL)
+
+Effective: 02/13/08
+WDL = Within Defined Limits
+X = Exceptions to WDL
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 66
+
+====page 75 end ====
+
+====page 76====
+
+# **[LOGO PLACEHOLDER: City Medical Center]**
+*(Note: Logo likely appears in the header of the original document, e.g., top of page with clinic/hospital branding.)*
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+## HEENT (WDL) (continued)
+
+Row Information: Within Defined Limits (WDL) =
+- Eyes clear, moist, and free of edema or discharge
+- Hearing and vision intact
+- Oral mucosa moist, pink and intact
+- Teeth intact and appropriate for age
+- Absence of hoarseness
+- Absence of swallowing or chewing problems
+- Absence of pain, bleeding, deformity, redness, swelling, drainage, or foreign body
+
+## Musculoskeletal (WDL)
+
+Effective: 06/09/06
+
+WDL = Within Defined Limits
+
+X = Exceptions to WDL
+
+Row Information: Within Defined Limits (WDL) =
+- Gait steady and even, and ambulation appropriate for age
+- Full range of motion to all extremities
+
+## Letters
+
+ED Excuse Letter by Liam Clark, RN on 4/30/2025
+
+Status: Sent
+
+Letter body:
+
+Sophia Taylor Sophia Taylor was seen and treated in our emergency department on 4/30/2025.
+
+He may return to work on 05/04/2025.
+
+If you have any questions or concerns, please Sophia Taylor't hesitate to call.
+
+Mia Thompson, DO
+
+Printed by 65897 at 6/3/25 11:31 PM
+
+====page 76 end ====
+
+====page 77====
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+Documents
+
+FL Citizenship Status Acknowledgement - Electronic signature on 4/30/2025 2:44 AM (effective from 4/30/2025) - E-signed
+
+AdventHealth
+
+CITIZENSHIP STATUS ACKNOWLEDGEMENT
+
+AdventHealth is required by Florida law to ask you for your citizenship status.
+
+You are not required to produce any documents or papers to verify your answers to these questions.
+
+Emergency care will not be withheld to ask or get an answer to these questions.
+
+You are not required to answer these questions to get treated.
+
+Your answers to these questions will not be reported to law enforcement.
+
+Based on the answers to these questions, AdventHealth is required to report back to the State of Florida four times per
+year with the number of US citizens or persons legally present in the US, the number of persons unlawfully present in the US,
+and the number of patients that declined to answer these questions during the prior 3-month period. No specific information
+that will identify you will be included in this report. The information is de-identified. This report will help the State of
+Florida know how much money is paid each year for uncompensated care related to individuals unlawfully present in the US.
+
+Once you have read and understand this notice, please let us know so we can ask you questions about your citizenship
+status.
+
+I have read and understand this form.
+
+After Visit Summary - Document on 4/30/2025 5:46 AM: Discharge Acknowledgement Form
+
+Document (below)
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 68
+
+====page 77 end ====
+
+====page 78====
+
+City Medical Center
+Sophia Taylor
+400 Placeholder Road, City D, State 22222
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+New York FL 60601
+Adm: 4/30/2Q25, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+Documents (continued)
+
+Sophia Taylor
+mrn MR-DUMMY-000001
+Discharge Acknowledgement Form
+Dcscuption Male DOB: 01/01/1990
+
+Discharge Acknowledgement Form
+
+(Emergency Department)
+
+I, Sophia Taylor, have been given the following list of discharge patient education materials
+and follow up instructions:
+
+Patient Education Materials, appropriate to treatment and follow up
+Medication Education Materials, appropriate to treatment and follow up
+
+I, Sophia Taylor, understand I was treated at the Emergency Department.
+I was
+Emergency status while in the Emergency Department. I understand the treatment I received and also
+understand that further treatment may be necessary. I have been given a copy of the above instructions and I
+will arrange for follow up care as outlined above. If my condition worsens, I will call my doctor or go to the
+Emergency Department. 1 have received all of my valuables and belongings prior to discharge.
+
+Signature:
+
+DATE:
+TIME:
+
+Relationship:
+
+(e.g., Parent, Guardian, Health Care Surrogate, Guarantor, Proxy, Power of Attorney)
+
+Printed Name:
+
+CSN: 5010352211997
+
+Sophia Taylor (MRN MR-DUMMY-000001) Printed by [154453] at 4/30/2025 5:46 AM
+
+After Visit Summary - Document on 4/30/2025 5:46 AM; Excuses
+
+Document (below)
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 69
+
+====page 78 end ====
+
+====page 79====
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+Documents (continued)
+
+Excuses
+
+April 30, 2025
+AdventHealth
+
+Patient:
+Sophia Taylor
+Date of Birth:
+01/01/1990
+Date of Visit:
+4/30/2025
+
+Department
+City Medical Center
+Information: HOSPITAL
+
+Community Health Clinic EMERGENCY
+DEPARTMENT
+400 Placeholder Road, City D, State 22222
+New York FL 60601555-000-0008
+
+To Whom It May Concern:
+
+Sophia Taylor Sophia Taylor was seen and treated in our emergency department on 4/30/2025.
+He may return to work on 05/04/2025.
+
+If you have any questions or concerns, please Sophia Taylor't hesitate to call.
+
+Mia Thompson, DO
+
+After Visit Summary - Document on 4/30/2025 5:46 AM: PatientPass Education
+
+Document (below)
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 70
+
+====page 79 end ====
+
+====page 80====
+
+City Medical Center
+Sophia Taylor
+400 Placeholder Road, City D, State 22222
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+New York FL 60601
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+Documents (continued)
+
+PatientPass Education
+Patient Education
+
+Table of Contents
+
+Cervical Strain and Sprain Rehab
+
+To view videos and all your education online visit,
+
+https://pe.elsevier.com/4CsuaehV
+
+or scan this QR code with your smartphone.
+
+Access to this content will expire in one year.
+
+Cervical Strain and Sprain Rehab
+
+Ask your health care provider which exercises are safe for you. Do exercises exactly as told by your health
+
+care provider and adjust them as directed. It is normal to feel mild stretching, pulling, tightness, or discomfort
+
+as you do these exercises. Stop right away if you feel sudden pain or your pain gets worse. Do not begin
+
+these exercises until told by your health care provider.
+
+Stretching and range-of-motion exercises
+
+Cervical side bending
+
+1.
+Using good posture, sit on a stable chair or stand up.
+
+2.
+Without moving your shoulders, slowly tilt your left / right ear to your shoulder until you feel a stretch
+
+in the neck muscles on the opposite side. You should be looking straight ahead.
+
+Sophia Taylor DOB: 01/01/1990
+Page 1 of 5
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 71
+
+====page 80 end ====
+
+====page 81====
+
+# **[LOGO PLACEHOLDER: AHEOR EAST New York HOSPITAL]**
+*(Note: Logo likely appears in the header of the original document, e.g., top of page with clinic/hospital branding.)*
+
+AHEOR EAST New York HOSPITAL
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+
+# 04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+## Documents (continued)
+
+3. Hold for ______ seconds.
+4. Repeat with the other side of your neck.
+Repeat ______ times. Complete this exercise ______ times a day.
+
+## Cervical rotation
+
+1. Using good posture, sit on a stable chair or stand up.
+2. Slowly turn your head to the side as if you are looking over your left / right shoulder.
+Keep your eyes level with the ground.
+Stop when you feel a stretch along the side and the back of your neck.
+3. Hold for ______ seconds.
+4. Repeat this by turning to your other side.
+Repeat ______ times. Complete this exercise ______ times a day.
+
+## Thoracic extension and pectoral stretch
+
+1. Roll a towel or a small blanket so it is about 4 inches (10 cm) in diameter.
+2. Lie down on your back on a firm surface.
+3. Put the towel in the middle of your back across your spine. It should not be under your shoulder blades.
+4. Put your hands behind your head and let your elbows fall out to your sides.
+5. Hold for ______ seconds.
+Repeat ______ times. Complete this exercise ______ times a day.
+
+Sophia Taylor DOB: 01/01/1990
+Page 2 of 5
+Printed by 65897 at 6/3/25 11:31 PM
+Page 72
+
+====page 81 end ====
+
+====page 82====
+
+AHEOR EAST New York HOSPITAL
+Sophia Taylor
+400 Placeholder Road, City D, State 22222
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+New York FL 60601
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+Documents (continued)
+
+Strengthening exercises
+
+Upper cervical flexion
+
+1.
+Lie on your back with a thin pillow behind your head or a small, rolled-up towel under your neck.
+
+2,
+Gently tuck your chin toward your chest and nod your head down to look toward your feet. Do not lift
+
+your head off the pillow.
+
+3.
+Hold for
+seconds.
+
+4.
+Release the tension slowly. Relax your neck muscles completely before you repeat this exercise.
+
+Repeat
+times. Complete this exercise
+times a day.
+
+Cervical extension
+
+V
+
+I
+
+1.
+Stand about 6 inches (15 cm) away from a wall, with your back facing the wall.
+
+2.
+Place a soft object, about 6-8 inches (15-20 cm) in diameter, between the back of your head and the
+
+wall. A soft object could be a small pillow, a ball, or a folded towel.
+
+3.
+Gently tilt your head back and press into the soft object. Keep your jaw and forehead relaxed.
+
+4.
+Hold for
+seconds.
+
+5.
+Release the tension slowly. Relax your neck muscles completely before you repeat this exercise.
+
+Repeat
+times. Complete this exercise
+times a day.
+
+Posture and body mechanics
+
+Body mechanics refer to the movements and positions of your body while you do your daily activities.
+
+Sophia Taylor DOB: 01/01/1990
+Page 3 of 5
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 73
+
+====page 82 end ====
+
+====page 83====
+
+AHEOR EAST New York HOSPITAL
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+Documents (continued)
+
+Posture is part of body mechanics. Good posture and healthy body mechanics can help to relieve stress in
+
+your body's tissues and joints. Good posture means that your spine is in its natural S-curve position (your
+
+spine is neutral), your shoulders are pulled back slightly, and your head is not tipped forward.
+
+The following are general guidelines for using improved posture and body mechanics in your everyday
+
+activities.
+
+Sitting
+
+When sitting, keep your spine neutral and keep your feet flat on the floor. Use a footrest, if needed, and
+
+keep yourthighs parallel to the floor. Avoid rounding your shoulders Avoid tilting your head forward.
+
+When working at a desk or a computer, keep your desk at a height where your hands are slightly lower
+
+than your elbows. Slide your chair under your desk so you are close enough to maintain good posture.
+
+When working at a computer, place your monitor at a height where you are looking straight ahead and
+
+you do not have to tilt your head forward or downward to look at the screen.
+
+Standing
+
+4
+^y
+
+When standing, keep your spine neutral and keep your feet about hip-width apart. Keep a slight bend
+
+in your knees. Your ears, shoulders, and hips should line up.
+
+When you do a task in which you stand in one place for a long time, place one foot up on a stable
+
+object that is 2-4 inches (5-10 cm) high, such as a footstool. This helps keep your spine neutral.
+
+Resting
+
+Sophia Taylor DOB: 01/01/1990
+Page 4 of 5
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 74
+
+====page 83 end ====
+
+====page 84====
+
+AHEOR EAST New York HOSPITAL
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+Documents (continued)
+
+When lying down and resting, avoid positions that are most painful for you. Try to support your neck in a
+
+neutral position. You can use a contour pillow or a small rolled-up towel. Your pillow should support your
+
+neck but not push on it.
+
+This information is not intended to replace advice given to you by your health care provider. Make sure you
+
+discuss any questions you have with your health care provider.
+
+Document Released: 2006-12-18 Document Updated: 2024-04-22 Document Reviewed: 2023-07-10
+
+Elsevier Patient Education © 2025 Elsevier Inc.
+
+Sophia Taylor DOB: 01/01/1990
+Page 5 of 5
+
+After Visit Summary - Document on 4/30/2025 5:46 AM: AVS
+
+Document (below)
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 75
+
+====page 84 end ====
+
+====page 85====
+
+AHEOR EAST New York HOSPITAL
+Sophia Taylor
+400 Placeholder Road, City D, State 22222
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+New York FL 60601
+Adm: 4/30/2Q25, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+Documents (continued)
+
+AFTER VISIT SUMMARY
+Alice Johnson
+.
+
+AdventHealth
+
+Instructions
+
+Please follow up with your primary care provider in 48 hours for re-
+evaluation. Return to the Emergency Department as needed for
+worsening, persistent, changing and/or concerning symptoms; or if you
+have you have any other concerns. Please follow up all incidental
+findings on the Advent Health patient portal online. Follow up all
+findings with your primary care provider.
+
+methocarbamol (Robaxin)
+
+Review your updated medication list below.
+
+•methocarbamol 500 MG tablet
+
+-
+:
+Internal Medicine
+600 Filler Way, City F, State 44444
+New York FL 90001555-000-0005
+
+I
+I:
+
+As needed, If symptoms worsen
+
+•
+Emergency Medicine
+w
+• 400 Placeholder Road, City D, State 22222
+New York Florida 60601555-000-0004
+
+Today's Visit
+
+You were seen by Daniel Harris, MD
+
+Motor Vehicle Crash
+
+Cervical strain, acute, initial encounter
+
+I'MaquK'j Tests
+
+CT Chest Abdomen Pelvis W IV
+Contrast
+
+CT HEAD CERVICAL SPINE WO IV
+CONTRAST
+
+* Mediuiiuons Given
+acetaminophen (Ofirmev)
+
+iopamidol (lsovue-370) .1 ।
+:
+
+"
+31.01
+134/80
+
+‘
+2101b
+5'9"
+
+'
+72
+97.9 °F
+
+20
+96%
+
+What's Next
+
+Alice Johnson (MRN; MR-DUMMY-000001) •Printed by [154453] at 4/30/2025 5:46 AM
+Page 1 of 5 Epic
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 76
+
+====page 85 end ====
+
+====page 86====
+
+# **[LOGO PLACEHOLDER: City Medical Center]**
+*(Note: Logo likely appears in the header of the original document, e.g., top of page with clinic/hospital branding.)*
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+Documents (continued)
+
+# You are allergic to the following
+
+No active allergies
+
+## The Importance of Primary Care
+
+After an emergency room visit, it's important to follow up with your primary care provider (PCP).
+
+## What is a primary care provider?
+
+A primary care provider helps protect and maintain your overall health. Your PCP could be a doctor, physician assistant or nurse practitioner. They'll get to know you and your family history, providing preventive care and routine health screenings to keep you healthy at every stage of life. You can see them whenever you're sick, and they will refer you to specialists if you need extra care for specific health conditions or injuries.
+
+## What are the benefits of having a PCP?
+
+Regular visits to your primary care provider can help you live a healthier life. Here are some services a PCP offers:
+
+- Health screenings to identify illnesses early
+- Prescription and management of your medications
+- Guidance and referral to specialists when needed
+- Regular checkups
+- Education on healthy habits
+- Answers to health questions
+- Personal bed care
+
+Having a primary care provider can also save you money on health care costs. Instead of visiting urgent care or the ER (which typically have higher copays and out-of-pocket costs) for minor ailments and routine testing, you can see your PCP for non-urgent needs.
+
+## What health services can a primary care provider help with?
+
+|  Preventative care  |
+| --- |
+|  Annual physicals  |
+|  Well visits  |
+|  Referrals for further care  |
+|  General pediatric care  |
+|  Treating minor illnesses (such as colds, flu, strep)  |
+|  Adult and child immunizations  |
+|  Cancer prevention and screening  |
+|  Long-term disease management (such as diabetes, heart disease)  |
+|  Minor injury care  |
+
+If for any reason you can't reach your PCP and/or you are unsure about the urgency of your symptoms, please Sophia Taylor't hesitate to go to the emergency room.
+
+Link: AdventHealth Primary Care Resource
+
+QR Code to AdventHealth Primary Care Resource:
+
+Alice Johnson (MRN: MR-DUMMY-000001) - Printed by [154453] at 4/30/2025 5:46 AM
+
+Printed by 65897 at 6/3/25 11:31 PM
+
+====page 86 end ====
+
+====page 87====
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+Documents (continued)
+
+Alice Johnson (MRN: MR-DUMMY-000001) - Printed by [154453] at 4/30/2025 5:46 AM
+Page 3 of 5 Epic
+Printed by 65897 at 6/3/25 11:31 PM
+Page 78
+
+====page 87 end ====
+
+====page 88====
+
+City Medical Center
+Sophia Taylor
+400 Placeholder Road, City D, State 22222
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+New York FL 60601
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+Documents (continued)
+
+Your Medication List
+
+/
+'■V
+' ' '
+t
+:
+C I
+. ’ . C
+
+' ' >
+
+.'TirtliG: dihimul 500 MG tablet
+Take 1 tablet (500 mg total) by mouth in the morning
+and 1 tablet (500 mg total) before bedtime. Do all this
+for 5 days.
+
+&
+
+.n-il ODIPinr 5 MG tablet
+
+©
+
+ASK
+
+.ispiuti 325 MG tablet
+
+©
+
+ASK
+
+..Hot vast stin 10 MG tablet
+
+’ Jto;-v,ntut i n 20 MG tablet
+
+dilIIA/Ym r Cl extended i eh .ise 180 MG tablet
+sustained-release 24 hour
+
+ASK
+©
+
+Eliquis 5 MG tablet
+
+nydmCHLORCA hin/idc 12.5 MG tablet
+
+ICNi i tan 50 MG tablet
+
+metc pt (jIni 1ar i ।die 25 MG tablet
+
+* This list has 2 medication(s) that are the same as other medications prescribed for you. Read the directions
+carefully, and ask your doctor or other care provider to review them with you.
+
+Page 4 of 5 Epic
+Alice Johnson (MRN; MR-DUMMY-000001) •Printed by [154453] at 4/30/2025 5:46 AM
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 79
+
+====page 88 end ====
+
+====page 89====
+
+City Medical Center
+Sophia Taylor
+400 Placeholder Road, City D, State 22222
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+New York FL 60601
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+Documents (continued)
+
+AdventHealth
+
+To connect and view your health records, send messages to your doctor, renew your prescriptions, schedule
+appointments, and more, create an account by downloading our app or going to https://accoLint.adventhealth.com/
+register/
+
+Alice Johnson (MRN: MR-DUMMY-000001) •Printed by [154453] at 4/30/2025 5:46 AM
+Page 5 of 5 Epic
+
+After Visit Summary - Document on 4/30/2025 5:50 AM: Discharge Acknowledgement Form
+
+Document (below)
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 80
+
+====page 89 end ====
+
+====page 90====
+
+City Medical Center
+Sophia Taylor
+400 Placeholder Road, City D, State 22222
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+New York FL 60601
+Adm: 4/30/2Q25, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+Documents (continued)
+
+Sophia Taylor
+mrn MR-DUMMY-000001
+Discharge Acknowledgement Form
+Dcscuption Male DOB: 01/01/1990
+
+Discharge Acknowledgement Form
+
+(Emergency Department)
+
+I, Sophia Taylor, have been given the following list of discharge patient education materials
+and follow up instructions:
+
+Patient Education Materials, appropriate to treatment and follow up
+Medication Education Materials, appropriate to treatment and follow up
+
+I, Sophia Taylor, understand I was treated at the Emergency Department.
+I was
+Emergency status while in the Emergency Department. I understand the treatment I received and also
+understand that further treatment may be necessary. I have been given a copy of the above instructions and I
+will arrange for follow up care as outlined above. If my condition worsens, I will call my doctor or go to the
+Emergency Department. 1 have received all of my valuables and belongings prior to discharge.
+
+Signature:
+
+DATE:
+TIME:
+
+Relationship:
+
+(e.g., Parent, Guardian, Health Care Surrogate, Guarantor, Proxy, Power of Attorney)
+
+Printed Name:
+
+CSN: 5010352211997
+
+Sophia Taylor (MRN MR-DUMMY-000001) Printed by [154453] at 4/30/2025 5:50 AM
+
+After Visit Summary - Document on 4/30/2025 5:50 AM; PatientPass Education
+
+Document (below)
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 81
+
+====page 90 end ====
+
+====page 91====
+
+# **[LOGO PLACEHOLDER: City Medical Center]**
+*(Note: Logo likely appears in the header of the original document, e.g., top of page with clinic/hospital branding.)*
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+Documents (continued)
+
+Patient/Pass Education
+
+Patient Education
+
+## Table of Contents
+
+Cervical Strain and Sprain Rehab
+
+To view videos and all your education online visit,
+
+https://pe.elsevier.com/4CsuaehV
+
+or scan this QR code with your smartphone.
+
+Access to this content will expire in one year.
+
+Cervical Strain and Sprain Rehab
+
+Ask your health care provider which exercises are safe for you. Do exercises exactly as told by your health care provider and adjust them as directed. It is normal to feel mild stretching, pulling, tightness, or discomfort as you do these exercises. Stop right away if you feel sudden pain or your pain gets worse. Do not begin these exercises until told by your health care provider.
+
+## Stretching and range-of-motion exercises
+
+## Cervical side bending
+
+1. Using good posture, sit on a stable chair or stand up.
+2. Without moving your shoulders, slowly tilt your left / right ear to your shoulder until you feel a stretch in the neck muscles on the opposite side. You should be looking straight ahead.
+
+Sophia Taylor DOB: 01/01/1990
+Page 1 of 5
+Printed by 65897 at 6/3/25 11:31 PM
+Page 82
+
+====page 91 end ====
+
+====page 92====
+
+City Medical Center
+Sophia Taylor
+400 Placeholder Road, City D, State 22222
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+New York FL 60601
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+Documents (continued)
+
+3.
+Hold for
+seconds.
+
+4.
+Repeat with the other side of your neck.
+
+Repeat
+times. Complete this exercise
+times a day.
+
+Cervical rotation
+
+$
+
+1.
+Using good posture, sit on a stable chair or stand up.
+
+2.
+Slowly turn your head to the side as if you are looking over your left / right shoulder.
+
+Keep your eyes level with the ground.
+
+Stop when you feel a stretch along the side and the back of your neck.
+
+3.
+Hold for
+seconds.
+
+4.
+Repeat this by turning to your other side.
+
+Repeat
+times. Complete this exercise
+times a day.
+
+Thoracic extension and pectoral stretch
+
+1.
+Roll a towel or a small blanket so it is about 4 inches (10 cm) in diameter.
+
+2.
+Lie down on your back on a firm surface.
+
+3.
+Put the towel in the middle of your back across your spine. It should not be under your shoulder
+
+blades.
+
+4.
+Put your hands behind your head and let your elbows fall out to your sides.
+
+5.
+Hold for
+seconds.
+
+Repeat
+times. Complete this exercise
+times a day.
+
+Sophia Taylor DOB: 01/01/1990
+Page 2 of 5
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 83
+
+====page 92 end ====
+
+====page 93====
+
+City Medical Center
+Sophia Taylor
+400 Placeholder Road, City D, State 22222
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+New York FL 60601
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+Documents (continued)
+
+Strengthening exercises
+
+Upper cervical flexion
+
+1.
+Lie on your back with a thin pillow behind your head or a small, rolled-up towel under your neck.
+
+2,
+Gently tuck your chin toward your chest and nod your head down to look toward your feet. Do not lift
+
+your head off the pillow.
+
+3.
+Hold for
+seconds.
+
+4.
+Release the tension slowly. Relax your neck muscles completely before you repeat this exercise.
+
+Repeat
+times. Complete this exercise
+times a day.
+
+Cervical extension
+
+V
+
+I
+
+1.
+Stand about 6 inches (15 cm) away from a wall, with your back facing the wall.
+
+2.
+Place a soft object, about 6-8 inches (15-20 cm) in diameter, between the back of your head and the
+
+wall. A soft object could be a small pillow, a ball, or a folded towel.
+
+3.
+Gently tilt your head back and press into the soft object. Keep your jaw and forehead relaxed.
+
+4.
+Hold for
+seconds.
+
+5.
+Release the tension slowly. Relax your neck muscles completely before you repeat this exercise.
+
+Repeat
+times. Complete this exercise
+times a day.
+
+Posture and body mechanics
+
+Body mechanics refer to the movements and positions of your body while you do your daily activities.
+
+Sophia Taylor DOB: 01/01/1990
+Page 3 of 5
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 84
+
+====page 93 end ====
+
+====page 94====
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+Documents (continued)
+
+Posture is part of body mechanics. Good posture and healthy body mechanics can help to relieve stress in
+
+your body's tissues and joints. Good posture means that your spine is in its natural S-curve position (your
+
+spine is neutral), your shoulders are pulled back slightly, and your head is not tipped forward.
+
+The following are general guidelines for using improved posture and body mechanics in your everyday
+
+activities.
+
+Sitting
+
+When sitting, keep your spine neutral and keep your feet flat on the floor. Use a footrest, if needed, and
+
+keep yourthighs parallel to the floor. Avoid rounding your shoulders Avoid tilting your head forward.
+
+When working at a desk or a computer, keep your desk at a height where your hands are slightly lower
+
+than your elbows. Slide your chair under your desk so you are close enough to maintain good posture.
+
+When working at a computer, place your monitor at a height where you are looking straight ahead and
+
+you do not have to tilt your head forward or downward to look at the screen.
+
+Standing
+
+4
+^y
+
+When standing, keep your spine neutral and keep your feet about hip-width apart. Keep a slight bend
+
+in your knees. Your ears, shoulders, and hips should line up.
+
+When you do a task in which you stand in one place for a long time, place one foot up on a stable
+
+object that is 2-4 inches (5-10 cm) high, such as a footstool. This helps keep your spine neutral.
+
+Resting
+
+Sophia Taylor DOB: 01/01/1990
+Page 4 of 5
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 85
+
+====page 94 end ====
+
+====page 95====
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+Documents (continued)
+
+When lying down and resting, avoid positions that are most painful for you. Try to support your neck in a
+
+neutral position. You can use a contour pillow or a small rolled-up towel. Your pillow should support your
+
+neck but not push on it.
+
+This information is not intended to replace advice given to you by your health care provider. Make sure you
+
+discuss any questions you have with your health care provider.
+
+Document Released: 2006-12-18 Document Updated: 2024-04-22 Document Reviewed: 2023-07-10
+
+Elsevier Patient Education © 2025 Elsevier Inc.
+
+Sophia Taylor DOB: 01/01/1990
+Page 5 of 5
+
+After Visit Summary - Document on 4/30/2025 5:50 AM: AVS
+
+Document (below)
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 86
+
+====page 95 end ====
+
+====page 96====
+
+# **[LOGO PLACEHOLDER: City Medical Center]**
+*(Note: Logo likely appears in the header of the original document, e.g., top of page with clinic/hospital branding.)*
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+Documents (continued)
+
+# AFTER VISIT SUMMARY
+
+## Alice Johnson
+
+### Instructions
+
+Please follow up with your primary care provider in 48 hours for re-evaluation. Return to the Emergency Department as needed for worsening, pers stent, changing and/or concerning symptoms, or if you have you have any other concerns. Please follow up all incidental findings on the Advent Health patient portal online. Follow up all findings with your primary care provider.
+
+```
+methocarbamol (Robaxin)
+Review your updated medication list below.
+```
+
+```
+methocarbamol 500 MG tablet
+```
+
+```
+Internal Medicine
+300 Test Avenue, City C, State 11111
+500 Mock Blvd, City E, State 33333
+New York FL 77001555-000-0005
+```
+
+```
+As needed. If symptoms worsen
+Emergency Medicine
+400 Placeholder Road, City D, State 22222
+New York Florida 60601555-000-0009
+```
+
+## Today's Visit
+
+You were seen by Daniel Harris, MD
+
+Motor Vehicle Crash
+
+Cervical strain, acute, initial encounter
+
+### Imaging Tests
+
+CT Chest Abdomen Pelvis W IV Contrast
+
+CT HEAD CERVICAL SPINE WO IV CONTRAST
+
+### Medications Given
+
+acetaminophen (Ofernex) Verapamil
+
+lopamidol (Isovue 370) 200 mg QD
+
+|  Item | Dose  |
+| --- | --- |
+|  134/80 | 31.01  |
+|  210 lb | 5' 9"  |
+|  97.9 °F | 72  |
+|  20 | 96%  |
+
+## What's Next
+
+Alice Johnson (MRN: MR-DUMMY-000001) - Printed by [154453] at 4/30/2025 5:50 AM
+
+Printed by 65897 at 6/3/25 11:31 PM
+
+====page 96 end ====
+
+====page 97====
+
+City Medical Center
+Sophia Taylor
+400 Placeholder Road, City D, State 22222
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+New York FL 60601
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+Documents (continued)
+
+You are allergic to the following
+No active allergies
+
+The Importance of Piiewv Care
+After an emergency room visit, it’s important to follow up with your primary care provider (PCP).
+What is a primary care provider?
+A primary care provider helps protect and maintain your overall health. Your PCP could be a doctor, physician assistant
+or nurse practitioner. They’ll get to know you and your family history, providing preventive care and routine health
+screenings to keep you healthy at every stage of life. You can see them whenever you're sick, and they will refer you to
+specialists if you need extra care for specific health conditions or injuries.
+What are the benefits of having a PCP?
+Regular visits to your primary care provider can help you live a healthier life. Here are some services a PCP offers:
+
+• Health screenings to identify illnesses early
+
+• Prescription and management of your medications
+
+« Guidance and referral to specialists when needed
+
+• Regular checkups
+
+• Education on healthy habits
+
+• Answers to health questions
+• Personalized care
+Having a primary care provider can also save you money on health care costs. Instead of visiting urgent care or the ER
+(which typically have higher copays and out-of-pocket costs) for minor ailments and routine testing, you can see your
+PCP for non-urgent needs.
+What health services can a primary care provider help with?
+
+Preventative care
+Annual physicals
+Well visits
+Referrals for further care
+General pediatric care
+Treating minor illnesses (such as colds, flu, strep)
+Adult and child immunizations
+
+Cancer prevention and screening
+Long-term disease management (such as diabetes, heart disease)
+
+Minor injury care
+If for any reason you can't reach your PCP and/or you are unsure about the urgency of your symptoms, please
+Sophia Taylor't hesitate to go to the emergency room.
+
+Link: AdventHealth Primary Care Resource
+
+QR Code to AdventHealth Primary Care Resource:
+
+Alice Johnson (MRN: MR-DUMMY-000001) •Printed by [154453] at 4/30/2025 5:50 AM
+Page 2 of 5 Epic
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 88
+
+====page 97 end ====
+
+====page 98====
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+Documents (continued)
+
+Alice Johnson (MRN: MR-DUMMY-000001) - Printed by [154453] at 4/30/2025 5:50 AM
+Page 3 of 5 Epic
+Printed by 65897 at 6/3/25 11:31 PM
+Page 89
+
+====page 98 end ====
+
+====page 99====
+
+City Medical Center
+Sophia Taylor
+400 Placeholder Road, City D, State 22222
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+New York FL 60601
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+Documents (continued)
+
+Your Medication List
+
+/
+'■V
+' ' '
+t
+:
+C I
+. ’ . C
+
+' ' >
+
+.'TirtliG: dihimul 500 MG tablet
+Take 1 tablet (500 mg total) by mouth in the morning
+and 1 tablet (500 mg total) before bedtime. Do all this
+for 5 days.
+
+&
+
+.n-il ODIPinr 5 MG tablet
+
+©
+
+ASK
+
+.ispiuti 325 MG tablet
+
+©
+
+ASK
+
+..Hot vast stin 10 MG tablet
+
+’ Jto;-v,ntut i n 20 MG tablet
+
+dilIIA/Ym r Cl extended i eh .ise 180 MG tablet
+sustained-release 24 hour
+
+ASK
+©
+
+Eliquis 5 MG tablet
+
+nydmCHLORCA hin/idc 12.5 MG tablet
+
+ICNi i tan 50 MG tablet
+
+metc pt (jIni 1ar i ।die 25 MG tablet
+
+* This list has 2 medication(s) that are the same as other medications prescribed for you. Read the directions
+carefully, and ask your doctor or other care provider to review them with you.
+
+Page 4 of 5 Epic
+Alice Johnson (MRN; MR-DUMMY-000001) •Printed by [154453] at 4/30/2025 5:50 AM
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 90
+
+====page 99 end ====
+
+====page 100====
+
+City Medical Center
+Sophia Taylor
+400 Placeholder Road, City D, State 22222
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+New York FL 60601
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+Documents (continued)
+
+AdventHealth
+
+To connect and view your health records, send messages to your doctor, renew your prescriptions, schedule
+appointments, and more, create an account by downloading our app or going to https://accoLint.adventhealth.com/
+register/
+
+Alice Johnson (MRN: MR-DUMMY-000001) •Printed by [154453] at 4/30/2025 5:50 AM
+Page 5 of 5 Epic
+
+After Visit Summary - Document on 4/30/2025 5:50 AM: Excuses
+
+Document (below)
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 91
+
+====page 100 end ====
+
+====page 101====
+
+# **[LOGO PLACEHOLDER: City Medical Center]**
+*(Note: Logo likely appears in the header of the original document, e.g., top of page with clinic/hospital branding.)*
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+
+04/30/2025 - ED in Community Health Clinic Emergency Department (continued)
+
+Documents (continued)
+
+|  Excuses |   |   | *  |
+| --- | --- | --- | --- |
+|  April 30, 2025 |   |   | AdventHealth  |
+|  Patient: | Sophia Taylor | Department Information: | City Medical Center  |
+|  Date of Birth: | 01/01/1990 |  | Community Health Clinic EMERGENCY DEPARTMENT  |
+|  Date of Visit: | 4/30/2025 |  | 400 Placeholder Road, City D, State 22222 New York FL 60601555-000-0008  |
+
+To Whom It May Concern:
+
+Sophia Taylor Sophia Taylor was seen and treated in our emergency department on 4/30/2025. He may return to work on 05/04/2025.
+
+If you have any questions or concerns, please Sophia Taylor't hesitate to call.
+
+Mia Thompson, DO
+
+04/30/2025 - ED in Community Health Clinic Emergency Department Diagnosis Summary
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 92
+
+====page 101 end ====
+
+====page 102====
+
+City Medical Center
+400 Placeholder Road, City D, State 22222
+New York FL 60601
+
+Sophia Taylor
+MRN: MR-DUMMY-000001, DOB: 01/01/1990, Legal Sex: M
+Adm: 4/30/2025, D/C: 4/30/2025
+04/30/2025 - ED in Community Health Clinic Emergency Department
+
+Diagnosis Summary (continued)
+
+Account Information
+
+Hospital Account
+Primary Payor
+Affiliated Recurring Accounts
+Combined from HAR
+1990000912808-
+Sophia Taylor
+
+UNIFIED HEALTH
+SERVICES WORKERS
+COMP [INS-DUMMY-111111]
+
+None
+None
+
+Admission Information
+
+Arrival Date/Time:
+04/30/2025 0211
+Admit Date/Time:
+04/30/2025 0226
+IP Adm. Date/Time:
+Admission Type:
+Emergency
+Point of Origin:
+Nonhealthcare
+Facility Point Of
+Origin
+
+Admit Category:
+
+Means of Arrival:
+Transfer Source:
+
+Admit Provider:
+
+Car
+Primary Service:
+Service Area:
+
+Attending Provider:
+
+Emergency Medicine
+ADVENTHEALTH
+SERVICE AREA
+
+Daniel Harris,
+MD
+
+Secondary Service:
+Unit:
+
+Referring Provider:
+
+N/A
+Community Health Clinic Emergency
+Department
+
+Discharge Information
+
+Discharge Date/Time
+Discharge Disposition
+Discharge Destination
+Discharge Provider
+Unit
+04/30/2025 0600
+Home Or Self Care
+None
+Daniel Harris, MD
+Community Health Clinic Emergency
+Department
+
+Admission Diagnoses / Reasons for Visit (ICD-10-CM)
+
+Code
+Description
+Comments
+M54.2
+Cervicalgia
+
+Final Diagnoses (ICD-10-CM)
+
+Code
+Description
+POA
+CC
+HAC
+Affects DRG
+S16.1XXA
+Strain of muscle, fascia and tenSophia Taylor at neck level, initial encounter
+No
+No
+[Principal]
+J32.3
+Chronic sphenoidal sinusitis
+No
+R91.8
+Other nonspecific abnormal finding of lung field
+No
+No
+148.91
+Unspecified atrial fibrillation
+No
+Z79.01
+Long term (current) use of anticoagulants
+No
+No
+E78.5
+Hyperlipidemia, unspecified
+No
+
+External Causes of Injury (ICD-10-CM)
+
+Code
+Description
+POA
+CC
+HAC
+Affects DRG
+V63.5XXA
+Driver of heavy transport vehicle injured in collision with car, pick-up
+No
+No
+truck or van in traffic accident, initial encounter
+Y92.411
+Interstate highway as the place of occurrence of the external cause
+No
+
+CPT®/HCPCS Codes
+
+Code
+Modifiers
+Date
+Qty
+Performing Provider
+APC
+Exp Reimb
+Px Event
+96374 (CPT®)
+XU
+04/30/2025
+1
+Description: PR THER PROPH/DXNJX IV PUSH SINGLE/1ST SBST/DRUG
+
+Printed by 65897 at 6/3/25 11:31 PM
+Page 93
+
+====page 102 end ====

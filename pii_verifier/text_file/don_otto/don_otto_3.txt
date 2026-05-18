@@ -1,0 +1,1277 @@
+====page 1====
+
+# **[LOGO PLACEHOLDER: New York Orthopaedic Center / Benjamin Moore]**
+*(Note: Logo likely appears in the header of the original document, e.g., top of page with clinic/hospital branding.)*
+
+New York Orthopaedic Center
+
+Account Information:
+Benjamin Moore
+100 Dummy Street, City A, State 12345
+New York FL 10001
+USA
+
+Practice Information:
+New York Orthopaedic Center
+200 Sample Lane, City B, State 67890
+300 Test Avenue, City C, State 11111
+New York FL 90001
+USA
+
+|  Description | Date | Charges | Payments | Adj/ Refunds | Insurance Balance | Patient Balance | Total Balance  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  Patient Name Benjamin Moore  |   |   |   |   |   |   |   |
+|  Encounter MR-DUMMY-000001  |   |   |   |   |   |   |   |
+|  Provider Olivia Wilson  |   |   |   |   |   |   |   |
+|  Location Sand Lake  |   |   |   |   |   |   |   |
+|  99455-WORK RELATED DISABILITY 11/21/2025 |   | $105.00 |  |  | $105.00 | $0.00 | $105.00  |
+|  Encounter Totals |   | $105.00 | $0.00 | $0.00 | $105.00 | $0.00 | $105.00  |
+|  Encounter MR-DUMMY-000002  |   |   |   |   |   |   |   |
+|  Provider Alice Johnson...  |   |   |   |   |   |   |   |
+|  Location SODO  |   |   |   |   |   |   |   |
+|  76882-US LMTD JT/FCL EVL NVASC.11/10/2025 |   | $50.00 |  |  | $50.00 | $0.00 | $50.00  |
+|  73110-X-RAY EXAM OF WRIST | 11/10/2025 | $67.00 |  |  | $67.00 | $0.00 | $67.00  |
+|  73110-X-RAY EXAM OF WRIST | 11/10/2025 | $67.00 |  |  | $67.00 | $0.00 | $67.00  |
+|  J3301-Triamcinolone Acetonide ... | 11/10/2025 | $120.00 |  |  | $120.00 | $0.00 | $120.00  |
+|  L3908A-WRIST COCK-UP-ADULT AM11/10/2025 |   | $132.00 |  |  | $132.00 | $0.00 | $132.00  |
+|  L3908A-WRIST COCK-UP-ADULT AM11/10/2025 |   | $132.00 |  |  | $132.00 | $0.00 | $132.00  |
+|  76942-ECHO GUIDE FOR BIOPSY | 11/10/2025 | $290.00 |  |  | $290.00 | $0.00 | $290.00  |
+|  20526-THER INJECTION CARP TUNI11/10/2025 |   | $393.00 |  |  | $393.00 | $0.00 | $393.00  |
+|  20526-THER INJECTION CARP TUNI11/10/2025 |   | $393.00 |  |  | $393.00 | $0.00 | $393.00  |
+|  99244-OFF/OP CNSLTJ NEW/EST M11/10/2025 |   | $399.00 |  |  | $399.00 | $0.00 | $399.00  |
+|  Encounter Totals |   | $2,043.00 | $0.00 | $0.00 | $2,043.00 | $0.00 | $2,043.00  |
+|  Encounter MR-DUMMY-000003  |   |   |   |   |   |   |   |
+|  Provider Sophia Taylor, PT  |   |   |   |   |   |   |   |
+|  Location SODO Therapy  |   |   |   |   |   |   |   |
+|  97110-THERAPEUTIC EXERCISES |   | $322.00 |  |  | $322.00 | $0.00 | $322.00  |
+|  97530-THERAPEUTIC ACTIVITIES |   | $344.00 |  |  | $344.00 | $0.00 | $344.00  |
+|  Encounter Totals |   | $666.00 | $0.00 | $0.00 | $666.00 | $0.00 | $666.00  |
+|  Encounter MR-DUMMY-000004  |   |   |   |   |   |   |   |
+|  Provider Sophia Taylor, PT  |   |   |   |   |   |   |   |
+|  Location SODO Therapy  |   |   |   |   |   |   |   |
+|  97110-THERAPEUTIC EXERCISES |   | $322.00 |  |  | $322.00 | $0.00 | $322.00  |
+|  97530-THERAPEUTIC ACTIVITIES |   | $344.00 |  |  | $344.00 | $0.00 | $344.00  |
+|  Encounter Totals |   | $666.00 | $0.00 | $0.00 | $666.00 | $0.00 | $666.00  |
+|  Encounter MR-DUMMY-000005  |   |   |   |   |   |   |   |
+|  Provider James Miller, PT  |   |   |   |   |   |   |   |
+|  Location SODO Therapy  |   |   |   |   |   |   |   |
+|  97110-THERAPEUTIC EXERCISES |   | $322.00 |  |  | $322.00 | $0.00 | $322.00  |
+|  97530-THERAPEUTIC ACTIVITIES |   | $344.00 |  |  | $344.00 | $0.00 | $344.00  |
+|  Encounter Totals |   | $666.00 | $0.00 | $0.00 | $666.00 | $0.00 | $666.00  |
+
+ITEMIZED STATEMENT
+Page: 1 of 9
+
+====page 1 end ====
+
+====page 2====
+
+Account Information:
+
+Benjamin Moore
+100 Dummy Street, City A, State 12345
+New York FL  10001
+USA
+
+Practice Information:
+
+New York Orthopaedic Center
+200 Sample Lane, City B, State 67890
+300 Test Avenue, City C, State 11111
+New York FL 90001
+USA
+
+Description
+Date
+Charges
+Payments
+
+Adj/
+Refunds
+
+Insurance
+Balance
+
+Patient
+Balance
+
+Total
+Balance
+
+Encounter MR-DUMMY-000006
+Provider James Miller, PT
+Location SODO Therapy
+97110-THERAPEUTIC EXERCISES
+10/22/2025
+$322.00
+$322.00
+$0.00
+$322.00
+97530-THERAPEUTIC ACTIVITIES
+10/22/2025
+$344.00
+$344.00
+$0.00
+$344.00
+Encounter Totals
+$666.00
+$0.00
+$0.00
+$666.00
+$0.00
+$666.00
+Encounter MR-DUMMY-000007
+Provider James Miller, PT
+Location SODO Therapy
+97110-THERAPEUTIC EXERCISES
+10/20/2025
+$322.00
+$322.00
+$0.00
+$322.00
+97530-THERAPEUTIC ACTIVITIES
+10/20/2025
+$344.00
+$344.00
+$0.00
+$344.00
+Encounter Totals
+$666.00
+$0.00
+$0.00
+$666.00
+$0.00
+$666.00
+Encounter MR-DUMMY-000008
+Provider Sophia Taylor, PT
+Location SODO Therapy
+97110-THERAPEUTIC EXERCISES
+10/16/2025
+$322.00
+$322.00
+$0.00
+$322.00
+97530-THERAPEUTIC ACTIVITIES
+10/16/2025
+$344.00
+$344.00
+$0.00
+$344.00
+Encounter Totals
+$666.00
+$0.00
+$0.00
+$666.00
+$0.00
+$666.00
+Encounter MR-DUMMY-000009
+Provider Sophia Taylor, PT
+Location SODO Therapy
+97110-THERAPEUTIC EXERCISES
+10/13/2025
+$322.00
+$322.00
+$0.00
+$322.00
+97530-THERAPEUTIC ACTIVITIES
+10/13/2025
+$344.00
+$344.00
+$0.00
+$344.00
+Encounter Totals
+$666.00
+$0.00
+$0.00
+$666.00
+$0.00
+$666.00
+Encounter MR-DUMMY-000010
+Provider Sophia Taylor, PT
+Location SODO Therapy
+G0283-Elec stim other than wou...
+10/10/2025
+$69.00
+$69.00
+$0.00
+$69.00
+97530-THERAPEUTIC ACTIVITIES
+10/10/2025
+$172.00
+$172.00
+$0.00
+$172.00
+97110-THERAPEUTIC EXERCISES
+10/10/2025
+$322.00
+$322.00
+$0.00
+$322.00
+Encounter Totals
+$563.00
+$0.00
+$0.00
+$563.00
+$0.00
+$563.00
+Encounter [DUMMY_Medical Record Number_10]
+Provider Robert Williams.
+Location Sand Lake
+99214-OFFICE O/P EST MOD 30-39..10/09/2025
+$250.00
+$250.00
+$0.00
+$250.00
+Encounter Totals
+$250.00
+$0.00
+$0.00
+$250.00
+$0.00
+$250.00
+Encounter [DUMMY_Medical Record Number_11]
+Provider James Miller, PT
+
+ITEMIZED STATEMENT
+Page: 2 of 9
+
+====page 2 end ====
+
+====page 3====
+
+Account Information:
+
+Benjamin Moore
+100 Dummy Street, City A, State 12345
+New York FL  10001
+USA
+
+Practice Information:
+
+New York Orthopaedic Center
+200 Sample Lane, City B, State 67890
+300 Test Avenue, City C, State 11111
+New York FL 90001
+USA
+
+Description
+Date
+Charges
+Payments
+
+Adj/
+Refunds
+
+Insurance
+Balance
+
+Patient
+Balance
+
+Total
+Balance
+
+Location SODO Therapy
+97110-THERAPEUTIC EXERCISES
+10/08/2025
+$322.00
+$322.00
+$0.00
+$322.00
+97530-THERAPEUTIC ACTIVITIES
+10/08/2025
+$344.00
+$344.00
+$0.00
+$344.00
+Encounter Totals
+$666.00
+$0.00
+$0.00
+$666.00
+$0.00
+$666.00
+Encounter [DUMMY_Medical Record Number_12]
+Provider James Miller, PT
+Location SODO Therapy
+97530-THERAPEUTIC ACTIVITIES
+10/06/2025
+$344.00
+$0.00
+$0.00
+$0.00
+WC - Workers Compensation
+12/02/2025
+-$44.29
+$0.00
+Work Comp Adjustment
+12/02/2025
+$0.00
+-$299.71
+97110-THERAPEUTIC EXERCISES
+10/06/2025
+$322.00
+$0.00
+$0.00
+$0.00
+WC - Workers Compensation
+12/02/2025
+-$35.71
+$0.00
+Work Comp Adjustment
+12/02/2025
+$0.00
+-$286.29
+Encounter Totals
+$666.00
+-$80.00
+-$586.00
+$0.00
+$0.00
+$0.00
+Encounter [DUMMY_Medical Record Number_13]
+Provider Sophia Taylor, PT
+Location SODO Therapy
+97110-THERAPEUTIC EXERCISES
+10/03/2025
+$322.00
+$322.00
+$0.00
+$322.00
+97530-THERAPEUTIC ACTIVITIES
+10/03/2025
+$344.00
+$344.00
+$0.00
+$344.00
+Encounter Totals
+$666.00
+$0.00
+$0.00
+$666.00
+$0.00
+$666.00
+Encounter [DUMMY_Medical Record Number_14]
+Provider Sophia Taylor, PT
+Location SODO Therapy
+97110-THERAPEUTIC EXERCISES
+10/01/2025
+$322.00
+$322.00
+$0.00
+$322.00
+97530-THERAPEUTIC ACTIVITIES
+10/01/2025
+$344.00
+$344.00
+$0.00
+$344.00
+Encounter Totals
+$666.00
+$0.00
+$0.00
+$666.00
+$0.00
+$666.00
+Encounter [DUMMY_Medical Record Number_15]
+Provider Sophia Taylor, PT
+Location SODO Therapy
+97530-THERAPEUTIC ACTIVITIES
+09/29/2025
+$344.00
+$0.00
+$0.00
+$0.00
+Work Comp Adjustment
+12/02/2025
+$0.00
+-$299.71
+WC - Workers Compensation
+12/02/2025
+-$44.29
+$0.00
+97110-THERAPEUTIC EXERCISES
+09/29/2025
+$322.00
+$0.00
+$0.00
+$0.00
+Work Comp Adjustment
+12/02/2025
+$0.00
+-$286.29
+WC - Workers Compensation
+12/02/2025
+-$35.71
+$0.00
+Encounter Totals
+$666.00
+-$80.00
+-$586.00
+$0.00
+$0.00
+$0.00
+Encounter [DUMMY_Medical Record Number_16]
+ProvideEmma Davis Emma Davis.D.
+
+ITEMIZED STATEMENT
+Page: 3 of 9
+
+====page 3 end ====
+
+====page 4====
+
+Account Information:
+
+Benjamin Moore
+100 Dummy Street, City A, State 12345
+New York FL  10001
+USA
+
+Practice Information:
+
+New York Orthopaedic Center
+200 Sample Lane, City B, State 67890
+300 Test Avenue, City C, State 11111
+New York FL 90001
+USA
+
+Description
+Date
+Charges
+Payments
+
+Adj/
+Refunds
+
+Insurance
+Balance
+
+Patient
+Balance
+
+Total
+Balance
+
+Location Winter Park
+95910-NRV CNDJ TEST 7-8 STUDIE.09/25/2025
+$516.00
+$0.00
+$0.00
+$0.00
+Work Comp Adjustment
+11/25/2025
+$0.00
+-$233.85
+WC - Workers Compensation
+11/25/2025
+-$282.15
+$0.00
+95886-MUSC TEST DONE W/N TEST09/25/2025
+$570.00
+$0.00
+$0.00
+$0.00
+Work Comp Adjustment
+11/25/2025
+$0.00
+-$416.10
+WC - Workers Compensation
+11/25/2025
+-$153.90
+$0.00
+Encounter Totals
+$1,086.00
+-$436.05
+-$649.95
+$0.00
+$0.00
+$0.00
+Encounter [DUMMY_Medical Record Number_17]
+Provider James Miller, PT
+Location SODO Therapy
+97530-THERAPEUTIC ACTIVITIES
+09/24/2025
+$344.00
+$0.00
+$0.00
+$0.00
+WC - Workers Compensation
+12/02/2025
+-$44.29
+$0.00
+Work Comp Adjustment
+12/02/2025
+$0.00
+-$299.71
+97110-THERAPEUTIC EXERCISES
+09/24/2025
+$322.00
+$0.00
+$0.00
+$0.00
+WC - Workers Compensation
+12/02/2025
+-$35.71
+$0.00
+Work Comp Adjustment
+12/02/2025
+$0.00
+-$286.29
+Encounter Totals
+$666.00
+-$80.00
+-$586.00
+$0.00
+$0.00
+$0.00
+Encounter [DUMMY_Medical Record Number_18]
+Provider Sophia Taylor, PT
+Location SODO Therapy
+97530-THERAPEUTIC ACTIVITIES
+09/23/2025
+$344.00
+$0.00
+$0.00
+$0.00
+Work Comp Adjustment
+11/25/2025
+$0.00
+-$299.71
+WC - Workers Compensation
+11/25/2025
+-$44.29
+$0.00
+97110-THERAPEUTIC EXERCISES
+09/23/2025
+$322.00
+$0.00
+$0.00
+$0.00
+Work Comp Adjustment
+11/25/2025
+$0.00
+-$286.29
+WC - Workers Compensation
+11/25/2025
+-$35.71
+$0.00
+Encounter Totals
+$666.00
+-$80.00
+-$586.00
+$0.00
+$0.00
+$0.00
+Encounter [DUMMY_Medical Record Number_19]
+Provider Sophia Taylor, PT
+Location SODO Therapy
+97530-THERAPEUTIC ACTIVITIES
+09/17/2025
+$344.00
+$0.00
+$0.00
+$0.00
+WC - Workers Compensation
+11/13/2025
+-$44.29
+$0.00
+Work Comp Adjustment
+11/13/2025
+$0.00
+-$299.71
+97110-THERAPEUTIC EXERCISES
+09/17/2025
+$322.00
+$0.00
+$0.00
+$0.00
+WC - Workers Compensation
+11/13/2025
+-$35.71
+$0.00
+Work Comp Adjustment
+11/13/2025
+$0.00
+-$286.29
+Encounter Totals
+$666.00
+-$80.00
+-$586.00
+$0.00
+$0.00
+$0.00
+
+ITEMIZED STATEMENT
+Page: 4 of 9
+
+====page 4 end ====
+
+====page 5====
+
+Account Information:
+
+Benjamin Moore
+100 Dummy Street, City A, State 12345
+New York FL  10001
+USA
+
+Practice Information:
+
+New York Orthopaedic Center
+200 Sample Lane, City B, State 67890
+300 Test Avenue, City C, State 11111
+New York FL 90001
+USA
+
+Description
+Date
+Charges
+Payments
+
+Adj/
+Refunds
+
+Insurance
+Balance
+
+Patient
+Balance
+
+Total
+Balance
+
+Encounter [DUMMY_Medical Record Number_20]
+Provider Sophia Taylor, PT
+Location SODO Therapy
+97530-THERAPEUTIC ACTIVITIES
+09/16/2025
+$344.00
+$0.00
+$0.00
+$0.00
+Work Comp Adjustment
+11/13/2025
+$0.00
+-$299.71
+WC - Workers Compensation
+11/13/2025
+-$44.29
+$0.00
+97110-THERAPEUTIC EXERCISES
+09/16/2025
+$322.00
+$0.00
+$0.00
+$0.00
+Work Comp Adjustment
+11/13/2025
+$0.00
+-$286.29
+WC - Workers Compensation
+11/13/2025
+-$35.71
+$0.00
+Encounter Totals
+$666.00
+-$80.00
+-$586.00
+$0.00
+$0.00
+$0.00
+Encounter [DUMMY_Medical Record Number_21]
+Provider James Miller, PT
+Location SODO Therapy
+97161-PT EVAL LOW COMPLEX 20 M09/15/2025
+$361.00
+$0.00
+$0.00
+$0.00
+Work Comp Adjustment
+11/25/2025
+$0.00
+-$224.20
+WC - Workers Compensation
+11/25/2025
+-$136.80
+$0.00
+97110-THERAPEUTIC EXERCISES
+09/15/2025
+$483.00
+$0.00
+$0.00
+$0.00
+Work Comp Adjustment
+11/25/2025
+$0.00
+-$403.00
+WC - Workers Compensation
+11/25/2025
+-$80.00
+$0.00
+Encounter Totals
+$844.00
+-$216.80
+-$627.20
+$0.00
+$0.00
+$0.00
+Encounter [DUMMY_Medical Record Number_22]
+Provider Robert Williams.
+Location SODO
+99214-OFFICE O/P EST MOD 30-39..08/29/2025
+$250.00
+$0.00
+$0.00
+$0.00
+Work Comp Adjustment
+10/31/2025
+$0.00
+-$39.10
+WC - Workers Compensation
+10/31/2025
+-$210.90
+$0.00
+Encounter Totals
+$250.00
+-$210.90
+-$39.10
+$0.00
+$0.00
+$0.00
+Encounter [DUMMY_Medical Record Number_23]
+Provider Sophia Taylor, PT
+Location SODO Therapy
+97530-THERAPEUTIC ACTIVITIES
+08/20/2025
+$344.00
+$0.00
+$0.00
+$0.00
+WC - Workers Compensation
+10/14/2025
+-$44.29
+$0.00
+Work Comp Adjustment
+10/14/2025
+$0.00
+-$299.71
+97110-THERAPEUTIC EXERCISES
+08/20/2025
+$322.00
+$0.00
+$0.00
+$0.00
+WC - Workers Compensation
+10/14/2025
+-$35.71
+$0.00
+Work Comp Adjustment
+10/14/2025
+$0.00
+-$286.29
+Encounter Totals
+$666.00
+-$80.00
+-$586.00
+$0.00
+$0.00
+$0.00
+Encounter [DUMMY_Medical Record Number_24]
+
+ITEMIZED STATEMENT
+Page: 5 of 9
+
+====page 5 end ====
+
+====page 6====
+
+# **[LOGO PLACEHOLDER: St. Mary's Hospital / Benjamin Moore]**
+*(Note: Logo likely appears in the header of the original document, e.g., top of page with clinic/hospital branding.)*
+
+St. Mary's Hospital
+
+Account Information:
+Benjamin Moore
+100 Dummy Street, City A, State 12345
+New York FL 10001
+USA
+
+Practice Information:
+St. Mary's Hospital
+200 Sample Lane, City B, State 67890
+300 Test Avenue, City C, State 11111
+New York FL 90001
+USA
+
+|  Description | Date | Charges | Payments | Adj/ Refunds | Insurance Balance | Patient Balance | Total Balance  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  Provider James Miller, PT  |   |   |   |   |   |   |   |
+|  Location SODO Therapy  |   |   |   |   |   |   |   |
+|  97530-THERAPEUTIC ACTIVITIES | 08/18/2025 | $344.00 |  |  | $0.00 | $0.00 | $0.00  |
+|  Work Comp Adjustment | 10/07/2025 |  | $0.00 | -$299.71 |  |  |   |
+|  WC - Workers Compensation | 10/07/2025 |  | -$44.29 | $0.00 |  |  |   |
+|  97110-THERAPEUTIC EXERCISES | 08/18/2025 | $322.00 |  |  | $0.00 | $0.00 | $0.00  |
+|  Work Comp Adjustment | 10/07/2025 |  | $0.00 | -$286.29 |  |  |   |
+|  WC - Workers Compensation | 10/07/2025 |  | -$35.71 | $0.00 |  |  |   |
+|   | Encounter Totals | $666.00 | -$80.00 | -$586.00 | $0.00 | $0.00 | $0.00  |
+|  Encounter 86853  |   |   |   |   |   |   |   |
+|  Provider Sophia Taylor, PT  |   |   |   |   |   |   |   |
+|  Location SODO Therapy  |   |   |   |   |   |   |   |
+|  97530-THERAPEUTIC ACTIVITIES | 08/15/2025 | $344.00 |  |  | $0.00 | $0.00 | $0.00  |
+|  WC - Workers Compensation | 10/07/2025 |  | -$44.29 | $0.00 |  |  |   |
+|  Work Comp Adjustment | 10/07/2025 |  | $0.00 | -$299.71 |  |  |   |
+|  97110-THERAPEUTIC EXERCISES | 08/15/2025 | $322.00 |  |  | $0.00 | $0.00 | $0.00  |
+|  WC - Workers Compensation | 10/07/2025 |  | -$35.71 | $0.00 |  |  |   |
+|  Work Comp Adjustment | 10/07/2025 |  | $0.00 | -$286.29 |  |  |   |
+|   | Encounter Totals | $666.00 | -$80.00 | -$586.00 | $0.00 | $0.00 | $0.00  |
+|  Encounter 84394  |   |   |   |   |   |   |   |
+|  Provider Sophia Taylor, PT  |   |   |   |   |   |   |   |
+|  Location SODO Therapy  |   |   |   |   |   |   |   |
+|  97530-THERAPEUTIC ACTIVITIES | 08/13/2025 | $344.00 |  |  | $0.00 | $0.00 | $0.00  |
+|  Work Comp Adjustment | 10/14/2025 |  | $0.00 | -$299.71 |  |  |   |
+|  WC - Workers Compensation | 10/14/2025 |  | -$44.29 | $0.00 |  |  |   |
+|  97110-THERAPEUTIC EXERCISES | 08/13/2025 | $322.00 |  |  | $0.00 | $0.00 | $0.00  |
+|  Work Comp Adjustment | 10/14/2025 |  | $0.00 | -$286.29 |  |  |   |
+|  WC - Workers Compensation | 10/14/2025 |  | -$35.71 | $0.00 |  |  |   |
+|   | Encounter Totals | $666.00 | -$80.00 | -$586.00 | $0.00 | $0.00 | $0.00  |
+|  Encounter 81557  |   |   |   |   |   |   |   |
+|  Provider James Miller, PT  |   |   |   |   |   |   |   |
+|  Location SODO Therapy  |   |   |   |   |   |   |   |
+|  97530-THERAPEUTIC ACTIVITIES | 08/11/2025 | $344.00 |  |  | $0.00 | $0.00 | $0.00  |
+|  Work Comp Adjustment | 10/22/2025 |  | $0.00 | -$299.71 |  |  |   |
+|  WC - Workers Compensation | 10/22/2025 |  | -$44.29 | $0.00 |  |  |   |
+|  97110-THERAPEUTIC EXERCISES | 08/11/2025 | $322.00 |  |  | $0.00 | $0.00 | $0.00  |
+|  Work Comp Adjustment | 10/22/2025 |  | $0.00 | -$286.29 |  |  |   |
+|  WC - Workers Compensation | 10/22/2025 |  | -$35.71 | $0.00 |  |  |   |
+
+ITEMIZED STATEMENT
+Page: 6 of 9
+
+====page 6 end ====
+
+====page 7====
+
+Account Information:
+
+Benjamin Moore
+100 Dummy Street, City A, State 12345
+New York FL  10001
+USA
+
+Practice Information:
+
+St. Mary's Hospital
+200 Sample Lane, City B, State 67890
+300 Test Avenue, City C, State 11111
+New York FL 90001
+USA
+
+Description
+Date
+Charges
+Payments
+
+Adj/
+Refunds
+
+Insurance
+Balance
+
+Patient
+Balance
+
+Total
+Balance
+
+Encounter Totals
+$666.00
+-$80.00
+-$586.00
+$0.00
+$0.00
+$0.00
+Encounter 80236
+Provider Sophia Taylor, PT
+Location SODO Therapy
+97530-THERAPEUTIC ACTIVITIES
+08/08/2025
+$344.00
+$0.00
+$0.00
+$0.00
+Work Comp Adjustment
+10/07/2025
+$0.00
+-$299.71
+WC - Workers Compensation
+10/07/2025
+-$44.29
+$0.00
+97110-THERAPEUTIC EXERCISES
+08/08/2025
+$322.00
+$0.00
+$0.00
+$0.00
+Work Comp Adjustment
+10/07/2025
+$0.00
+-$286.29
+WC - Workers Compensation
+10/07/2025
+-$35.71
+$0.00
+Encounter Totals
+$666.00
+-$80.00
+-$586.00
+$0.00
+$0.00
+$0.00
+Encounter 77760
+Provider Sophia Taylor, PT
+Location SODO Therapy
+97530-THERAPEUTIC ACTIVITIES
+08/06/2025
+$344.00
+$0.00
+$0.00
+$0.00
+WC - Workers Compensation
+10/07/2025
+-$44.29
+$0.00
+Work Comp Adjustment
+10/07/2025
+$0.00
+-$299.71
+97110-THERAPEUTIC EXERCISES
+08/06/2025
+$322.00
+$0.00
+$0.00
+$0.00
+WC - Workers Compensation
+10/07/2025
+-$35.71
+$0.00
+Work Comp Adjustment
+10/07/2025
+$0.00
+-$286.29
+Encounter Totals
+$666.00
+-$80.00
+-$586.00
+$0.00
+$0.00
+$0.00
+Encounter 74928
+Provider Sophia Taylor, PT
+Location SODO Therapy
+97530-THERAPEUTIC ACTIVITIES
+08/04/2025
+$344.00
+$0.00
+$0.00
+$0.00
+Work Comp Adjustment
+10/07/2025
+$0.00
+-$299.71
+WC - Workers Compensation
+10/07/2025
+-$44.29
+$0.00
+97110-THERAPEUTIC EXERCISES
+08/04/2025
+$322.00
+$0.00
+$0.00
+$0.00
+Work Comp Adjustment
+10/07/2025
+$0.00
+-$286.29
+WC - Workers Compensation
+10/07/2025
+-$35.71
+$0.00
+Encounter Totals
+$666.00
+-$80.00
+-$586.00
+$0.00
+$0.00
+$0.00
+Encounter 73748
+Provider Sophia Taylor, PT
+Location SODO Therapy
+97530-THERAPEUTIC ACTIVITIES
+08/01/2025
+$344.00
+$0.00
+$0.00
+$0.00
+WC - Workers Compensation
+09/29/2025
+-$44.29
+$0.00
+Work Comp Adjustment
+09/29/2025
+$0.00
+-$299.71
+97110-THERAPEUTIC EXERCISES
+08/01/2025
+$322.00
+$0.00
+$0.00
+$0.00
+
+ITEMIZED STATEMENT
+Page: 7 of 9
+
+====page 7 end ====
+
+====page 8====
+
+Account Information:
+
+Benjamin Moore
+100 Dummy Street, City A, State 12345
+New York FL  10001
+USA
+
+Practice Information:
+
+St. Mary's Hospital
+200 Sample Lane, City B, State 67890
+300 Test Avenue, City C, State 11111
+New York FL 90001
+USA
+
+Description
+Date
+Charges
+Payments
+
+Adj/
+Refunds
+
+Insurance
+Balance
+
+Patient
+Balance
+
+Total
+Balance
+
+WC - Workers Compensation
+09/29/2025
+-$35.71
+$0.00
+Work Comp Adjustment
+09/29/2025
+$0.00
+-$286.29
+Encounter Totals
+$666.00
+-$80.00
+-$586.00
+$0.00
+$0.00
+$0.00
+Encounter 71169
+Provider James Miller, PT
+Location SODO Therapy
+97110-THERAPEUTIC EXERCISES
+07/30/2025
+$322.00
+$322.00
+$0.00
+$322.00
+97530-THERAPEUTIC ACTIVITIES
+07/30/2025
+$344.00
+$344.00
+$0.00
+$344.00
+Encounter Totals
+$666.00
+$0.00
+$0.00
+$666.00
+$0.00
+$666.00
+Encounter 68325
+Provider Sophia Taylor, PT
+Location SODO Therapy
+97530-THERAPEUTIC ACTIVITIES
+07/28/2025
+$344.00
+$0.00
+$0.00
+$0.00
+WC - Workers Compensation
+09/23/2025
+-$44.29
+$0.00
+Work Comp Adjustment
+09/23/2025
+$0.00
+-$299.71
+97110-THERAPEUTIC EXERCISES
+07/28/2025
+$322.00
+$0.00
+$0.00
+$0.00
+WC - Workers Compensation
+09/23/2025
+-$35.71
+$0.00
+Work Comp Adjustment
+09/23/2025
+$0.00
+-$286.29
+Encounter Totals
+$666.00
+-$80.00
+-$586.00
+$0.00
+$0.00
+$0.00
+Encounter 66053
+Provider Sophia Taylor, PT
+Location SODO Therapy
+97161-PT EVAL LOW COMPLEX 20 M07/24/2025
+$361.00
+$0.00
+$0.00
+$0.00
+Work Comp Adjustment
+10/07/2025
+$0.00
+-$224.20
+WC - Workers Compensation
+10/07/2025
+-$136.80
+$0.00
+97110-THERAPEUTIC EXERCISES
+07/24/2025
+$483.00
+$0.00
+$0.00
+$0.00
+Work Comp Adjustment
+10/07/2025
+$0.00
+-$403.00
+WC - Workers Compensation
+10/07/2025
+-$80.00
+$0.00
+Encounter Totals
+$844.00
+-$216.80
+-$627.20
+$0.00
+$0.00
+$0.00
+Encounter 60198
+Provider Robert Williams, D.O.
+Location Sand Lake
+99244-OFF/OP CNSLTJ NEW/EST MO07/17/2025
+$399.00
+$0.00
+$0.00
+$0.00
+WC - Workers Compensation
+09/24/2025
+-$264.10
+$0.00
+Work Comp Adjustment
+09/24/2025
+$0.00
+-$134.90
+72040-X-RAY EXAM NECK SPINE 2-.07/17/2025
+$80.00
+$0.00
+$0.00
+$0.00
+WC - Workers Compensation
+09/24/2025
+-$63.65
+$0.00
+Work Comp Adjustment
+09/24/2025
+$0.00
+-$16.35
+
+ITEMIZED STATEMENT
+Page: 8 of 9
+
+====page 8 end ====
+
+====page 9====
+
+Account Information:
+
+Benjamin Moore
+100 Dummy Street, City A, State 12345
+New York FL  10001
+USA
+
+Practice Information:
+
+St. Mary's Hospital
+200 Sample Lane, City B, State 67890
+300 Test Avenue, City C, State 11111
+New York FL 90001
+USA
+
+Description
+Date
+Charges
+Payments
+
+Adj/
+Refunds
+
+Insurance
+Balance
+
+Patient
+Balance
+
+Total
+Balance
+
+Encounter Totals
+$479.00
+-$327.75
+-$151.25
+$0.00
+$0.00
+$0.00
+Totals For Benjamin Moore
+$24,446.00
+-$2,688.30
+-$11,470.70
+$10,287.00
+$0.00
+$10,287.00
+Account Totals
+$24,446.00
+-$2,688.30
+-$11,470.70
+$10,287.00
+$0.00
+$10,287.00
+
+ITEMIZED STATEMENT
+Page: 9 of 9
+
+====page 9 end ====

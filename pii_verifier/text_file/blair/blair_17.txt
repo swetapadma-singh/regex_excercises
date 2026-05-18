@@ -1,0 +1,358 @@
+====page 1====
+
+# **[LOGO PLACEHOLDER: CLINIC LOGO]**
+*(Note: Logo likely appears in the header of the original document, e.g., top of page with clinic/hospital branding.)*
+
+12/3/25, 3:51 AM
+Encounter - Office Visit Date of service: 11/14/25 Patient: Robert Williams DOB: 01/01/1990 PRN: MR-DUMMY-000001
+
+|  PATIENT | Robert Williams | FACILITY | Star Ortho Kennedy | ENCOUNTER | Office Visit  |
+| --- | --- | --- | --- | --- | --- |
+|  DOB | 01/01/1990 | T |555-000-0001 | NOTE TYPE | SOAP Note  |
+|  AGE | 34 yrs | F |555-000-0002 | SEEN BY | Alice Johnson MD  |
+|  SEX | Male | 100 Dummy Street, City A, State 12345. |  | DATE | 11/14/2025  |
+|  PRN | MR-DUMMY-000001 | Suite A |  | AGE AT DOS | 34 yrs  |
+|   |  | New York, FL 10001 |  | Electronically signed by Alice Johnson MD at 11/21/2025 01:34 am  |   |
+
+## Subjective
+
+### Procedures:
+1. Follow up
+2. FLUOROSCOPIC GUIDED LUMBAR INTERLAMINAR EPIDURAL INJECTION L5-S1
+
+### Chief Complaint:
+1. Neck pain
+2. Back pain
+
+### History of Present Illness:
+Mr. Robert Williams is a 34-year-old male with a history of a motor vehicle accident. The patient was T-boned on the passenger side by a sedan on 3/25/2025. The patient states the symptoms began following the motor vehicle accident. The patient was in the middle backseat passenger and was restrained by a seatbelt. The patient states the airbags did deploy. The patient hit their head on the passenger side door. The patient went to the County General Hospital without admission. The car was totaled. The current pain began immediately after the accident.
+
+Mr. Robert Williams presents today with pain in the cervical spine, radiating pain, numbness, and tingling. The patient's cervical pain level today is 0/10, and at its worst in the last week, 0/10.
+
+Mr. Robert Williams presents today with 100% pain in the lumbar spine and 0% in the legs. The patient denies radiating pain, numbness, and tingling. The patient has pain in the bilateral buttocks. The patient's lumbar pain is constant and is aggravated by sitting, twisting repetitively, and at night. The pain is alleviated by TENS Unit and topical lidocaine cream. The quality of the patient's lumbar pain is pressure. The patient's walking tolerance is maintained within their normal limits. The patient does not complain of substantial lumbar pain before the accident. The patient states they have no prior history of lumbar injury before this event. The patient's lumbar pain level today is 4/10, and at its worst in the last week, 4/10. The patient does not take any pain medication.
+
+The pain has affected the patient's activities of daily living, ability to work, and ability to sleep for more than 3 hours secondary to pain. The patient has received non-operative modalities from a chiropractor for 2 months for their pain and it helped, but it has not relieved symptoms completely. The patient has no complaints regarding balance issues, gait instability, trouble with fine motor control, hand dexterity, dropping objects, or bowel/bladder dysfunction.
+
+## Objective
+
+**Blood Thinners:** None
+
+**Allergies:** No known allergies to latex, tape, IV contrast, iodine, or shellfish
+
+### Social History:
+- Tattoo Artist
+- Single
+- The patient denies alcohol and tobacco use
+
+**Review of System:** Patient denies any fever, headaches, chills, chest pain, shortness of breath, bowel or bladder incontinence and/or weakness in the upper or lower extremities.
+
+## Assessment
+
+**MRI IMPRESSION OF THE CERVICAL SPINE: DATED 05-10-2025**
+1. Small syrinx in the cervical spinal cord at the C6-C7 level.
+
+https://static.practicefusion.com/apps/ehr/index.html#/PF/charts/patients/5bb925ec-9216-49af-a4a6-f50f4ad31f90/encounter/73579321-108d-4e7c-82f...
+
+====page 1 end ====
+
+====page 2====
+
+2. No disc herniation.
+3. No central canal or foraminal stenosis.
+4. Straightening of the normal cervical lordosis which may reflect muscle
+
+spasm.
+
+MRI IMPRESSION OF THE THORACIC SPINE: DATED 05-10-2025
+
+1. Negative thoracic spine MRI.
+
+MRI IMPRESSION OF THE LUMBAR SPINE: DATED 05-10-2025
+
+1. 3 mm central disc herniation at L5-S1 with mild spinal canal stenosis.
+2. Otherwise unremarkable MRI of the lumbar spine.
+
+PHYSICAL EXAMINATION:
+General: Well-developed and well-nourished, in moderate discomfort.
+HEENT: Head atraumatic, normocephalic. Eyes and ears without discharge. Nose without obstruction. Sclerae clear and anicteric.
+Hearing intact to spoken voice. Oral mucosa moist.
+Heart: Regular rate and rhythm.
+Lungs: Breathing even and unlabored. No audible abnormal breath sounds.
+
+Abdomen: Nondistended.
+Integument: No rashes or lesions identified.
+Lymphatic: No lymphedema.
+Extremities: No clubbing or cyanosis.
+Vascular: Peripheral pulses are palpable.
+Neuro: Alert and oriented.
+Musculoskeletal: There is no tenderness in the calves.
+
+PHYSICAL EXAM CERVICAL SPINE:
+
+Inspection: Local inspection shows no step-off or bruising.  Cervical alignment is normal.
+
+Palpation: No tenderness over the midline.
+
+Right: There is no tenderness and spasm to palpation of right paraspinous muscle, upper trapezius muscle, middle
+trapezius/rhomboids muscle, levator scapulae muscle, and supraspinatus muscle.
+
+Left: There is no tenderness and spasm to palpation of left paraspinous muscle, suboccipital muscle, upper trapezius muscle,
+middle trapezius/rhomboids muscle, levator scapulae muscle and supraspinatus muscle.
+
+Range of Motion: Is normal in flexion, left axial rotation, left lateral flexion, extension, right axial rotation, and right lateral flexion.
+
+Strength:
+Right:                                                                      Left:
+Deltoid (Axillary C5,C6)  5/5
+Deltoid (Axillary C5,C6)  5/5
+Biceps (Musculocutaneous C5-7)  5/5                             Biceps (Musculocutaneous C5-7) 5/5
+Triceps (Radial C6-8)  5/5                                                   Triceps (Radial C6-8) 5/5
+Wrist Extension 5/5                                                             Wrist Extension 5/5
+Wrist Flexors 5/5                                                                  Wrist Flexors 5/5
+
+Sensation: Sensation is normal to touch and pinwheel except when noted.
+Right:                                                                      Left:
+Posterior aspect of shoulder (C4) Normal
+Posterior aspect of shoulder (C4) Normal
+Lateral aspect of upper arm (C5) Normal                     Lateral aspect of upper arm (C5) Normal
+Tip of thumb (C6) Normal                                                Tip of thumb (C6) Normal
+Tip of middle finger (C7) Normal                                    Tip of middle finger (C7) Normal
+
+Tip of pinky (C8) Normal                                                  Tip of pinky (C8) Normal
+
+Reflexes:
+Right:                                                         Left:
+
+12/3/25, 3:51 AM
+Encounter - Office Visit Date of service: 11/14/25 Patient: Robert Williams DOB: 01/01/1990 PRN: MR-DUMMY-000001
+
+https://static.practicefusion.com/apps/ehr/index.html#/PF/charts/patients/5bb925ec-9216-49af-a4a6-f50f4ad31f90/encounter/73579321-108d-4e7c-82f…
+2/5
+
+====page 2 end ====
+
+====page 3====
+
+Biceps (C5,C6) 2+
+Biceps (C5,C6)  2+
+Brachioradialis (C6) 2+                                      Brachioradialis (C6) 2+
+Triceps (C7) 2+                                                    Triceps (C7) 2+
+
+Facet Tenderness:
+Right: Negative
+Left:   Negative
+
+Facet Loading:
+Right: Negative
+Left:   Negative
+
+Special Tests:
+Right:                                                       Left:
+Hoffman: Negative                                              Hoffman: Negative
+Spurling’s Sign: Negative                                     Spurling’s Sign: Negative
+Lhermit's: Negative                                              Lhermit's: Negative
+Babinski: Normal                                                  Babinski: Normal
+
+Clonus: Absent                                                      Clonus: Absent
+
+Gait: Gait and station are normal.  The patient ambulates unassisted.
+
+Neurological: Denies any urinary or fecal incontinence
+
+Grip Strength:
+
+Right: 5/5
+Left: 5/5
+
+PHYSICAL EXAM LUMBAR:
+
+Inspection: Local inspection shows no step-off or bruising.  Lumbar alignment is normal
+
+Palpation: Tenderness over the midline at L5-S1 interspace.
+
+Right:
+Mild evidence of tenderness and spasm of the right lumbar paraspinous muscles.
+Mild tenderness over the right piriformis muscles.
+Mild tenderness noted to palpation over the right sacroiliac joints noted.
+No tenderness noted over the right greater trochanter.
+
+Left:
+Mild evidence of tenderness and spasm of the left paraspinous muscles.
+Mild tenderness over the left piriformis muscles.
+Mild tenderness noted to palpation the left sacroiliac joints noted.
+No tenderness noted over the left greater trochanter.
+
+Range of Motion: Is Decreased in extension, right axial rotation, right lateral flexion, left axial rotation, and left lateral flexion.
+
+Is Decreased painful in flexion.
+
+Strength:
+Right:
+Left:
+Iliopsoas (L2,L3) 5/5                                                        Iliopsoas (L2,L3) 5/5
+Ankle dorsiflexion (L4) 5/5                                             Ankle dorsiflexion (L4) 5/5
+Extensor hallucis longus (L5) 5/5                                  Extensor hallucis longus (L5) 5/5
+
+Plantar flexion (S1) 5/5                                                   Plantar flexion (S1) 5/5
+
+Sensation: Sensation is normal to touch and pinwheel except when noted.
+Right:
+Left:
+
+12/3/25, 3:51 AM
+Encounter - Office Visit Date of service: 11/14/25 Patient: Robert Williams DOB: 01/01/1990 PRN: MR-DUMMY-000001
+
+https://static.practicefusion.com/apps/ehr/index.html#/PF/charts/patients/5bb925ec-9216-49af-a4a6-f50f4ad31f90/encounter/73579321-108d-4e7c-82f…
+3/5
+
+====page 3 end ====
+
+====page 4====
+
+Groin (L1) Normal                                                           Groin (L1) Normal
+Upper leg (L2) Normal                                                    Upper leg (L2) Normal
+Lower-medial upper leg (L3) Normal                           Lower-medial upper leg (L3) Normal
+Medial portion foot (L4) Normal                                   Medial portion foot (L4) Normal
+
+Lateral lower leg (L5) Normal                                        Lateral lower leg (L5) Normal
+Sole of foot (S1) Normal                                                 Sole of foot (S1) Normal
+
+Reflexes:
+Right:
+Left:
+Patellar reflex (L4) 2+                                                     Patellar reflex (L4) 2+
+Achilles reflex (S1) 2+                                                     Achilles reflex (S1) 2+
+
+Clonus absent                                                                 Clonus absent
+Babinski downward hallux                                            Babinski downward hallux
+
+Facet Tenderness:
+Right: Positive L4-5, L5-S1 (Reduced post RFA)
+Left:   Positive L4-5, L5-S1 (Reduced post RFA)
+
+Facet Loading:
+Right: Positive L4-5, L5-S1 (Reduced post RFA)
+Left:   Positive L4-5, L5-S1 (Reduced post RFA)
+
+SPECIAL/PROVOCATION TESTS
+
+Nerve Root irritation:
+
+Right:
+Left:
+Kemp's Test: Negative                                                  Kemp's Test: Negative
+Slump test: Negative                                                     Slump test: Negative
+Straight leg raise: Negative                                          Straight leg raise: Negative
+Femoral Stretch Test: Negative                                   Femoral Stretch Test: Negative
+
+Sacral Iliac Joint:
+
+Right:                                                                  Left:
+Patrick’s: Positive
+Patrick’s: Positive
+Sacral compression: Positive                                    Sacral compression: Positive
+Fortin: Positive                                                            Fortin: Positive
+
+Piriformis:
+Right:
+Left:
+FAIR test: Positive
+FAIR test: Positive
+
+Reflexes:
+Right:
+Left:
+Ankle Clonus: Negative                                               Ankle Clonus: Negative
+Hoffman: Negative                                                       Hoffman: Negative
+Babinski: Negative                                                        Babinski: Negative
+
+Gait: Gait and station are normal.  The patient ambulates unassisted.
+
+Neurological: Denies any urinary or fecal incontinence
+
+Plan
+
+Plan and Discussion:
+
+1. Lumbar discogenic pain. Lumbar MRI shows herniation at level L5-S1. These herniations correlate well with his history
+
+and physical of tenderness over the midline at L5-S1 interspace. Recommend level L5-S1 ESI today.  If this fails to relieve
+their discogenic pain, I recommend a surgical consultation and evaluation.
+2. At this time, the patient reports 70 percent relief post-bilateral Sacroiliac Joint Steroid Injection under fluoroscopy
+
+guidance.
+
+12/3/25, 3:51 AM
+Encounter - Office Visit Date of service: 11/14/25 Patient: Robert Williams DOB: 01/01/1990 PRN: MR-DUMMY-000001
+
+https://static.practicefusion.com/apps/ehr/index.html#/PF/charts/patients/5bb925ec-9216-49af-a4a6-f50f4ad31f90/encounter/73579321-108d-4e7c-82f…
+4/5
+
+====page 4 end ====
+
+====page 5====
+
+3. Continue conservative treatment, including physical therapy, chiropractic care, and/or OTC medications for cervical spine
+
+symptoms.
+4. If these symptoms are left untreated, it may result in musculoskeletal impairment, including permanent and significant
+
+pain symptomatology, nerve dysfunction, myofascial and tissue scarring, which can cause significant and permanent
+
+limitations in their range of motion, strength, coordination, balance, and proprioception.
+5. Follow up in 2 weeks.
+
+PROCEDURE: FLUOROSCOPIC GUIDED LUMBAR INTERLAMINAR EPIDURAL INJECTION L5-S1
+TYPE: THERAPEUTIC
+INDICATIONS: Lumbar Radiculitis / HNP / Discogenic Pain/ Spinal Stenosis/ Spondylosis
+ANESTHESIA: LOCAL
+
+COMPLICATIONS: NONE
+
+Time In: 1355
+Time Out: 1404
+
+DESCRIPTION OF THE PROCEDURE:  The procedure was carried out at St. Mary's Hospital. The discussion included a
+complete verbal explanation of the examination results, diagnoses and treatment options. The risks, benefits and alternatives were
+
+reviewed. The procedure(s) was discussed with the patient along with the risks, benefits and alternatives, including but not limited to
+bleeding, infection, and neurologic injury, failure to relieve pain and worsening pain. The patient understood, all questions were
+answered, and informed consent was obtained.
+
+The patient was placed in the prone position on the injection table with a lumbar roll in place under the abdominal area.  The
+lumbar area was prepped and draped in a sterile fashion.  Using a sterile technique, the superficial skin was anesthetized with 2%
+Xylocaine.  An 18G 3.5” Tuohy needle was introduced into the  posterior epidural space under fluoroscopy using a midline
+
+approach and loss of resistance technique at the ____L5-S1____ interlaminar space.  A dry tap was obtained.  An epidurogram
+without dural puncture was obtained using omnipaque contrast confirming posterior epidural placement of the needle. Superior
+epidural flow pattern was noted.  No intravascular or intrathecal flow pattern was noted. No blood or CSF was aspirated. AP and
+lateral x-rays were taken for interpretation and documentation.
+
+After this, a total of 40 mg Kenalog and 3 cc 0.5 % PF Xylocaine was injected into the epidural space without any resistance.
+
+The needle was subsequently removed.  The patient tolerated the procedure well.  The patient’s vital signs were monitored during
+this procedure and remained within normal limits.  There were no complications.  Post procedure vital signs remained normal as
+well.
+
+DISCHARGE PLAN: The patient was instructed to apply ice over the injection site(s) for 10-15 minutes every 2-4 hours for the next
+twenty-four to forty-eight hours.  The patient was also instructed to contact us if there are any issues after the procedure. Post
+procedure instruction sheet was given. The patient was monitored for 30 minutes in a recovery area before discharged home in a
+medically and neurologically stable condition with a designated driver unless the patient is going to drive himself/herself.
+
+Orders
+
+LAB ORDERS
+
+No orders attached to this encounter.
+
+IMAGING ORDERS
+
+No orders attached to this encounter.
+
+12/3/25, 3:51 AM
+Encounter - Office Visit Date of service: 11/14/25 Patient: Robert Williams DOB: 01/01/1990 PRN: MR-DUMMY-000001
+
+https://static.practicefusion.com/apps/ehr/index.html#/PF/charts/patients/5bb925ec-9216-49af-a4a6-f50f4ad31f90/encounter/73579321-108d-4e7c-82f…
+5/5
+
+====page 5 end ====

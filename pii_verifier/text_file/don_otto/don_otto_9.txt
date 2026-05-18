@@ -1,0 +1,748 @@
+====page 1====
+
+# **[LOGO PLACEHOLDER: FLORIDA TRAFFIC CRASH REPORT / LONG FORM ☑ SHORT FORM ☐ UPDATE ☐ / (Electronic Version)]**
+*(Note: Logo likely appears in the header of the original document, e.g., top of page with clinic/hospital branding.)*
+
+FLORIDA TRAFFIC CRASH REPORT
+
+LONG FORM ☑ SHORT FORM ☐ UPDATE ☐
+
+(Electronic Version)
+
+HIGHWAY SAFETY &amp; MOTOR VEHICLES,
+
+TRAFFIC CRASH RECORDS
+
+NEIL KIRKMAN BUILDING, TALLAHASSEE, FL 32399-0537
+
+|  Date of Crash
+29/Apr/2025 09:46 PM | Time of Crash
+29/Apr/2025 09:46 PM | Date of Report
+29/Apr/2025 11:14 PM | Invest. Agency Report Number
+FHP25ON0201034 | HSMV Crash Report Number
+26431129  |
+| --- | --- | --- | --- | --- |
+
+CRASH IDENTIFIERS
+
+|  County Code
+07 | City Code
+46 | County of Crash
+ORANGE |   | Place or City of Crash
+Los Angeles | Within City Limits
+No | Time Reported
+29/Apr/2025
+09:51 PM | Time Dispatched
+29/Apr/2025
+09:51 PM  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  Time on Scene
+29/Apr/2025
+09:51 PM | Time Cleared Scene
+30/Apr/2025 12:58
+AM | Completed
+Yes | Reason (if Investigation NOT Completed) |   |   | Notified By
+Law Enforcement  |   |
+
+ROADWAY INFORMATION
+
+|  Crash Occurred On Street, Road, Highway
+STATE ROAD 91 |   |   |   |   |   | At Street Address# |   | At Latitude
+28.448679650166 | and Longitude
+-81.4196436160384  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  At Feet
+700 | Or Miles | Direction
+North | From Intersection With Street, Road, Highway
+MILE POST 257 |   |   |   |   |   | Or From Milepost #  |
+|  Road System Identifier
+6 Turnpike/Toll |   |   |   | Type Of Shoulder
+1 Paved |   |   | Type Of Intersection
+1 Not at Intersection  |   |   |
+
+CRASH INFORMATION (Check if Pictures Taken)
+
+|  light Condition
+4 Dark-Lighted |   | Weather Condition
+1 Clear |   | Roadway Surface Condition
+1 Dry |   | School Bus Related
+1 No |   |   | Manner Of Collision
+3 Angle  |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  First Harmful Event Type |   |   | First Harmful Event
+14 |   | First Harmful Event Location
+1 On Roadway |   | Within Interchange
+No |   | First Harmful Event Relation to Junction
+1 Non.Junction  |   |
+|  Contributing Circumstances: Road
+1 None |   |   |   | Contributing Circumstances: Road |   |   |   | Contributing Circumstances: Road  |   |   |
+|  Contributing Circumstances: Environment
+1 None |   |   |   | Contributing Circumstances: Environment |   |   |   | Contributing Circumstances: Environment  |   |   |
+|  Work Zone Related
+1 No | Crash In Work Zone |   |   |   | Type Of Work Zone |   |   | Workers In Work Zone |   | Law Enforcement In Work Zone  |
+
+VEHICLE (Check if Commercial) ☑
+
+| Vehicle
+2 | Motor Vehicle Type
+1 Vehicle in Transport | Hit and Run
+1 No | Veh License Number
+R647908 | State
+TX | Reg. Expires
+30/Jun/2025 | Permanent Reg.
+No | VIN
+4V4NC9EG4PN338848 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Year
+2023 | Make
+VOLVO | Model
+VNL | Style
+TR | Color
+BLU | Extent of Damage
+Disabling | Est. Damage
+30000 | Towed Due To Damage
+Yes | Vehicle Removed By
+AATR Los Angeles | Rotation
+Rotation |
+| Insurance Company
+UNITED STATES FIRE INS CO | Insurance Policy Number
+INS-DUMMY-111111 |
+| Name of Vehicle Owner (Check Box If Business)
+AAA COOPER TRANSPORTATION
+Current Address (Number and Street)
+311 WEST TRINITY BLVD
+City and State
+GRAND PRAIRIE TX
+Zip Code
+75050 |
+| Trailer
+One: | License Number
+493938T | State
+TN | Reg. Expires | Permanent Reg.
+Yes | VIN
+1GR1A5615SK721216 | Year
+2025 | Make
+OTHE | Length
+28 |
+| Trailer
+Two: | License Number | State | Reg. Expires | Permanent Reg. | VIN | Year | Make | Length |
+| Vehicle
+Traveling: | Direction
+North | On Street, Road, Highway
+STATE ROAD 91 | At Est. Speed
+60 | Posted Speed
+70 |
+| CMV Configuration
+2 | Cargo Body Type
+3 | Area of Initial Impact
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 | Most Damaged Area
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 |  |
+| Comm GVWR/GCWR
+3 More than 26,000 lbs (11,793 kg) | Trailer Type (trailer one)
+Single Semi Trailer | Trailer Type (trailer two) | 18. Undercarriage
+19. Overturn
+20. Windshield
+21. Trailer |
+| Haz. Mat. Release
+1 | Haz Mat. Placard
+1 | Number | Class |  |
+| Motor Carrier Name
+AAA COOPER TRANSPORTATION | US DOT Number
+9226100 |
+| Motor Carrier Address
+1751 KINSEY ROAD
+City and State
+DOTHAN AL
+Zip Code
+Phone Number
+36303 | 2ip Code
+36303 |
+| Comm/Non-Commercial
+1 | Vehicle Body Type
+20 Medium/Heavy Trucks
+(more than 10,000 lbs
+(4,536 kg)) | Vehicle Defects (one)
+1 None | Vehicle Defects (two) | Emergency Vehicle Use
+1 No |
+| Vehicle Maneuver Action
+1 Straight Ahead | Trafficway
+4 Two-Way, Divided,
+Positive Median Barrier | Roadway Grade
+1 Level | Roadway Alignment
+1 Straight | Most Harmful Event
+2 Collision with Non-Fixed
+Object | Most Harmful Event Detail
+14 Motor Vehicle in Transport |
+| Traffic Control Device For This Vehicle
+1 No Controls | First (1) Sequence of Events
+2 Collision with Non-Fixed
+Object
+14 Motor Vehicle in Transport | Second (2) Sequence of Events | Third (3) Sequence of Events | Fourth (4) Sequence of Events |(tbl-4.md)
+
+VEHICLE (Check if Commercial) ☑
+
+|  Vehicle
+1 | Motor Vehicle Type
+1 Vehicle in Transport |   |   | Hit and Run
+1 No |   | Veh License Number
+XE031R |   |   | State
+FL | Reg. Expires
+31/Aug/2025 | Permanent Reg.
+No | VIN
+1XKDD49X0FJ433029  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  Year
+2015 | Make
+KW | Model
+T8 | Style
+TR | Color
+BLK |   | Extent of Damage
+Disabling | Est. Damage
+20000 |   | Towed Due To Damage
+Yes |   | Vehicle Removed By
+UNKNOWN | Rotation
+Driver  |(tbl-5.md)
+
+HSMV 90010 S
+
+====page 1 end ====
+
+====page 2====
+
+Insurance Company
+SAFETY NATIONAL CASUALTY CORPORATION
+
+Insurance Policy Number
+INS-DUMMY-222222
+
+Name of Vehicle Owner (Check Box If Business)
+ACME BARRICADES LLC
+
+X
+Current Address (Number and Street)
+200 Sample Lane, City B, State 67890
+City and State
+New York FL
+Zip Code
+10001
+
+Trailer
+One:
+
+License Number
+GFD342
+
+State
+FL
+
+Reg. Expires
+06/30/2025
+00:00
+
+Permanent Reg.
+No
+
+VIN
+5JYDF5322KED14219
+
+Year
+2019
+
+Make
+DORS
+
+Length
+53
+
+Axles
+2
+
+Trailer
+Two:
+
+License Number
+State
+Reg. Expires
+Permanent Reg.
+VIN
+Year
+Make
+Length
+Axles
+
+Vehicle
+Traveling:
+
+Direction
+North
+
+On Street, Road, Highway
+STATE ROAD 91
+
+At Est. Speed
+45
+
+Posted Speed
+70
+
+Total Lanes
+8
+
+CMV Configuration
+2
+
+Cargo Body Type
+3
+
+Comm GVWR/GCWR
+3 More than 26,000 lbs (11,793 kg)
+
+Trailer Type (trailer one)
+Single Semi Trailer
+
+Trailer Type (trailer two)
+
+Haz. Mat. Release
+1
+
+Haz Mat. Placard
+1
+
+Number
+Class
+
+Motor Carrier Name
+ACME BARRICADES LC
+
+US DOT Number
+873915
+
+Area of Initial Impact
+Most Damaged Area
+
+Motor Carrier Address
+200 Sample Lane, City B, State 67890
+City and State
+New York FL
+Zip Code
+32221
+Phone Number
+
+Comm/Non-Commercial
+1
+
+Vehicle Body Type
+20 Medium/Heavy Trucks
+(more than 10,000 lbs
+(4,536 kg))
+
+Vehicle Defects (one)
+1 None
+
+Vehicle Defects (two)
+Emergency Vehicle Use
+1 No
+
+Speciual Function of MV
+1 No Special Function
+
+Vehicle Maneuver Action
+6 Changing Lanes
+
+Trafficway
+4 Two-Way, Divided,
+Positive Median Barrier
+
+Roadway Grade
+1 Level
+
+Roadway Alignment
+1 Straight
+
+Most Harmful Event
+2 Collision with Non-Fixed
+Object
+
+Most Harmful Event Detail
+14 Motor Vehicle in Transport
+
+Traffic Control Device For This Vehicle
+1 No Controls
+
+First (1) Sequence of Events
+2 Collision with Non-Fixed
+Object
+14 Motor Vehicle in Transport
+
+Second (2) Sequence of Events
+18 Other Non-Fixed Object
+
+Third (3) Sequence of Events
+Fourth (4) Sequence of Events
+
+PERSON RECORD
+
+Person#
+1
+
+Description
+1 Driver
+
+Vehicle #
+1
+
+Name
+Robert Williams
+
+Date of Birth
+01/01/1990
+
+Sex
+1 Male
+
+Phone Number555-000-0001
+
+Re-Exam
+No
+
+Address
+400 Placeholder Road, City D, State 22222
+
+City
+Los Angeles
+
+State
+FL
+
+Zip Code
+90001
+
+Driver License Number
+G225757680150
+
+State
+FL
+
+Expires
+15/Jan/2033
+
+DL Type
+1 A
+
+Req. End.
+3 No Req
+Endorsement
+
+Injury Severity
+2 Possible
+
+Ejection
+1 Not Ejected
+
+Restraint System
+3 Shoulder and Lap Belt
+Used
+
+Air Bag Deployed
+2 Not Deployed
+
+Helmet Use
+Eye Protection
+3 Not Applicable
+
+Seating Location Seat
+1 Left
+
+Seating Location Row
+1 Front
+
+Seating Location Other
+1 Not Applicable
+
+Drivers Actions at Time of Crash (first)
+25 Failed to Keep in Proper Lane
+
+Drivers Actions at Time of Crash (second)
+Driver Distracted By
+1 Not Distracted
+
+Vision Obstruction
+1 Vision Not Obscured
+
+Drivers Actions at Time of Crash (third)
+Drivers Actions at Time of Crash (fourth)
+Drivers Condition at Time of Crash
+1 Apparently Normal
+
+Suspected Alcohol Use
+1 No
+
+Alcohol Tested
+1 Test Not
+Given
+
+Alcohol Test Type
+Alcohol Test Result
+BAC
+Suspected Drug Use
+1 No
+
+Drug Tested
+1 Test Not Given
+
+Drug Test Type
+Drug Test Result
+
+Source of Transport to Medical Facility
+1 Not Transported
+
+EMS Agency Name or ID
+EMS Run Number
+Medical Facility Transported To
+
+PERSON RECORD
+
+Person#
+2
+
+Description
+1 Driver
+
+Vehicle #
+2
+
+Name
+Alice Johnson
+
+Date of Birth
+02/02/1991
+
+Sex
+1 Male
+
+Phone Number
+Re-Exam
+No
+
+Address
+300 Test Avenue, City C, State 11111
+
+City
+Los Angeles
+
+State
+FL
+
+Zip Code
+90001
+
+Driver License Number
+P653164683890
+
+State
+FL
+
+Expires
+29/Oct/2025
+
+DL Type
+1 A
+
+Req. End.
+3 No Req
+Endorsement
+
+Injury Severity
+2 Possible
+
+Ejection
+1 Not Ejected
+
+Restraint System
+3 Shoulder and Lap Belt
+Used
+
+Air Bag Deployed
+6
+Deployed-Combination
+
+Helmet Use
+Eye Protection
+3 Not Applicable
+
+Seating Location Seat
+1 Left
+
+Seating Location Row
+1 Front
+
+Seating Location Other
+1 Not Applicable
+
+Drivers Actions at Time of Crash (first)
+1 No Contributing Action
+
+Drivers Actions at Time of Crash (second)
+Driver Distracted By
+1 Not Distracted
+
+Vision Obstruction
+1 Vision Not Obscured
+
+Drivers Actions at Time of Crash (third)
+Drivers Actions at Time of Crash (fourth)
+Drivers Condition at Time of Crash
+1 Apparently Normal
+
+Suspected Alcohol Use
+1 No
+
+Alcohol Tested
+1 Test Not
+Given
+
+Alcohol Test Type
+Alcohol Test Result
+BAC
+Suspected Drug Use
+1 No
+
+Drug Tested
+1 Test Not Given
+
+Drug Test Type
+Drug Test Result
+
+Source of Transport to Medical Facility
+1 Not Transported
+
+EMS Agency Name or ID
+EMS Run Number
+Medical Facility Transported To
+
+VIOLATIONS
+
+Date of Crash
+29/Apr/2025 09:46 PM
+
+Date of Report
+29/Apr/2025 09:46 PM
+
+Invest. Agency Report Number
+FHP25ON0201034
+
+HSMV Crash Report Number
+26431129
+
+Page 2 of 4
+
+====page 2 end ====
+
+====page 3====
+
+Person#
+1
+
+Name
+Robert Williams
+
+Florida Statute Number
+316.085(2)
+
+Charge
+IMPROPER-CHANGE-OF-LANE/ PULLING OUT IN FRONT
+OF VEHICLE GOI
+
+Citation
+AKVQ6HE
+
+NON VEHICLE PROPERTY DAMAGE
+
+Vehicle# Person# Property Damage - Other Than Vehicle
+TRAFFIC BARRELS
+
+Est. Amount
+100
+
+Business
+Yes
+Owner's Name
+James Miller
+CONSTRUCTION
+
+Address
+100 Dummy Street, City A, State 12345
+
+City & State
+Chicago FL
+Zip Code
+60601
+
+NARRATIVE
+
+------------------------------------------------------------------------------------------------------------------------
+ID Number
+Rank
+Name
+Troop / Post Officer Agency
+Phone Number
+Date Created
+4795
+TPR
+Emma Davis
+K
+FLORIDA HIGHWAY PATROL555-000-0002
+Apr 29, 2025
+
+Vehicle one (V01) and Vehicle two (V02) were traveling north on State Road 91 north of Mile Post 257. V01 was traveling in the inside lane. V02 was traveling in the outside
+lane. The driver of V01 made a lane change from the inside lane to the outside lane into the path of V02. As a result, the front of V02 collided with the right rear area of the
+trailer attached to V01. V01 then continued onto the right shoulder where the front of V01 collided with traffic barrels. After collision, V01 came to final rest facing north on
+the right shoulder. V02 came to final rest facing west in lane 3.
+
+REPORTING OFFICER
+
+ID/Badge #
+4795
+
+Rank and Name
+TPR Emma Davis
+
+Department
+FHPK
+
+Type of Department
+FHP
+
+Date of Crash
+29/Apr/2025 09:46 PM
+
+Date of Report
+29/Apr/2025 09:46 PM
+
+Invest. Agency Report Number
+FHP25ON0201034
+
+HSMV Crash Report Number
+26431129
+
+Page 3 of 4
+
+====page 3 end ====
+
+====page 4====
+
+Date of Crash
+29/Apr/2025 09:46 PM
+
+Date of Report
+29/Apr/2025 09:46 PM
+
+Invest. Agency Report Number
+FHP25ON0201034
+
+HSMV Crash Report Number
+26431129
+
+Page 4 of 4
+
+====page 4 end ====

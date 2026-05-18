@@ -1,0 +1,53 @@
+====page 1====
+
+# Daily SOAP Note
+
+Alice Johnson CHIROPRACTIC
+100 Dummy Street, City A, State 12345
+New York, FL 10001555-000-0001
+200 Sample Lane, City B, State 67890
+
+Robert Williams DOB:01/01/1990 MR-DUMMY-000001 Tuesday, January 13, 2026
+
+## SUBJECTIVE:
+
+Mr. Robert Williams explained to me that he has been feeling worse since his last office visit. When asked to rate his problems, the patient gave his neck a 3, entire upper back a 4, entire mid back a 4, entire lower back a 4, right arm a 2, right knee a 2 and generalized headaches a 2 on a scale ofoto 10 withobeing nothing and 10 being the worst. The patient stated that his neck is sharp, stiff, a numbness, tingly and sharp with motion. The patient let me know that his problems are still aggravated when he does nothing since it is always there. The patient also said his symptoms are still improved when he rests.
+
+## OBJECTIVE:
+
+I performed an exam on Robert Williams (99211). Mr. Robert Williams's cervical range of motion showed decreased cervical flexion and extension. Observation of the patient's active range of motion revealed decreased lumbar flexion with pain, extension with pain, left rotation with pain, right rotation with pain, left lateral flexion with pain and right lateral flexion with pain. Spinal biomechanical joint dysfunction was noted over Mr. Robert Williams's C2, C3, C4, T1, T2, T3, L1, L2 and L3 vertebral segments. Extra spinal subluxations were found in the patient's: right inferior scapula. The patient had hypertonicity over the his neck, entire mid back, entire upper back and entire lower back. While palpating the patient, I found tender taut fibers over his neck, entire mid back, entire upper back, entire lower back and right shoulder musculature. Orthopedic testing revealed Shoulder depression test was positive bilaterally, Distraction test was positive, Foraminal compression test was positive and Kemp's test was positive bilaterally.
+
+## ASSESSMENT:
+
+The prognosis for the patient at this time is fair.
+
+Current Diagnosis:
+- S14.2XXA Injury of nerve root of cervical spine, initial encounter
+- S24.2XXA Injury of nerve root of thoracic spine, initial encounter
+- M99.07 Nonallopathic lesion of upper extremities (finding)
+- G44.209 Tension-type headache (disorder)
+- M99.06 Segmental and somatic dysfunction of Lower extremity (finding)
+- M51.26 Displacement of lumbar intervertebral disc without myelopathy (disorder)
+Onset: Saturday, May 17, 2025
+
+## PROCEDURE/PLAN:
+
+Ultrasound was used to increase the blood flow, decrease the muscle tonicity, and to decrease the discomfort on the patient's neck (97035). I applied electrical therapy to increase the patient's blood flow, decrease the tonicity, and decrease the discomfort with the milliamperes set to Mr. Robert Williams's tolerance level over his neck and right shoulder musculature (G0283). The Artho Stim Adjusting device was used over the following subluxations: C2, C3, C4, T1, T2, T3, L1, L2 and L3 (98941). An extremity adjustment was applied over the patient's right inferior scapula (98943). Mr. Robert Williams has been informed to return for his next recommended treatment on an as needed basis. Shockwave Therapy (0101T) was performed over the site of positive biological response.
+
+Shockwave Treatment is a medical procedure that involves the use of shock waves, which are high-energy acoustic waves, to treat certain medical conditions. With shockwave therapy, these shock waves are generated outside the body and then directed toward the targeted area within the body.
+
+Patient tolerated treatment well, and reported improvement following the treatment today.
+
+Dr. Alice Johnson
+
+====page 1 end ====
+
+====page 2====
+
+Robert Williams Tuesday, January 13, 2026 visit page 2
+NPI: 1497742993
+License: FL Lic.# CH7004
+
+Mr. Robert Williams has been informed to return for his next recommended treatment on an as needed basis. CPT codes: Established Patient 99211-25, CMT 3-4 Regions 98941, 98943 CMT Extremity, Electric Stim G0283 1 Unit and Ultrasound 97035 1 Units
+
+====page 2 end ====

@@ -1,0 +1,799 @@
+====page 1====
+
+REGIONAL COMMUNICATION CENTERS
+
+New York REGIONAL COMMUNICATIONS CENTER
+
+CALL HISTORY RECORD
+
+Printed By: 3MTT1
+
+Printed On: 05/03/2025 13:00:15
+
+|  DISPATCH TO LOCATION  |   |   |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  Address |   |   |   | Apt / Lot | Domicile Type  |   |   |   |
+|  FLORIDA'S TPKE NB (SR-91 NB)  |   |   |   |   |   |   |   |   |
+|  MM257  |   |   |   |   |   |   |   |   |
+|  Cross Street |   |   |   | City | Incorporated? | State | County | Zip Code  |
+|  MM257 |   |   | New York | No | FL | ORANGE | 10001 |   |
+|  Latitude | Longitude |   | National Grid  |   |   |   |   |   |
+|  28.44752 | -81.41890  |   |   |   |   |   |   |   |
+|  ZONE | TROOP | CVEREG | REGION | FHP | RCC | FWC |  | Wrecker  |
+|  K07 | K | J | NE | 6804 | LWRC | W48 |  | 68Z8  |
+|  LOCATION OF OCCURRENCE  |   |   |   |   |   |   |   |   |
+|  Address |   |   |   | Apt / Lot | Domicile Type  |   |   |   |
+|  FLORIDA'S TPKE NB (SR-91 NB)  |   |   |   |   |   |   |   |   |
+|  MM257  |   |   |   |   |   |   |   |   |
+|  Cross Street |   |   |   | City | Incorporated? | State | County | Zip Code  |
+|  MM257 |   |   | New York | No | FL | ORANGE | 10001 |   |
+|  Latitude | Longitude |   | National Grid  |   |   |   |   |   |
+|  28.44752 | -81.41890  |   |   |   |   |   |   |   |
+|  ZONE | TROOP | CVEREG | REGION | FHP | RCC | FWC |  | Wrecker  |
+|  K07 | K | J | NE | 6804 | LWRC | W48 |  | 68Z8  |
+|  Complaint Type / Call Nature |   |   | Priority | Additional Info |   | Weapon  |   |   |
+|  S4IR |   |   | 3 | FHP25ON0201034  |   |   |   |   |
+|  Complainant  |   |   |   |   |   |   |   |   |
+|  Phone Number Ext Contact 911 N  |   |   |   |   |   |   |   |   |
+|  Primary Unit | BackUp Units |   |   |   |   | Dispatcher | Disposition Codes  |   |
+|  1465 | 537 | 586 | 1090 | 1320 |  | APT1373 | (1) L (4)  |   |
+|  FHPK | FHPK | FHPK | FHPK | FHPK |  | Call Taker | (2) I6 (5)  |   |
+|   |  |  |  |  |  | APT1373 | (3) (6)  |   |
+|  Incident Number | CALL DATES & TIMES (Note: Individual Unit Times & Close/Code Times are listed after the Call Notes)  |   |   |   |   |   |   |   |
+|  RCC25IN0314354 | Received | Shipped |   | Dispatched | Enroute | Onscene | Closed  |   |
+|  Radio Channel | 04/29/2025 | 04/29/2025 |   | 04/29/2025 | 04/29/2025 | 04/29/2025 | 04/30/2025  |   |
+|   | 21:51:06 | 21:51:06 |   | 21:51:06 | 21:51:06 | 21:51:06 | 00:57:05  |   |
+|  CALL STATISTICS | Create Time |   | Hold Time |   | Rollout Time | Enroute Time | Onscene Time  |   |
+|   | 00:00:00 |   | 00:00:00 |   | 00:00:00 | 00:00:00 | 03:05:58  |   |
+|   |  |   | Dispatch Time |   | Response Time | Total Call Time  |   |   |
+|   |  |   | 00:00:00 |   | 00:00:00 | 03:05:59  |   |   |
+
+Report Number
+
+FHP25ON0201034
+
+CALL HISTORY RECORD
+
+REGIONAL COMMUNICATION CENTERS
+
+# New York REGIONAL CALL HISTORY RECORD
+
+DISPATCH TO LOCATION
+
+Address
+
+FLORIDA'S TPKE NB (SR-91 NB)
+
+# ANNUAL COMMUNICATIONS CENTER
+AND DRD
+
+Apt / Lot    Domicile Type
+
+Page 1 of 6
+Printed By: 3MTT1
+Printed On: 05/03/2025 13:00:15
+
+|   |   | Dispatcher
+APT1373
+
+Call Taker
+APT1373  |
+| --- | --- | --- |
+|  Individual Unit Times & Close/Code Times are listed after the C  |   |   |
+|  id | Dispatched | Enroute  |
+|  2025 | 04/29/2025 | 04/29/2025  |
+|  06 | 21:51:06 | 21:51:06  |
+
+CALL STATISTICS
+Create Time
+00:00:00
+
+Report Number
+FHP25ON0201034
+
+|  Hold Time | Rollout Time | Enroute Time  |
+| --- | --- | --- |
+|  00:00:00 | 00:00:00 | 00:00:00  |
+|  Dispatch Time |  | Response Time  |
+|  00:00:00 |  | 00:00:00  |
+
+|  Name | Onscene Time
+03:05:58  |
+| --- | --- |
+|  Time | Total Call Time
+03:05:59  |
+
+# CALL HISTORY RECORD
+
+Page 1 of 6
+
+====page 1 end ====
+
+====page 2====
+
+REGIONAL COMMUNICATION CENTERS
+
+New York REGIONAL COMMUNICATIONS CENTER
+
+CALL HISTORY RECORD
+
+Page 2 of 6
+
+Printed By:
+
+3MTT1
+
+Printed On:
+
+05/03/2025 13:00:15
+
+|  SUBJECT RECORD  |   |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  Date Added
+04/29/2025 | Time Added
+23:25:31 |   | Added By
+JJ4795 |   | Subject Type
+DRIVER 1  |   |   |
+|  Last Name
+Robert Williams | First Name
+RICHARD |   | Middle Name
+Robert Williams |   | Title (jr, sr, etc.)  |   |   |
+|  Race Sex DoB
+W M 01/01/1990 | Age
+57 |   | Hair | Eyes | Height
+510 | Weight
+0 |   |
+|  DL/ID Number
+G225757680150 | State
+FL |   |  |  |  |  |   |
+|  Description/Comments  |   |   |   |   |   |   |   |
+|  Activity | ☐ Drinking ☐ Drugs ☐ Weapon |   |   |   |   | Weapon Description  |   |
+|  Extent of Injuries | ☐ Seat Belt Required? ☐ Airbag Installed? ☐ Childseat Used?
+☐ Seat Belt Used? ☐ Airbag Deployed? |   | ☐ Childseat Used?
+☐ Childseat Required?  |   |   |   |   |
+|  Next of Kin  |   |   |   |   |   |   |   |
+|  Notified by:
+☐ Notified?
+☐ Allow Public Release of Information on this Subject?
+Approved for Release By:  |   |   |   |   |   |   |   |
+|  SUBJECT RECORD  |   |   |   |   |   |   |   |
+|  Date Added
+04/29/2025 | Time Added
+23:25:15 |   | Added By
+JJ4795 |   | Subject Type
+DRIVER 2  |   |   |
+|  Last Name
+Alice Johnson | First Name
+DON-OTTO |   | Middle Name
+Alice Johnson |   | Title (jr, sr, etc.)  |   |   |
+|  Race Sex DoB
+M 02/02/1991 | Age
+56 |   | Hair | Eyes | Height
+509 | Weight
+0 |   |
+|  DL/ID Number
+P653164683890 | State
+FL |   |  |  |  |  |   |
+|  Description/Comments  |   |   |   |   |   |   |   |
+|  Activity | ☐ Drinking ☐ Drugs ☐ Weapon |   |   |   |   | Weapon Description  |   |
+|  Extent of Injuries | ☐ Seat Belt Required? ☐ Airbag Installed? ☐ Childseat Used?
+☐ Seat Belt Used? ☐ Airbag Deployed? |   | ☐ Childseat Used?
+☐ Childseat Required?  |   |   |   |   |
+|  Next of Kin  |   |   |   |   |   |   |   |
+|  Notified by:
+☐ Notified?
+☐ Allow Public Release of Information on this Subject?
+Approved for Release By:  |   |   |   |   |   |   |   |
+
+CALL HISTORY RECORD
+
+REGIONAL COMMUNICATION CENTERS
+
+# New York REGIONAL CALL HISTORY RECORD
+
+SUBJECT RECORD
+
+|  Date Added | Time Added | Added  |
+| --- | --- | --- |
+|  04/09/2005 | 03:05:31 | 11479  |
+
+# ANNUAL COMMUNICATIONS CENTER
+## DROD
+
+17 By
+2015
+
+Subject Type
+PRINTED 1
+
+|  1995 | DRIVER 1  |
+| --- | --- |
+|  Tille Name | Title (jr, sr, etc.)  |
+|  VEN |   |
+|  Height | Weight  |
+|  510 | 0  |
+
+Season Description
+
+☐ Weapon
+
+Extent of Injuries
+
+☐ Seat Belt Required?
+☐ Seat Belt Used?
+
+Next of Kin
+
+Notified by:
+☐ Notified?
+☐ Allow Public Release of Information on this Subject?
+
+☐ Airbag Installed?
+☐ Airbag Deployed?
+
+☐ Childseat Used?
+☐ Childseat Required?
+
+Approved for Release By:
+
+# SUBJECT RECORD
+
+|  Date Added
+04/29/2025 | Time Added
+23:25:15 | Added
+JJ479  |
+| --- | --- | --- |
+|  Last Name
+Alice Johnson | First Name
+DON-OTTO | Middle
+DOM  |
+|  Race
+Sex
+M | Age
+56 | Hair
+Eyes  |
+|  DL/ID Number
+P653164683890 | State
+FL |   |
+|  Description/Comments  |   |   |
+
+|  1/2 By | Subject Type  |
+| --- | --- |
+|  05 | DRIVER 2  |
+|  Alle Name | Title (jr, sr, etc.)  |
+|  INIQUE |   |
+|  Height | Weight  |
+|  509 | 0  |
+
+|  Activity | ☐ Drinking | ☐ Drug  |
+| --- | --- | --- |
+|  Extent of Injuries | ☐ Seat Belt Required? |   |
+|   | ☐ Seat Belt Used? |   |
+|  Next of Kin |  |   |
+|  Notified by:  |   |   |
+|  ☐ Notified? |  |   |
+|  ☐ Allow Public Release of Information on this Subject? |  |   |
+
+# Weapon Description
+
+☐ Airbag Installed? ☐ Childseat Used?
+☐ Airbag Deployed? ☐ Childseat Required?
+
+Approved for Release By:
+
+# CALL HISTORY RECORD
+
+Page 2 of 6
+
+====page 2 end ====
+
+====page 3====
+
+REGIONAL COMMUNICATION CENTERS
+
+New York REGIONAL COMMUNICATIONS CENTER
+
+CALL HISTORY RECORD
+
+Page 3 of 6
+
+Printed By:
+
+3MTT1
+
+Printed On:
+
+05/03/2025 13:00:15
+
+VEHICLE RECORD
+
+|  Date Added
+04/30/2025 | Time Added
+00:34:27 | Added By
+JJ4795  |
+| --- | --- | --- |
+|  State
+FL | Tag Number
+GFD342 | Tag Year
+2025
+Description
+V01 TRAILER MOA  |
+|  VIN
+5JYDF5322KED14219 | Year
+2019 | Make
+DORS
+Model
+Color
+BLK  |
+|  Vehicle Type | Vehicle Activity | Crash Type  |
+
+☐ Towed?
+☐ Rotation?
+☐ Requested?
+☐ Other Tow Type
+Description of Other Tow Type
+
+☐ Abandoned?
+☐ Cleared?
+
+Abandoned On Date/Time:
+Removal Due On Date/Time:
+
+VEHICLE RECORD
+
+|  Date Added
+04/29/2025 | Time Added
+23:26:37 | Added By
+JJ4795  |
+| --- | --- | --- |
+|  State
+FL | Tag Number
+XE031R | Tag Year
+2025
+Description
+V01 MOA  |
+|  VIN
+1XKDD49X0FJ433029 | Year
+2015 | Make
+KW
+Model
+Color
+BLK  |
+|  Vehicle Type | Vehicle Activity | Crash Type  |
+
+☐ Towed?
+☐ Rotation?
+☐ Requested?
+☐ Other Tow Type
+Description of Other Tow Type
+
+☐ Abandoned?
+☐ Cleared?
+
+Abandoned On Date/Time:
+Removal Due On Date/Time:
+
+CALL HISTORY RECORD
+
+Page 3 of 6
+
+REGIONAL COMMUNICATION CENTERS
+
+# New York REGIONAL CALL HISTORY RECORD
+
+VEHICLE RECORD
+
+Date Added
+
+Time Added
+
+Added
+
+# ANNUAL COMMUNICATIONS CENTER
+ON DROD
+
+11/11/2011 By
+
+☐ Towed?
+☐ Rotation?
+☐ Requested?
+☐ Abandoned?
+☐ Cleared?
+Abandoned On Date
+
+VEHICLE RECORD
+
+Description of Other Tow Type
+
+/Other Tow Type
+
+/e/Time:
+
+Removal Due On Date/Time:
+
+|  Date Added
+04/29/2025 | Time Added
+23:26:37 | Added
+JJ479  |
+| --- | --- | --- |
+|  State
+FL | Tag Number
+XE031R | Tag Year
+2025  |
+|  VIN
+1XKDD49X0FJ433029 |  | Year
+2015  |
+|  Vehicle Type |  | Vehicle Activity  |
+
+144 By
+95
+
+Description
+V01 MOA
+
+|  Make | Model | Color  |
+| --- | --- | --- |
+|   | Crash Type | BLK  |
+
+☐ Towed?
+☐ Rotation?
+☐ Requested?
+☐ Abandoned?
+☐ Cleared?
+☐ Abandoned On Date
+
+Description of Other Tow Type
+
+e/Time:
+
+Removal Due On Date/Time:
+
+# CALL HISTORY RECORD
+
+Page 3 of 6
+
+====page 3 end ====
+
+====page 4====
+
+REGIONAL COMMUNICATION CENTERS
+
+New York REGIONAL COMMUNICATIONS CENTER
+
+CALL HISTORY RECORD
+
+Page 4 of 6
+
+Printed By:
+
+3MTT1
+
+Printed On:
+
+05/03/2025 13:00:16
+
+VEHICLE RECORD
+
+|  Date Added
+04/30/2025 | Time Added
+00:39:06 | Added By
+JJ4795  |
+| --- | --- | --- |
+|  State
+TN | Tag Number
+091466T | Tag Year
+25
+Description
+V02 TRAILER 2  |
+|  VIN
+1GR1A5616MK312788 | Year
+2021 | Make
+Model
+Color
+WHI  |
+|  Vehicle Type | Vehicle Activity | Crash Type  |
+
+☐ Towed?
+☐ Rotation?
+☐ Requested?
+☐ Other Tow Type
+
+☐ Abandoned?
+☐ Cleared?
+
+Description of Other Tow Type
+
+Abandoned On Date/Time:
+Removal Due On Date/Time:
+
+VEHICLE RECORD
+
+|  Date Added
+04/30/2025 | Time Added
+00:36:34 | Added By
+JJ4795  |
+| --- | --- | --- |
+|  State
+TN | Tag Number
+493938T | Tag Year
+2025
+Description
+V02 TRAILER 1  |
+|  VIN
+1GR1A5615SK721216 | Year
+2025 | Make
+Model
+Color
+WHI  |
+|  Vehicle Type | Vehicle Activity | Crash Type  |
+
+☐ Towed?
+☐ Rotation?
+☐ Requested?
+☐ Other Tow Type
+
+☐ Abandoned?
+☐ Cleared?
+
+Description of Other Tow Type
+
+Abandoned On Date/Time:
+Removal Due On Date/Time:
+
+CALL HISTORY RECORD
+
+Page 4 of 6
+
+REGIONAL COMMUNICATION CENTERS
+
+# New York REGIONAL CALL HISTORY RECORD
+
+VEHICLE RECORD
+
+Date Added
+
+Time Added
+
+Added
+
+# ANNUAL COMMUNICATIONS CENTER
+ON DROD
+
+11/11/2011 By
+
+Page 4 of 6
+Printed By: 3MTT1
+Printed On: 05/03/2025 13:00:16
+
+☐ Towed?
+☐ Rotation?
+☐ Requested?
+☐ Abandoned?
+☐ Cleared?
+Abandoned On Date
+
+VEHICLE RECORD
+
+☐ Towed?
+☐ Rotation?
+☐ Requested?
+☐ Abandoned?
+☐ Cleared?
+☐ Abandoned On Date
+
+====page 4 end ====
+
+====page 5====
+
+ORLEANS COMMUNICATION CENTER
+
+New York REGIONAL COMMUNICATIONS CENTER
+
+CALL HISTORY RECORD
+
+Page 5 of 6
+
+Printed By:
+
+3MTT1
+
+Printed On:
+
+05/03/2025 13:00:16
+
+VEHICLE RECORD
+
+|  Date Added
+04/29/2025 | Time Added
+23:28:08 | Added By
+JJ4795 |  |   |
+| --- | --- | --- | --- | --- |
+|  State
+TX | Tag Number
+R647908 | Tag Year
+25 | Description
+V02 |   |
+|  VIN
+4V4NC9EG4PN338848 |  | Year
+2023 | Make
+VOLVO | Model
+Color
+BLU  |
+|  Vehicle Type |  | Vehicle Activity | Crash Type |   |
+|  ☐Towed? | ☐Rotation? | ☐Requested? | ☐Other Tow Type | Description of Other Tow Type  |
+|  ☐Abandoned? | ☐Cleared? | Abandoned On Date/Time: | Removal Due On Date/Time: |   |
+
+CALL NOTES
+
+|  Added By | Date | Time | CallNo | Note  |
+| --- | --- | --- | --- | --- |
+|  APT1373 | 04/29/2025 | 21:51:07 |  | OFFENSE NUMBER [FHP250N0201034] AUTOMATICALLY GENERATED FOR CALLNO [ 537] IN AGENCY [ FHPK]  |
+|  APT1373 | 04/29/2025 | 21:51:18 |  | JACK KNIFE TRACTOR TRAILER  |
+|  APT1373 | 04/29/2025 | 21:51:24 |  | BLOCKING ALL THREE LANES  |
+|  4WLT1 | 04/29/2025 | 21:53:10 |  | CALL STATUS CHANGED FROM [BLANK] TO X39 TMC.  |
+|  APT1373 | 04/29/2025 | 21:53:40 | 537 | NEED X71  |
+|  APT1373 | 04/29/2025 | 21:55:03 | 537 | DRVR WAS ENTRAPPED NEED X71  |
+|  APT1373 | 04/29/2025 | 21:55:29 | 537 | ACTIVATE RISC  |
+|  APT1373 | 04/29/2025 | 21:55:41 | 537 | ONE FLATBED / CARRYING A 7-8 CONCRETE BARRIER WALL  |
+|  APT1373 | 04/29/2025 | 21:56:09 | 537 | TANDEM TRACTOR TRAILER / DOES NEED X71 NOT LIFE THREATENING  |
+|  4WLT1 | 04/29/2025 | 21:56:40 |  | CALL STATUS CHANGED FROM X39 TMC TO CCTV 257.0.  |
+|  APT1373 | 04/29/2025 | 21:57:41 |  | X39 TO TMC SCOTT REF RISC HE IS X48  |
+|  APT1373 | 04/29/2025 | 21:59:32 | 537 | RISC / ONE OF THE TRAILER 25,000 FURNITURE AND 30,000 FURNITURE  |
+|  APT1373 | 04/29/2025 | 21:59:44 |  | OLD@WEB ALL NORTHBOUND LANES BLOCKED, USE CAUTION  |
+|  APT1373 | 04/29/2025 | 22:18:21 | 537 | CONSTRUCTION CREW WAS ABLE TO MOVE THE CONSTRUCTION BARRIERS / WE HAVE ONE LANE OPEN  |
+|  LLT1891 | 04/29/2025 | 22:19:30 |  | LINK CREATED BETWEEN INCIDENT [RCC25IN0314354] AND INCIDENT [ RCC25IN0314361]  |
+|  APT1373 | 04/29/2025 | 22:28:33 |  | RISC - AART - 45 MINUTE ETA / MOT AND X70 SHOULD ALREADY BE ONSCENE  |
+|  JCT1380 | 04/29/2025 | 22:28:59 |  | CALL STATUS CHANGED FROM CCTV 257.0 TO RISC.  |
+|  JCT1380 | 04/29/2025 | 22:39:56 |  | X39 259/TWS (ON-CALL) VIA CELL  |
+|  JCT1380 | 04/29/2025 | 23:24:24 | 1465 | NTP GIVEN @ 2322  |
+|  LLT1891 | 04/29/2025 | 23:29:29 |  | STATE WATCH NOTIFIED  |
+|  LLT1891 | 04/30/2025 | 00:17:32 | 1465 | S14 AT THIS TIME WERE OPENING A SECOND LANE ON THE LEFT  |
+|  JCT1380 | 04/30/2025 | 00:30:57 | 1465 | ADV ALL LANES OPEN  |
+|  JCT1380 | 04/30/2025 | 00:31:00 |  | @WEB NO ROADBLOCK  |
+|  JCT1380 | 04/30/2025 | 00:31:18 |  | X39 SWO REF RDWY BACK OPEN  |
+|  JCT1380 | 04/30/2025 | 00:56:52 | 1465 | AATR IS GOING TO CONT TO LOAD UP ON THE R/S  |
+|  JCT1380 | 04/30/2025 | 00:56:57 | 1465 | X98 LONG FORM I6  |
+
+CALL HISTORY RECORD
+
+# ANNUAL COMMUNICATIONS CENTER
+ON DROD
+
+11/11/2011 By
+
+Page 5 of 6
+
+Printed By:
+3MTT1
+
+Printed On:
+05/03/2025 13:00:16
+
+☐ Towed?
+☐ Rotation?
+☐ Requested?
+☐ Abandoned?
+☐ Cleared?
+Abandoned On Date
+
+CALL NOTES
+
+REPORTED FOR CALLNO [ 537 ]
+
+ALL
+
+OTHERATENING
+
+ALL STATUS CHANGED FROM X39 TMC TO CCTV 257.0.
+
+9 TO TMC SCOTT REF RISC HE IS X48
+
+RISC / ONE OF THE TRAILER 25,000 FURNITURE AND 3
+
+AD@WEB ALL NORTHBOUND LANES BLOCKED, USE CAUTION
+
+CONSTRUCTION CREW WAS ABLE TO MOVE THE CONSTRUCT
+
+ANE OPEN
+
+ANK CREATED BETWEEN INCIDENT [RCC25IN0314354] A
+
+RCC25IN0314361]
+
+SC - AART - 45 MINUTE ETA / MOT AND X70 SHOULD A
+
+ALL STATUS CHANGED FROM CCTV 257.0 TO RISC.
+
+9 259/TWS (ON-CALL) VIA CELL
+
+RTP GIVEN @ 2322
+
+STATE WATCH NOTIFIED
+14 AT THIS TIME WERE OPENING A SECOND LANE ON T
+ADV ALL LANES OPEN
+VEB NO ROADBLOCK
+9 SWO REF RDWY BACK OPEN
+LATR IS GOING TO CONT TO LOAD UP ON THE R/S
+198 LONG FORM 16
+
+====page 5 end ====
+
+====page 6====
+
+ORLEANS CARDINAL COMMUNICATIONS CENTER
+
+CALL HISTORY RECORD
+
+Page 6 of 6
+
+Printed By:
+
+3MTT1
+
+Printed On:
+
+05/03/2025 13:00:16
+
+UNIT/CALL TIMES
+
+|  DATE | TIME | CALLNO | AGENCY | DESCRPT | DISPATCHER | MILEAGE  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  04/29/2025 | 21:51:06 | 537 | FHPK | REPORTING | Emma Davis | 0  |
+|  04/29/2025 | 21:51:06 | 537 | FHPK | ONSCENE | Emma Davis | 0  |
+|  04/29/2025 | 21:53:44 | 1090 | FHPK | ONSCENE | Emma Davis | 0  |
+|  04/29/2025 | 21:56:41 | 586 | FHPK | ENROUTE | Emma Davis | 0  |
+|  04/29/2025 | 22:00:18 | 1465 | FHPK | ENROUTE | Emma Davis | 0  |
+|  04/29/2025 | 22:01:23 | 586 | FHPK | CANCELLED | Emma Davis | 0  |
+|  04/29/2025 | 22:02:41 | 1320 | FHPK | ONSCENE | Benjamin Moore | 0  |
+|  04/29/2025 | 22:23:10 | 1320 | FHPK | REMOVED | Emma Davis | 0  |
+|  04/29/2025 | 22:24:39 | 1465 | FHPK | ONSCENE | Sophia Taylor | 0  |
+|  04/29/2025 | 22:31:31 | 537 | FHPK | REMOVED | Olivia Wilson | 0  |
+|  04/29/2025 | 22:31:34 | 1465 | FHPK | REPORTING | Olivia Wilson | 0  |
+|  04/29/2025 | 22:35:44 | 1090 | FHPK | REMOVED | Lucas Anderson | 0  |
+|  04/30/2025 | 00:57:05 |  |  | CLOSED | Olivia Wilson |   |
+|  04/30/2025 | 00:57:05 |  |  | CODED | Olivia Wilson |   |
+
+Complaint History
+
+|  Date/Time | Complaint | Priority | Complaint Addinfo | Status | Law | Fire | EMS | Weapon  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  04/29/2025 21:51:06 | S4IR | 3 |  |  | ☑ | ☑ | ☐ |   |
+
+END OF CALL HISTORY RECORD
+
+CALL HISTORY RECORD
+
+Page 6 of 6
+
+REGIONAL COMMUNICATION CENTERS
+
+ORLANDO REGIONAL CREDIT CENTER
+
+CALL HISTORY RECORD
+
+UNIT / CALL TIMES
+
+|  DATE | TIME | CALLNO  |
+| --- | --- | --- |
+|  04/29/2025 | 21:51:06 | 537  |
+
+Page 6 of 6
+Printed By: 3MTT1
+Printed On: 05/03/2025 13:00:16
+
+MILEAGE
+0
+
+|  FHPK | REPORTING | Emma Davis  |
+| --- | --- | --- |
+|  FHPK | ONSCENE | Emma Davis  |
+|  FHPK | ONSCENE | Emma Davis  |
+|  FHPK | ENROUTE | Emma Davis  |
+|  FHPK | ENROUTE | Emma Davis  |
+|  FHPK | CANCELLED | Emma Davis  |
+|  FHPK | ONSCENE | Benjamin Moore  |
+|  FHPK | REMOVED | Emma Davis  |
+|  FHPK | ONSCENE | Sophia Taylor  |
+|  FHPK | REMOVED | Olivia Wilson  |
+
+====page 6 end ====
